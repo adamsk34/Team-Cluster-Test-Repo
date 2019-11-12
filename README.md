@@ -3,16 +3,19 @@
 
 Simple repo for collecting twitter data
 
-## dependencies
+## Dependencies
 * npm
 * node
 
-## install node modules
+## Install node modules
 ```
 npm install
 ```
 
-## run
+## Setup
+Rename the file [config-example.json](./config-example.json) to "config.json". Fill in all the keys with what I posted in the #general slack channel 
+
+## Run
 Output to terminal
 ```
 node index.js

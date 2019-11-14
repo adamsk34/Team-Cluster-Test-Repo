@@ -4,7 +4,7 @@ var config = require("./config.json");
 var T = new Twit(config);
 
 var params = {
-    q: "Labour Party OR Conservative Party OR Liberal Democrat Party OR Brexit Party",
+    q: "Labour Party OR Conservative Party OR Liberal Democrats OR Brexit Party",
     // party
     // party leader
     count: 100,

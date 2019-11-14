@@ -4,11 +4,13 @@ var config = require("./config.json");
 var T = new Twit(config);
 
 var params = {
-    q: "Justin Trudeau",
-    count: 100
+    q: "Labour Party OR Conservative Party OR Liberal Democrat Party OR Brexit Party",
+    // party
+    // party leader
+    count: 100,
+    geocode: [51.0, 0.0, "50mi"]
 }
 
-// gets latest 100 tweets returned by searching "Justin Trudeau"
 T.get("search/tweets", params, gotData);
 
 function gotData (err, data, response) {

@@ -1,0 +1,633 @@
+{
+  "statuses": [
+    {
+      "created_at": "Wed Nov 13 22:30:43 +0000 2019",
+      "id": 1194744429518762000,
+      "id_str": "1194744429518761986",
+      "text": "@BelTel @JamieBrysonCPNI \"...the Labour Party is so anti-democratic in Northern Ireland that they allow people to j… https://t.co/99RUtaRwdU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BelTel",
+            "name": "Belfast Telegraph",
+            "id": 20687723,
+            "id_str": "20687723",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "JamieBrysonCPNI",
+            "name": "Jamie Bryson",
+            "id": 240214426,
+            "id_str": "240214426",
+            "indices": [
+              8,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/99RUtaRwdU",
+            "expanded_url": "https://twitter.com/i/web/status/1194744429518761986",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1194726166629900300,
+      "in_reply_to_status_id_str": "1194726166629900294",
+      "in_reply_to_user_id": 20687723,
+      "in_reply_to_user_id_str": "20687723",
+      "in_reply_to_screen_name": "BelTel",
+      "user": {
+        "id": 1911982765,
+        "id_str": "1911982765",
+        "name": "CregganDerry",
+        "screen_name": "CregganDerry",
+        "location": "Derry",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2673,
+        "friends_count": 1275,
+        "listed_count": 14,
+        "created_at": "Fri Sep 27 18:41:23 +0000 2013",
+        "favourites_count": 36681,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 47801,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/887271508715991042/W5wvBHNs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/887271508715991042/W5wvBHNs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911982765/1546090414",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 12 10:09:24 +0000 2019",
+      "id": 1194195483453001700,
+      "id_str": "1194195483453001730",
+      "text": "discontented labour leavers need to vote brexit party  don't vote for a Tory government  it's an insult to all labo… https://t.co/YE7HTS2ZTH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YE7HTS2ZTH",
+            "expanded_url": "https://twitter.com/i/web/status/1194195483453001730",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 113961390,
+        "id_str": "113961390",
+        "name": "paul mcdevitt",
+        "screen_name": "arthereanynames",
+        "location": "Derry",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sat Feb 13 16:26:35 +0000 2010",
+        "favourites_count": 31,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2181,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 07 17:32:13 +0000 2019",
+      "id": 1192494981409316900,
+      "id_str": "1192494981409316866",
+      "text": "RT @billingtoni: @liamyoung “The former chair of the Conservative Party in Yorkshire’s second most marginal constituency [Pudsey] today urg…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "billingtoni",
+            "name": "freddy billington",
+            "id": 20146215,
+            "id_str": "20146215",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "liamyoung",
+            "name": "Liam Young",
+            "id": 170291358,
+            "id_str": "170291358",
+            "indices": [
+              17,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 540321145,
+        "id_str": "540321145",
+        "name": "Liz Rhodes",
+        "screen_name": "lizrhodese",
+        "location": "",
+        "description": "proud nhs worker, labour party member and humanist. Retweets are not necessarily endorsements, but they may be!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 138,
+        "friends_count": 349,
+        "listed_count": 0,
+        "created_at": "Thu Mar 29 22:16:53 +0000 2012",
+        "favourites_count": 4619,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5462,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/898648029754003456/kUeX5pCW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/898648029754003456/kUeX5pCW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 07 10:44:39 +0000 2019",
+        "id": 1192392411319820300,
+        "id_str": "1192392411319820290",
+        "text": "@liamyoung “The former chair of the Conservative Party in Yorkshire’s second most marginal constituency [Pudsey] to… https://t.co/TpopT0hJfO",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "liamyoung",
+              "name": "Liam Young",
+              "id": 170291358,
+              "id_str": "170291358",
+              "indices": [
+                0,
+                10
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/TpopT0hJfO",
+              "expanded_url": "https://twitter.com/i/web/status/1192392411319820290",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1192349723690258400,
+        "in_reply_to_status_id_str": "1192349723690258432",
+        "in_reply_to_user_id": 170291358,
+        "in_reply_to_user_id_str": "170291358",
+        "in_reply_to_screen_name": "liamyoung",
+        "user": {
+          "id": 20146215,
+          "id_str": "20146215",
+          "name": "freddy billington",
+          "screen_name": "billingtoni",
+          "location": "Derry, N Ireland",
+          "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 576,
+          "friends_count": 323,
+          "listed_count": 2,
+          "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+          "favourites_count": 14831,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 29929,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 07 10:44:39 +0000 2019",
+      "id": 1192392411319820300,
+      "id_str": "1192392411319820290",
+      "text": "@liamyoung “The former chair of the Conservative Party in Yorkshire’s second most marginal constituency [Pudsey] to… https://t.co/TpopT0hJfO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "liamyoung",
+            "name": "Liam Young",
+            "id": 170291358,
+            "id_str": "170291358",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TpopT0hJfO",
+            "expanded_url": "https://twitter.com/i/web/status/1192392411319820290",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1192349723690258400,
+      "in_reply_to_status_id_str": "1192349723690258432",
+      "in_reply_to_user_id": 170291358,
+      "in_reply_to_user_id_str": "170291358",
+      "in_reply_to_screen_name": "liamyoung",
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14831,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29929,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 07 09:55:13 +0000 2019",
+      "id": 1192379973774061600,
+      "id_str": "1192379973774061575",
+      "text": "@Antonineone1 @KayBurley “The former chair of the Conservative Party in Yorkshire’s second most marginal constituen… https://t.co/3fcLxmBIEL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Antonineone1",
+            "name": "Pauline Lane",
+            "id": 3632005221,
+            "id_str": "3632005221",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "KayBurley",
+            "name": "Kay Burley",
+            "id": 1299769218,
+            "id_str": "1299769218",
+            "indices": [
+              14,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3fcLxmBIEL",
+            "expanded_url": "https://twitter.com/i/web/status/1192379973774061575",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1192358781570736000,
+      "in_reply_to_status_id_str": "1192358781570736128",
+      "in_reply_to_user_id": 3632005221,
+      "in_reply_to_user_id_str": "3632005221",
+      "in_reply_to_screen_name": "Antonineone1",
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14831,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29929,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.039,
+    "max_id": 1194744429518762000,
+    "max_id_str": "1194744429518761986",
+    "next_results": "?max_id=1192379973774061574&q=Labour%20Party%20OR%20Conservative%20Party%20OR%20Liberal%20Democrats%20OR%20Brexit%20Party&geocode=54.9958%2C-7.3074%2C4.545454545mi&count=100&include_entities=1",
+    "query": "Labour+Party+OR+Conservative+Party+OR+Liberal+Democrats+OR+Brexit+Party",
+    "refresh_url": "?since_id=1194744429518761986&q=Labour%20Party%20OR%20Conservative%20Party%20OR%20Liberal%20Democrats%20OR%20Brexit%20Party&geocode=54.9958%2C-7.3074%2C4.545454545mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

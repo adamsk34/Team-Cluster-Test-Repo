@@ -1,0 +1,900 @@
+{
+  "statuses": [
+    {
+      "created_at": "Thu Nov 14 23:00:02 +0000 2019",
+      "id": 1195114191297949700,
+      "id_str": "1195114191297949696",
+      "text": "Nigel Farage is a Jeremy Corbyn enabler, a vote for the #brexitparty is a vote for Jeremy @jo_marney",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "brexitparty",
+            "indices": [
+              56,
+              68
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Jo_Marney",
+            "name": "Jo Marney",
+            "id": 430090745,
+            "id_str": "430090745",
+            "indices": [
+              90,
+              100
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.google.com\" rel=\"nofollow\">Falmer Stadium 2027</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 993147985432383500,
+        "id_str": "993147985432383489",
+        "name": "Bill Archer",
+        "screen_name": "BillArcherBHAFC",
+        "location": "Bootle, England",
+        "description": "I sold the goldstone ground for 2 million in 1998, but, due to inflation I want some more",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 50,
+        "listed_count": 2,
+        "created_at": "Sun May 06 15:18:26 +0000 2018",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993150098652712961/vxNFgSSR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993150098652712961/vxNFgSSR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993147985432383489/1525620327",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 19:41:33 +0000 2019",
+      "id": 1195064242858164200,
+      "id_str": "1195064242858164224",
+      "text": "Nigel Farage's one man alliance has already fallen apart https://t.co/TsKMwBTjsL https://t.co/fM3pmPcJ71",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TsKMwBTjsL",
+            "expanded_url": "http://dlvr.it/RJHxCf",
+            "display_url": "dlvr.it/RJHxCf",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1195064240530264000,
+            "id_str": "1195064240530264064",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJW4mFSUEAAAhLE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJW4mFSUEAAAhLE.jpg",
+            "url": "https://t.co/fM3pmPcJ71",
+            "display_url": "pic.twitter.com/fM3pmPcJ71",
+            "expanded_url": "https://twitter.com/PoliDigitalUK/status/1195064242858164224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 829,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1415,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 470,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1195064240530264000,
+            "id_str": "1195064240530264064",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJW4mFSUEAAAhLE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJW4mFSUEAAAhLE.jpg",
+            "url": "https://t.co/fM3pmPcJ71",
+            "display_url": "pic.twitter.com/fM3pmPcJ71",
+            "expanded_url": "https://twitter.com/PoliDigitalUK/status/1195064242858164224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 829,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1415,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 470,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 849590740246290400,
+        "id_str": "849590740246290433",
+        "name": "Politico Digital UK",
+        "screen_name": "PoliDigitalUK",
+        "location": "Chester, England",
+        "description": "Brand New -UK Politics News and Views in this digital world",
+        "url": "https://t.co/VnRV7Z43o2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/VnRV7Z43o2",
+                "expanded_url": "http://www.politicodigital.co.uk",
+                "display_url": "politicodigital.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 311,
+        "friends_count": 490,
+        "listed_count": 13,
+        "created_at": "Wed Apr 05 11:53:11 +0000 2017",
+        "favourites_count": 882,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57168,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850445922689576961/DDbAPCX4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850445922689576961/DDbAPCX4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849590740246290433/1491596522",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 12 21:25:05 +0000 2019",
+      "id": 1194365523254866000,
+      "id_str": "1194365523254865920",
+      "text": "Corbyn is doing a Marxist word-yawn in Blackpool, Boris is stealing Theresa May's lines and the Lib Dems have a rid… https://t.co/mkDeUXP7KD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mkDeUXP7KD",
+            "expanded_url": "https://twitter.com/i/web/status/1194365523254865920",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 849590740246290400,
+        "id_str": "849590740246290433",
+        "name": "Politico Digital UK",
+        "screen_name": "PoliDigitalUK",
+        "location": "Chester, England",
+        "description": "Brand New -UK Politics News and Views in this digital world",
+        "url": "https://t.co/VnRV7Z43o2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/VnRV7Z43o2",
+                "expanded_url": "http://www.politicodigital.co.uk",
+                "display_url": "politicodigital.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 311,
+        "friends_count": 490,
+        "listed_count": 13,
+        "created_at": "Wed Apr 05 11:53:11 +0000 2017",
+        "favourites_count": 882,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57168,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850445922689576961/DDbAPCX4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850445922689576961/DDbAPCX4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849590740246290433/1491596522",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 12 14:50:41 +0000 2019",
+      "id": 1194266268062363600,
+      "id_str": "1194266268062363654",
+      "text": "RT @dallo100: Jeremy Corbyn:\n\n“I think what we have before us is an alliance between Donald Trump and Nigel Farage and Boris Johnson. We kn…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dallo100",
+            "name": "Dallo #BDS 🇵🇸 #StandWithChrisWilliamson",
+            "id": 29095201,
+            "id_str": "29095201",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1935079483,
+        "id_str": "1935079483",
+        "name": "Paul smith",
+        "screen_name": "paul_smudga",
+        "location": "",
+        "description": "handout to rich is called \"incentive\" but incentive to poor is called a \"handout\". Oh & boycott bias BBC https://t.co/daQBSaP68n",
+        "url": "https://t.co/XbvPfGFOUh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XbvPfGFOUh",
+                "expanded_url": "https://www.gov.uk/register-to-vote",
+                "display_url": "gov.uk/register-to-vo…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/daQBSaP68n",
+                "expanded_url": "https://www.moneysavingexpert.com/utilities/tv-licence/",
+                "display_url": "moneysavingexpert.com/utilities/tv-l…",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1224,
+        "friends_count": 1616,
+        "listed_count": 24,
+        "created_at": "Fri Oct 04 18:21:15 +0000 2013",
+        "favourites_count": 23770,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 94257,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1189805888774819840/6Q_XCUHr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189805888774819840/6Q_XCUHr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935079483/1572350558",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 12 13:02:27 +0000 2019",
+        "id": 1194239029497278500,
+        "id_str": "1194239029497278465",
+        "text": "Jeremy Corbyn:\n\n“I think what we have before us is an alliance between Donald Trump and Nigel Farage and Boris John… https://t.co/GIU77eU9W0",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/GIU77eU9W0",
+              "expanded_url": "https://twitter.com/i/web/status/1194239029497278465",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 29095201,
+          "id_str": "29095201",
+          "name": "Dallo #BDS 🇵🇸 #StandWithChrisWilliamson",
+          "screen_name": "dallo100",
+          "location": "Merseyside",
+          "description": "Socialist, LP Member. Ex-soldier & ex-miner.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 10489,
+          "friends_count": 10231,
+          "listed_count": 70,
+          "created_at": "Sun Apr 05 23:40:22 +0000 2009",
+          "favourites_count": 118224,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 154472,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "642D8B",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1190695284021616644/na58c_jc_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190695284021616644/na58c_jc_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/29095201/1474685926",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "65B0DA",
+          "profile_sidebar_fill_color": "7AC3EE",
+          "profile_text_color": "3D1957",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 12 13:02:27 +0000 2019",
+      "id": 1194239029497278500,
+      "id_str": "1194239029497278465",
+      "text": "Jeremy Corbyn:\n\n“I think what we have before us is an alliance between Donald Trump and Nigel Farage and Boris John… https://t.co/GIU77eU9W0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GIU77eU9W0",
+            "expanded_url": "https://twitter.com/i/web/status/1194239029497278465",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 29095201,
+        "id_str": "29095201",
+        "name": "Dallo #BDS 🇵🇸 #StandWithChrisWilliamson",
+        "screen_name": "dallo100",
+        "location": "Merseyside",
+        "description": "Socialist, LP Member. Ex-soldier & ex-miner.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10489,
+        "friends_count": 10231,
+        "listed_count": 70,
+        "created_at": "Sun Apr 05 23:40:22 +0000 2009",
+        "favourites_count": 118224,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 154472,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190695284021616644/na58c_jc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190695284021616644/na58c_jc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29095201/1474685926",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 12 11:00:02 +0000 2019",
+      "id": 1194208223605280800,
+      "id_str": "1194208223605280768",
+      "text": "Nigel Farage is a Jeremy Corbyn enabler, a vote for the #brexitparty is a vote for Jeremy @jo_marney",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "brexitparty",
+            "indices": [
+              56,
+              68
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Jo_Marney",
+            "name": "Jo Marney",
+            "id": 430090745,
+            "id_str": "430090745",
+            "indices": [
+              90,
+              100
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.google.com\" rel=\"nofollow\">Falmer Stadium 2027</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 993147985432383500,
+        "id_str": "993147985432383489",
+        "name": "Bill Archer",
+        "screen_name": "BillArcherBHAFC",
+        "location": "Bootle, England",
+        "description": "I sold the goldstone ground for 2 million in 1998, but, due to inflation I want some more",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 50,
+        "listed_count": 2,
+        "created_at": "Sun May 06 15:18:26 +0000 2018",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993150098652712961/vxNFgSSR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993150098652712961/vxNFgSSR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993147985432383489/1525620327",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 11 13:59:02 +0000 2019",
+      "id": 1193890882375880700,
+      "id_str": "1193890882375880704",
+      "text": "Nigel Farage is a Jeremy Corbyn enabler, a vote for the #brexitparty is a vote for Jeremy @jo_marney",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "brexitparty",
+            "indices": [
+              56,
+              68
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Jo_Marney",
+            "name": "Jo Marney",
+            "id": 430090745,
+            "id_str": "430090745",
+            "indices": [
+              90,
+              100
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.google.com\" rel=\"nofollow\">Falmer Stadium 2027</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 993147985432383500,
+        "id_str": "993147985432383489",
+        "name": "Bill Archer",
+        "screen_name": "BillArcherBHAFC",
+        "location": "Bootle, England",
+        "description": "I sold the goldstone ground for 2 million in 1998, but, due to inflation I want some more",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 50,
+        "listed_count": 2,
+        "created_at": "Sun May 06 15:18:26 +0000 2018",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993150098652712961/vxNFgSSR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993150098652712961/vxNFgSSR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993147985432383489/1525620327",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.045,
+    "max_id": 1195114191297949700,
+    "max_id_str": "1195114191297949696",
+    "next_results": "?max_id=1193890882375880703&q=Jeremy%20Corbyn%20OR%20Boris%20Johnson%20OR%20Jo%20Swinson%20OR%20Nigel%20Farage&geocode=53.4%2C-2.983333%2C16.666666667mi&count=100&include_entities=1",
+    "query": "Jeremy+Corbyn+OR+Boris+Johnson+OR+Jo+Swinson+OR+Nigel+Farage",
+    "refresh_url": "?since_id=1195114191297949696&q=Jeremy%20Corbyn%20OR%20Boris%20Johnson%20OR%20Jo%20Swinson%20OR%20Nigel%20Farage&geocode=53.4%2C-2.983333%2C16.666666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

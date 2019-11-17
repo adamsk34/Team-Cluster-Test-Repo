@@ -1,58 +1,60 @@
 var fs = require("fs");
 var Twit = require("twit");
 var config = require("./config.json");
-
-/* *** change `city`, `whichQ`, and `date` to generate all samples for today's date *** */
-
-// var city = "aberdeen";
-// var city = "belfast";
-// var city = "birmingham";
-// var city = "cardiff";
-// var city = "derry";
-// var city = "edinburgh";
-// var city = "glasgow";
-// var city = "lisburn";
-// var city = "liverpool";
-// var city = "london";
-// var city = "newport";
-var city = "swansea";
-
-// var whichQ = "leader";
-var whichQ = "party";
-
-var date = "2019-11-15";// Should be today's date
-
-var fileName = "city_rules/" + city + ".json";
-var content = JSON.parse(fs.readFileSync(fileName));
+var party_leader = require("./party_leader/parties_leaders.json")
+var all_cities = require("./city_rules/all_cities.json")
 
 var T = new Twit(config);
 var count = 100
 
-var qParties = "Labour Party OR Conservative Party OR Liberal Democrats OR Brexit Party";
-var qLeaders = "Jeremy Corbyn OR Boris Johnson OR Jo Swinson OR Nigel Farage";
+var today = new Date()
+var date = today.getFullYear() + "-" + (today.getMonth() + 1) + "-" + today.getDate();
 
-var params = {
-    count: count,
-    geocode: content.geocode
-};
 
-if (whichQ === "party") {
-    params.q = qParties;
-}
-if (whichQ === "leader") {
-    params.q = qLeaders;
-}
+all_cities["cities"].forEach(city => {
 
-console.log("params =", params);
-T.get("search/tweets", params, gotData);
+    var city_name = city["name"]
+    var geo_code = city["geocode"]
 
-function gotData (err, data, response) {
-    var name = "city_tweets/" + date + "_" + whichQ + "_" + city + ".json";
-    console.log("output file =", name);
+    party_leader["parties"].forEach(party => {
 
-    fs.writeFile(name, JSON.stringify(data, null, 2), 'utf8', function (err) {
-        if (err) {
-            return console.log(err);
-        }
+        var params = {
+                q : party,
+                count: count,
+                geocode: geo_code
+            };
+        
+        getAndProcessTwitterData(params, city_name, "party", party);
+
     });
+
+    party_leader["leaders"].forEach(leader => {
+
+        var params = {
+            q : leader,
+            count: count,
+            geocode: geo_code
+        };
+
+        getAndProcessTwitterData(params, city_name, "leader", leader);
+    });
+});
+
+
+function getAndProcessTwitterData(params, city_name, whichQ, query) {
+
+    T.get("search/tweets", params, gotData);
+
+    function gotData (err, data, response) {
+        var name = "city_tweets/" + city_name  + "_" + whichQ  + "_" + query.replace(/ /g, '-') + "_" + date + ".json";
+        console.log("output file =", name);
+    
+        fs.writeFile(name, JSON.stringify(data, null, 2), 'utf8', function (err) {
+            if (err) {
+                return console.log(err);
+            }
+        });
+    }
 }
+
+

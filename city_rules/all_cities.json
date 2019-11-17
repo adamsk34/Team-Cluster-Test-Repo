@@ -1,0 +1,100 @@
+{
+    "cities": [
+        {
+            "name": "aberdeen",
+            "geocode": [
+                57.15,
+                -2.11,
+                "5mi"
+            ]
+        },
+        {
+            "name": "belfast",
+            "geocode": [
+                54.596389,
+                -5.93,
+                "5.555555556mi"
+            ]
+        },
+        {
+            "name": "birmingham",
+            "geocode": [
+                52.48,
+                -1.9025,
+                "25mi"
+            ]
+        },
+        {
+            "name": "cardiff",
+            "geocode": [
+                51.483333,
+                -3.183333,
+                "8.333333333mi"
+            ]
+        },
+        {
+            "name": "derry",
+            "geocode": [
+                54.9958,
+                -7.3074,
+                "4.545454545mi"
+            ]
+        },
+        {
+            "name": "edinburgh",
+            "geocode": [
+                55.953,
+                -3.189,
+                "10mi"
+            ]
+        },
+        {
+            "name": "glasgow",
+            "geocode": [
+                55.860916,
+                -4.251433,
+                "12.5mi"
+            ]
+        },
+        {
+            "name": "lisburn",
+            "geocode": [
+                54.512,
+                -6.031,
+                "4.166666667mi"
+            ]
+        },
+        {
+            "name": "liverpool",
+            "geocode": [
+                53.4,
+                -2.983333,
+                "16.666666667mi"
+            ]
+        },
+        {
+            "name": "london",
+            "geocode": [
+                51.507222,
+                -0.1275,
+                "50mi"
+            ]
+        },
+        {
+            "name": "newport",
+            "geocode": [
+                51.583333,
+                -3.0,
+                "7.142857143mi"
+            ]
+        },
+        {
+            "name": "swansea",
+            "geocode": [
+                51.616667,
+                -3.95,
+                "6.25mi"
+            ]
+        }
+    ]
+}

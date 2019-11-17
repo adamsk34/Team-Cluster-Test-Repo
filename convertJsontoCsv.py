@@ -1,88 +1,79 @@
 # import twitter
 import json
-
-# created_at
-# id
-# id_str
-# text
-# truncated
-# entities
-# metadata
-# source
-# in_reply_to_status_id
-# in_reply_to_status_id_str
-# in_reply_to_user_id
-# in_reply_to_user_id_str
-# in_reply_to_screen_name
-# user
-# geo
-# coordinates
-# place
-# contributors
-# is_quote_status
-# retweet_count
-# favorite_count
-# favorited
-# retweeted
-# lang
-
-with open("city_tweets//test_party_glasgow.json", "r") as file:
-    twitterJson = json.load(file)
-
-    # for key, value in twitterJson["statuses"][0].items():
-    print(twitterJson["statuses"][0]["text"])
-
-    # for item in twitterJson["statuses"]:
-    #     # for key, value in item.items() :
-    #     #     print (key)
-    #     print(item["geo"]) #json.dumps(twitterJson["statuses"][item]))
-
-# print(creds)
+import glob
+import csv
+import os.path
 
 
-# t = twitter.Api(consumer_key=creds['consumer_key'],
-#                 consumer_secret=creds['consumer_secret'],
-#                 access_token_key=creds['access_token'],
-#                 access_token_secret=creds['access_token_secret'])
+files = glob.glob("./city_tweets/*.json")
 
-# query = {'q': "Labour Party OR Conservative Party OR Liberal Democrats OR Brexit Party",
-#         'result_type': 'popular',
-#         'count': 100,
-#         'geocode': [55.85922,-4.26088, "50mi"],
-#         }
 
-# print(t.VerifyCredentials())
+def main():
 
-# # Import the Twython class
-# from twython import Twython
-# import json
-# import pandas as pd
+    for file_path in files:
+        with open(file_path, "r") as file:
 
-# # Load credentials from json file
-# with open("config.json", "r") as file:
-#     creds = json.load(file)
+            twitterJson = json.load(file)
 
-# # Instantiate an object
-# python_tweets = Twython(creds['consumer_key'], creds['consumer_secret'])
+            file_name = file_path.split('/')[2]
 
-# # Create our query
-# query = {'q': "Labour Party OR Conservative Party OR Liberal Democrats OR Brexit Party",
-#         'result_type': 'popular',
-#         'count': 100,
-#         'geocode': [55.85922,-4.26088, "50mi"],
-#         }
+            city, party, leader = getCityAndQuery(file_name)
 
-# # Search tweets
-# dict_ = {'user': [], 'date': [], 'text': [], 'favorite_count': []}
-# for status in python_tweets.search(**query):
-#     # dict_['user'].append(status['user']['screen_name'])
-#     # dict_['date'].append(status['created_at'])
-#     # dict_['text'].append(status['text'])
-#     # dict_['favorite_count'].append(status['favorite_count'])
+            file_to_save = "./tweets_csv/" + city + ".csv"
 
-#     print(len(status))
+            data = []
 
-# # Structure data in a pandas DataFrame for easier manipulation
-# df = pd.DataFrame(dict_)
-# df.sort_values(by='favorite_count', inplace=True, ascending=False)
-# df.head(5)
+            print(file_to_save)
+
+            if "statuses" in twitterJson.keys():
+
+                for item in  twitterJson["statuses"]:
+                    
+                    tweet = item["text"]
+                    tweet_time = item["created_at"]
+
+                    row = {
+                        "city": city,
+                        "party": party,
+                        "leader": leader,
+                        "tweet": tweet,
+                        "tweet_time": tweet_time
+                    }
+
+                    data.append(row)
+
+            writeInCsv(file_to_save, data)
+
+
+def writeInCsv(file_to_save: str,  data: list) -> None:
+
+    with open(file_to_save, 'a') as csvFile:
+        fields = ['city', 'party', 'leader', 'tweet', 'tweet_time']
+        writer = csv.DictWriter(csvFile, delimiter=',', lineterminator='\n', fieldnames=fields)
+
+        fileEmpty = os.stat(file_to_save).st_size == 0
+
+        if fileEmpty:
+            writer.writeheader()
+
+        writer.writerows(data)
+
+    print("writing completed")
+
+    csvFile.close()
+
+
+def getCityAndQuery(file_name: str) -> tuple:
+
+    splited_file_name = file_name.split('_')
+
+    city = splited_file_name[0]
+    party = splited_file_name[2] if splited_file_name[1] == "party" else ""
+    leader = splited_file_name[2] if splited_file_name[1] == "leader" else ""
+
+    return (city, party, leader)
+
+
+
+if __name__ == '__main__':
+    main()

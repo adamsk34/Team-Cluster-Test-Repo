@@ -3,9 +3,11 @@ import json
 import glob
 import csv
 import os.path
-
+import datetime
 
 files = glob.glob("./city_tweets/*.json")
+
+uk_hour_diff = 6
 
 
 def main():
@@ -19,7 +21,10 @@ def main():
 
             city, party, leader = getCityAndQuery(file_name)
 
-            file_to_save = "./tweets_csv/" + city + ".csv"
+            uk_date = datetime.datetime.now() + datetime.timedelta(hours=uk_hour_diff)
+            uk_date_str = str(uk_date.year) + "-" + str(uk_date.month) + "-" + str(uk_date.day)
+
+            file_to_save = "./tweets_csv/" + uk_date_str + "_" + city + ".csv"
 
             data = []
 
@@ -27,8 +32,8 @@ def main():
 
             if "statuses" in twitterJson.keys():
 
-                for item in  twitterJson["statuses"]:
-                    
+                for item in twitterJson["statuses"]:
+
                     tweet = item["text"]
                     tweet_time = item["created_at"]
 
@@ -72,7 +77,6 @@ def getCityAndQuery(file_name: str) -> tuple:
     leader = splited_file_name[2] if splited_file_name[1] == "leader" else ""
 
     return (city, party, leader)
-
 
 
 if __name__ == '__main__':

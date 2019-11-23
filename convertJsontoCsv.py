@@ -2,12 +2,17 @@
 import json
 import glob
 import csv
-import os.path
+import os
 import datetime
 
-files = glob.glob("./city_tweets/*.json")
+files = glob.glob("./city_tweets" + str(datetime.date.today()) + "/*.json")
 
 uk_hour_diff = 6
+
+uk_date = datetime.datetime.now() + datetime.timedelta(hours=uk_hour_diff)
+uk_date_str = str(uk_date.year) + "_" + str(uk_date.month) + "_" + str(uk_date.day)
+
+folder_to_save = "./tweets_csv/" + uk_date_str + "/"
 
 
 def main():
@@ -21,10 +26,10 @@ def main():
 
             city, party, leader = getCityAndQuery(file_name)
 
-            uk_date = datetime.datetime.now() + datetime.timedelta(hours=uk_hour_diff)
-            uk_date_str = str(uk_date.year) + "-" + str(uk_date.month) + "-" + str(uk_date.day)
-
-            file_to_save = "./tweets_csv/" + uk_date_str + "_" + city + ".csv"
+            if not os.path.exists(folder_to_save):
+                os.makedirs(folder_to_save)
+            
+            file_to_save = "./tweets_csv/" + uk_date_str + "/" + city + ".csv"
 
             data = []
 

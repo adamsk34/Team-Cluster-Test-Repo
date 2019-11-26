@@ -5,7 +5,11 @@ import csv
 import os
 import datetime
 
+<<<<<<< HEAD
 files = glob.glob("./city_tweets/*.json")
+=======
+files = glob.glob("./city_tweets/*" + str(datetime.date.today()) + ".json")
+>>>>>>> c8b28d8d63925f4d7440b8b6243deb96cab9a140
 
 uk_hour_diff = 6
 

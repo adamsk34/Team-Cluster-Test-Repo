@@ -5,11 +5,11 @@ import csv
 import os
 import datetime
 
-files = glob.glob("./city_tweets/*" + str(datetime.date.today()) + ".json")
+files = glob.glob("./city_tweets/*.json")
 
 uk_hour_diff = 6
 
-uk_date_str = "2019_11_18"
+uk_date_str = "2019_11_29"
 
 folder_to_save = "./tweets_csv/no_date_overlap2/" + uk_date_str + "/"
 

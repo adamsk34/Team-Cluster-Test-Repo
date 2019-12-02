@@ -1,0 +1,932 @@
+{
+  "statuses": [
+    {
+      "created_at": "Thu Nov 21 21:44:28 +0000 2019",
+      "id": 1197631890414592000,
+      "id_str": "1197631890414592000",
+      "text": "RT @HolyroodDaily: General election manifesto: Liberal Democrats pledge rail fares freeze, increased spending on public services and toughe…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HolyroodDaily",
+            "name": "Holyrood magazine",
+            "id": 89151961,
+            "id_str": "89151961",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 89151961,
+        "id_str": "89151961",
+        "name": "Holyrood magazine",
+        "screen_name": "HolyroodDaily",
+        "location": "Edinburgh",
+        "description": "Scottish political news from Holyrood magazine.",
+        "url": "http://t.co/RTD3EUDtLu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/RTD3EUDtLu",
+                "expanded_url": "http://www.holyrood.com",
+                "display_url": "holyrood.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20086,
+        "friends_count": 904,
+        "listed_count": 514,
+        "created_at": "Wed Nov 11 10:03:52 +0000 2009",
+        "favourites_count": 228,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37242,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1594328641/Holyrood_H_red_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1594328641/Holyrood_H_red_normal.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89151961/1557402085",
+        "profile_link_color": "A10F14",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DFCB9A",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 09:19:34 +0000 2019",
+        "id": 1197444429650509800,
+        "id_str": "1197444429650509824",
+        "text": "General election manifesto: Liberal Democrats pledge rail fares freeze, increased spending on public services and t… https://t.co/fnABDSY5Up",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/fnABDSY5Up",
+              "expanded_url": "https://twitter.com/i/web/status/1197444429650509824",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 89151961,
+          "id_str": "89151961",
+          "name": "Holyrood magazine",
+          "screen_name": "HolyroodDaily",
+          "location": "Edinburgh",
+          "description": "Scottish political news from Holyrood magazine.",
+          "url": "http://t.co/RTD3EUDtLu",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/RTD3EUDtLu",
+                  "expanded_url": "http://www.holyrood.com",
+                  "display_url": "holyrood.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 20086,
+          "friends_count": 904,
+          "listed_count": 514,
+          "created_at": "Wed Nov 11 10:03:52 +0000 2009",
+          "favourites_count": 228,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 37242,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1594328641/Holyrood_H_red_normal.gif",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1594328641/Holyrood_H_red_normal.gif",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/89151961/1557402085",
+          "profile_link_color": "A10F14",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DFCB9A",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 18:09:51 +0000 2019",
+      "id": 1197577880177434600,
+      "id_str": "1197577880177434624",
+      "text": "RT @RyanMorrison29: Two new manifestos with Labour and the Liberal Democrats #GE2019 not just talking about Just Transition, but putting ou…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GE2019",
+            "indices": [
+              77,
+              84
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RyanMorrison29",
+            "name": "Ryan Morrison",
+            "id": 2916519310,
+            "id_str": "2916519310",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 275515955,
+        "id_str": "275515955",
+        "name": "Connal Hughes",
+        "screen_name": "connal99",
+        "location": "Edinburgh",
+        "description": "N / Ireland escapee doing climate & environmental campaign communications.  Green, progressive, lovable.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1221,
+        "friends_count": 1581,
+        "listed_count": 38,
+        "created_at": "Fri Apr 01 12:45:03 +0000 2011",
+        "favourites_count": 5690,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20647,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101263029210177536/AQ0I7tWs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101263029210177536/AQ0I7tWs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275515955/1501706173",
+        "profile_link_color": "0D1CBD",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 17:00:20 +0000 2019",
+        "id": 1197560386301636600,
+        "id_str": "1197560386301636615",
+        "text": "Two new manifestos with Labour and the Liberal Democrats #GE2019 not just talking about Just Transition, but puttin… https://t.co/r8pKgRr63y",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "GE2019",
+              "indices": [
+                57,
+                64
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/r8pKgRr63y",
+              "expanded_url": "https://twitter.com/i/web/status/1197560386301636615",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2916519310,
+          "id_str": "2916519310",
+          "name": "Ryan Morrison",
+          "screen_name": "RyanMorrison29",
+          "location": "Edinburgh",
+          "description": "Just Transition Campaigner @foescot\nHe/him",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 287,
+          "friends_count": 626,
+          "listed_count": 23,
+          "created_at": "Thu Dec 11 23:24:47 +0000 2014",
+          "favourites_count": 2921,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1126,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916519310/1560167391",
+          "profile_link_color": "7FDBB6",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 17:43:38 +0000 2019",
+      "id": 1197571283774513200,
+      "id_str": "1197571283774513157",
+      "text": "RT @RyanMorrison29: Two new manifestos with Labour and the Liberal Democrats #GE2019 not just talking about Just Transition, but putting ou…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GE2019",
+            "indices": [
+              77,
+              84
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RyanMorrison29",
+            "name": "Ryan Morrison",
+            "id": 2916519310,
+            "id_str": "2916519310",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20160932,
+        "id_str": "20160932",
+        "name": "Fergus",
+        "screen_name": "fergusboden",
+        "location": "Edinburgh, Scotland",
+        "description": "Nerd of many things, master of none. Tweeter of “drivel\", retweeter of interesting things.  Views my own etc.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1261,
+        "friends_count": 1641,
+        "listed_count": 52,
+        "created_at": "Thu Feb 05 16:23:17 +0000 2009",
+        "favourites_count": 15343,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43765,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821009399103811585/41b5xf6c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/821009399103811585/41b5xf6c_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20160932/1443362452",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 17:00:20 +0000 2019",
+        "id": 1197560386301636600,
+        "id_str": "1197560386301636615",
+        "text": "Two new manifestos with Labour and the Liberal Democrats #GE2019 not just talking about Just Transition, but puttin… https://t.co/r8pKgRr63y",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "GE2019",
+              "indices": [
+                57,
+                64
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/r8pKgRr63y",
+              "expanded_url": "https://twitter.com/i/web/status/1197560386301636615",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2916519310,
+          "id_str": "2916519310",
+          "name": "Ryan Morrison",
+          "screen_name": "RyanMorrison29",
+          "location": "Edinburgh",
+          "description": "Just Transition Campaigner @foescot\nHe/him",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 287,
+          "friends_count": 626,
+          "listed_count": 23,
+          "created_at": "Thu Dec 11 23:24:47 +0000 2014",
+          "favourites_count": 2921,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1126,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916519310/1560167391",
+          "profile_link_color": "7FDBB6",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 17:40:22 +0000 2019",
+      "id": 1197570462798221300,
+      "id_str": "1197570462798221313",
+      "text": "The best thing for The Liberal Democrats would be for Jo Swinson to lose her seat. She’s terrible #LiberalDemocrats #GE2019",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "LiberalDemocrats",
+            "indices": [
+              98,
+              115
+            ]
+          },
+          {
+            "text": "GE2019",
+            "indices": [
+              116,
+              123
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 33501373,
+        "id_str": "33501373",
+        "name": "Tim Bisset",
+        "screen_name": "timbisset",
+        "location": "Edinburgh",
+        "description": "Music blog for self affirmation purposes https://t.co/gUVy6IcPGk Holiday pics at Instagram: timbointhecity #iamwriting",
+        "url": "https://t.co/gUVy6IcPGk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gUVy6IcPGk",
+                "expanded_url": "http://www.friendly-fire.co.uk",
+                "display_url": "friendly-fire.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/gUVy6IcPGk",
+                "expanded_url": "http://www.friendly-fire.co.uk",
+                "display_url": "friendly-fire.co.uk",
+                "indices": [
+                  41,
+                  64
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 270,
+        "friends_count": 510,
+        "listed_count": 5,
+        "created_at": "Mon Apr 20 12:52:34 +0000 2009",
+        "favourites_count": 2002,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3146,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062311212594143234/js7dXvOs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062311212594143234/js7dXvOs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33501373/1542109865",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 17:00:22 +0000 2019",
+      "id": 1197560394446966800,
+      "id_str": "1197560394446966789",
+      "text": "The Liberal Democrats are proposing a “Just Transition Fund” to support workers and communities “negatively affecte… https://t.co/ynJ4g6NGDt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ynJ4g6NGDt",
+            "expanded_url": "https://twitter.com/i/web/status/1197560394446966789",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197560386301636600,
+      "in_reply_to_status_id_str": "1197560386301636615",
+      "in_reply_to_user_id": 2916519310,
+      "in_reply_to_user_id_str": "2916519310",
+      "in_reply_to_screen_name": "RyanMorrison29",
+      "user": {
+        "id": 2916519310,
+        "id_str": "2916519310",
+        "name": "Ryan Morrison",
+        "screen_name": "RyanMorrison29",
+        "location": "Edinburgh",
+        "description": "Just Transition Campaigner @foescot\nHe/him",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 287,
+        "friends_count": 626,
+        "listed_count": 23,
+        "created_at": "Thu Dec 11 23:24:47 +0000 2014",
+        "favourites_count": 2921,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916519310/1560167391",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 17:00:20 +0000 2019",
+      "id": 1197560386301636600,
+      "id_str": "1197560386301636615",
+      "text": "Two new manifestos with Labour and the Liberal Democrats #GE2019 not just talking about Just Transition, but puttin… https://t.co/r8pKgRr63y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GE2019",
+            "indices": [
+              57,
+              64
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/r8pKgRr63y",
+            "expanded_url": "https://twitter.com/i/web/status/1197560386301636615",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2916519310,
+        "id_str": "2916519310",
+        "name": "Ryan Morrison",
+        "screen_name": "RyanMorrison29",
+        "location": "Edinburgh",
+        "description": "Just Transition Campaigner @foescot\nHe/him",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 287,
+        "friends_count": 626,
+        "listed_count": 23,
+        "created_at": "Thu Dec 11 23:24:47 +0000 2014",
+        "favourites_count": 2921,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147254497779097600/aEn-gLs4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916519310/1560167391",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.16,
+    "max_id": 1197631890414592000,
+    "max_id_str": "1197631890414592000",
+    "next_results": "?max_id=1197560386301636614&q=Liberal%20Democrats&geocode=55.953%2C-3.189%2C10mi&count=100&include_entities=1",
+    "query": "Liberal+Democrats",
+    "refresh_url": "?since_id=1197631890414592000&q=Liberal%20Democrats&geocode=55.953%2C-3.189%2C10mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

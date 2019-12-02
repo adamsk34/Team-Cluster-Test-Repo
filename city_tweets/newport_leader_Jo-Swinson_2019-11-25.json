@@ -1,0 +1,2211 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sun Nov 24 13:08:38 +0000 2019",
+      "id": 1198589242844369000,
+      "id_str": "1198589242844368901",
+      "text": "On the tactical/strategic level so far as the Remain cause is concerned, @JoSwinson has proved to be an unmitigated… https://t.co/MYDBgdi222",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "joswinson",
+            "name": "Jo Swinson",
+            "id": 14933304,
+            "id_str": "14933304",
+            "indices": [
+              73,
+              83
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MYDBgdi222",
+            "expanded_url": "https://twitter.com/i/web/status/1198589242844368901",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470319318,
+        "id_str": "470319318",
+        "name": "Miqdad Al-Nuaimi",
+        "screen_name": "mndsc06",
+        "location": "Newport, Wales, UK",
+        "description": "Newport City Councillor representing Stow Hill Ward & the city of Newport  (Tweeting in a Personal Capacity)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11725,
+        "friends_count": 1411,
+        "listed_count": 49,
+        "created_at": "Sat Jan 21 16:48:20 +0000 2012",
+        "favourites_count": 637,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21370,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFA366",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470319318/1557329081",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 10:34:35 +0000 2019",
+      "id": 1198550473797705700,
+      "id_str": "1198550473797705728",
+      "text": "#Marr jo Swinson talking about a stitch up deal between Boris and Farage. I’m assuming she’s referring to the deal… https://t.co/KA8s5J1pAg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Marr",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KA8s5J1pAg",
+            "expanded_url": "https://twitter.com/i/web/status/1198550473797705728",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4089891747,
+        "id_str": "4089891747",
+        "name": "Kieran fullwood",
+        "screen_name": "KieranFullwood",
+        "location": "Newport, Wales",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 3,
+        "listed_count": 0,
+        "created_at": "Sun Nov 01 12:51:19 +0000 2015",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 121,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 09:46:12 +0000 2019",
+      "id": 1198538297288642600,
+      "id_str": "1198538297288642561",
+      "text": "#marr  GB voted 4 brexit,,,\nJO swinson,, \"dont care\"\nLib Dems voted 4 you as leader,!? /\n#GE19.. \"dont care\"..",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marr",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "GE19",
+            "indices": [
+              89,
+              94
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470187332,
+        "id_str": "470187332",
+        "name": "JOE CARROLL @Google @YouTube @netflix",
+        "screen_name": "joeleeds_motd",
+        "location": "Robinson Crusoe Island",
+        "description": "🐶🇪🇺🚴‍♂️🐝☘️🌻🍺🚒🏎️@skyarts  #DHL #lufc #TDF #NASA. @ebay @google  NP19..@Twitter @youtube @netflix @Instagram is me😍🌍🐺⚽ happy xmas 🎄, 🎅⛄🍺",
+        "url": "https://t.co/P3dJYKkChA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/P3dJYKkChA",
+                "expanded_url": "http://HASHTAGgames.com",
+                "display_url": "HASHTAGgames.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6413,
+        "friends_count": 7063,
+        "listed_count": 105,
+        "created_at": "Sat Jan 21 12:20:32 +0000 2012",
+        "favourites_count": 80917,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61995,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470187332/1536428234",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1a989c2c4ed199a1",
+        "url": "https://api.twitter.com/1.1/geo/id/1a989c2c4ed199a1.json",
+        "place_type": "city",
+        "name": "Alway",
+        "full_name": "Alway, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -2.968967,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.595522
+              ],
+              [
+                -2.968967,
+                51.595522
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 10:52:11 +0000 2019",
+      "id": 1198192513322045400,
+      "id_str": "1198192513322045444",
+      "text": "Having a great laugh this morning watching Jo Swinson on #BBCQuestionTime",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BBCQuestionTime",
+            "indices": [
+              57,
+              73
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 128308421,
+        "id_str": "128308421",
+        "name": "lloyd👻",
+        "screen_name": "Lloydrharris95",
+        "location": "Newport wales",
+        "description": "greatness!\n\nCounty til I die!!!🖤🧡🖤🧡🐑🐑🐑",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 173,
+        "friends_count": 530,
+        "listed_count": 1,
+        "created_at": "Wed Mar 31 19:00:53 +0000 2010",
+        "favourites_count": 4135,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6637,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190681200245006338/TVYLITkb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190681200245006338/TVYLITkb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128308421/1566329475",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 01:43:52 +0000 2019",
+      "id": 1198054527737487400,
+      "id_str": "1198054527737487366",
+      "text": "While they'll loyally stick to the party line, Lib Dems will now be secretly thinking to themselves that they've ch… https://t.co/JtW2e4EUGd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JtW2e4EUGd",
+            "expanded_url": "https://twitter.com/i/web/status/1198054527737487366",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1871405053,
+        "id_str": "1871405053",
+        "name": "Dave Mclean",
+        "screen_name": "DaveMcleanComms",
+        "location": "Newport, Wales",
+        "description": "Inventor of the wheel and winner of the Nobel Prize for Lying.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 168,
+        "friends_count": 79,
+        "listed_count": 2,
+        "created_at": "Mon Sep 16 12:01:04 +0000 2013",
+        "favourites_count": 2480,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3344,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "851816",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871405053/1504474144",
+        "profile_link_color": "851816",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 01:27:06 +0000 2019",
+      "id": 1198050307206463500,
+      "id_str": "1198050307206463488",
+      "text": "Jo Swinson falling to bits pleases me. Any thought I had about voting Lib Dem evaporated on seeing her 'press the n… https://t.co/ZIAmpU8kA3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZIAmpU8kA3",
+            "expanded_url": "https://twitter.com/i/web/status/1198050307206463488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1871405053,
+        "id_str": "1871405053",
+        "name": "Dave Mclean",
+        "screen_name": "DaveMcleanComms",
+        "location": "Newport, Wales",
+        "description": "Inventor of the wheel and winner of the Nobel Prize for Lying.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 168,
+        "friends_count": 79,
+        "listed_count": 2,
+        "created_at": "Mon Sep 16 12:01:04 +0000 2013",
+        "favourites_count": 2480,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3344,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "851816",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871405053/1504474144",
+        "profile_link_color": "851816",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 00:59:13 +0000 2019",
+      "id": 1198043289439494100,
+      "id_str": "1198043289439494145",
+      "text": "RT @MrEJBAKER: Jo Swinson saying we shouldn't be so quick to predict an election outcome when asked if she will be Prime Minister.\n\nI have…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MrEJBAKER",
+            "name": "Elliot Baker 🎬✒",
+            "id": 422771240,
+            "id_str": "422771240",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://tipstrr.com/about/racetips\" rel=\"nofollow\">Recent tweets Racetips01</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1159379005788889000,
+        "id_str": "1159379005788889089",
+        "name": "Bet Portfolio",
+        "screen_name": "betportfolios",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 536,
+        "friends_count": 887,
+        "listed_count": 2,
+        "created_at": "Thu Aug 08 08:21:09 +0000 2019",
+        "favourites_count": 2168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1249,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196447822343802882/XUFjciPo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196447822343802882/XUFjciPo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159379005788889089/1574090186",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Nov 23 00:25:57 +0000 2019",
+        "id": 1198034915914326000,
+        "id_str": "1198034915914326020",
+        "text": "Jo Swinson saying we shouldn't be so quick to predict an election outcome when asked if she will be Prime Minister.… https://t.co/iNJ70MBI4j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/iNJ70MBI4j",
+              "expanded_url": "https://twitter.com/i/web/status/1198034915914326020",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 422771240,
+          "id_str": "422771240",
+          "name": "Elliot Baker 🎬✒",
+          "screen_name": "MrEJBAKER",
+          "location": "Newport, Wales",
+          "description": "Mean, coarse and unrefined Film-Maker. Described as 'Hencher and less of a virgin than @StephenTries' . Retired Pro Wrestler (Undefeated)",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 552,
+          "friends_count": 1317,
+          "listed_count": 13,
+          "created_at": "Sun Nov 27 17:29:46 +0000 2011",
+          "favourites_count": 3146,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 5033,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "3C1657",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/422771240/1371827112",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "BAD2E0",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 00:53:08 +0000 2019",
+      "id": 1198041757658673200,
+      "id_str": "1198041757658673152",
+      "text": "RT @MrEJBAKER: Jo Swinson saying we shouldn't be so quick to predict an election outcome when asked if she will be Prime Minister.\n\nI have…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MrEJBAKER",
+            "name": "Elliot Baker 🎬✒",
+            "id": 422771240,
+            "id_str": "422771240",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://horsetipstersreview.com\" rel=\"nofollow\">Tweet HTR</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 722754937206087700,
+        "id_str": "722754937206087682",
+        "name": "Horse Tipsters Review",
+        "screen_name": "HorseTipsterRev",
+        "location": "",
+        "description": "Credible reviews on Horse Racing Tipsters based on our own tracking.",
+        "url": "https://t.co/pb9aFIURgT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pb9aFIURgT",
+                "expanded_url": "https://www.horsetipstersreview.com/",
+                "display_url": "horsetipstersreview.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1352,
+        "friends_count": 1328,
+        "listed_count": 1,
+        "created_at": "Wed Apr 20 11:52:59 +0000 2016",
+        "favourites_count": 1791,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 871,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115164140631482368/BQLnrdB4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115164140631482368/BQLnrdB4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722754937206087682/1554710847",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Nov 23 00:25:57 +0000 2019",
+        "id": 1198034915914326000,
+        "id_str": "1198034915914326020",
+        "text": "Jo Swinson saying we shouldn't be so quick to predict an election outcome when asked if she will be Prime Minister.… https://t.co/iNJ70MBI4j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/iNJ70MBI4j",
+              "expanded_url": "https://twitter.com/i/web/status/1198034915914326020",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 422771240,
+          "id_str": "422771240",
+          "name": "Elliot Baker 🎬✒",
+          "screen_name": "MrEJBAKER",
+          "location": "Newport, Wales",
+          "description": "Mean, coarse and unrefined Film-Maker. Described as 'Hencher and less of a virgin than @StephenTries' . Retired Pro Wrestler (Undefeated)",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 552,
+          "friends_count": 1317,
+          "listed_count": 13,
+          "created_at": "Sun Nov 27 17:29:46 +0000 2011",
+          "favourites_count": 3146,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 5033,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "3C1657",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/422771240/1371827112",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "BAD2E0",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 00:47:54 +0000 2019",
+      "id": 1198040440760684500,
+      "id_str": "1198040440760684549",
+      "text": "Jo Swinson has misjudged the effects of the coalition with the Conservatives in 2010.\n\nNick Clegg promised to aboli… https://t.co/HKvQjubpTl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HKvQjubpTl",
+            "expanded_url": "https://twitter.com/i/web/status/1198040440760684549",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 422771240,
+        "id_str": "422771240",
+        "name": "Elliot Baker 🎬✒",
+        "screen_name": "MrEJBAKER",
+        "location": "Newport, Wales",
+        "description": "Mean, coarse and unrefined Film-Maker. Described as 'Hencher and less of a virgin than @StephenTries' . Retired Pro Wrestler (Undefeated)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 552,
+        "friends_count": 1317,
+        "listed_count": 13,
+        "created_at": "Sun Nov 27 17:29:46 +0000 2011",
+        "favourites_count": 3146,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3C1657",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422771240/1371827112",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BAD2E0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 00:25:57 +0000 2019",
+      "id": 1198034915914326000,
+      "id_str": "1198034915914326020",
+      "text": "Jo Swinson saying we shouldn't be so quick to predict an election outcome when asked if she will be Prime Minister.… https://t.co/iNJ70MBI4j",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iNJ70MBI4j",
+            "expanded_url": "https://twitter.com/i/web/status/1198034915914326020",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 422771240,
+        "id_str": "422771240",
+        "name": "Elliot Baker 🎬✒",
+        "screen_name": "MrEJBAKER",
+        "location": "Newport, Wales",
+        "description": "Mean, coarse and unrefined Film-Maker. Described as 'Hencher and less of a virgin than @StephenTries' . Retired Pro Wrestler (Undefeated)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 552,
+        "friends_count": 1317,
+        "listed_count": 13,
+        "created_at": "Sun Nov 27 17:29:46 +0000 2011",
+        "favourites_count": 3146,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3C1657",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422771240/1371827112",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BAD2E0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 21:38:02 +0000 2019",
+      "id": 1197992660004409300,
+      "id_str": "1197992660004409346",
+      "text": "my dad just called Jo Swinson a moose...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4089809380,
+        "id_str": "4089809380",
+        "name": "juicy juicy",
+        "screen_name": "freerathi",
+        "location": "Newport, Wales, United Kingdom",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 111,
+        "friends_count": 283,
+        "listed_count": 0,
+        "created_at": "Sun Nov 01 12:14:07 +0000 2015",
+        "favourites_count": 1172,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 668,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1189303555347361792/fJnSYPCX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189303555347361792/fJnSYPCX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4089809380/1565739058",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 20:25:06 +0000 2019",
+      "id": 1197974305767903200,
+      "id_str": "1197974305767903232",
+      "text": "Jo Swinson ..... Struggling some what 🤔 https://t.co/acJO3RDUgj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1197974292824285200,
+            "id_str": "1197974292824285184",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EKAPRa3XYAAQzPD.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKAPRa3XYAAQzPD.jpg",
+            "url": "https://t.co/acJO3RDUgj",
+            "display_url": "pic.twitter.com/acJO3RDUgj",
+            "expanded_url": "https://twitter.com/gingerrich81/status/1197974305767903232/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 278,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 278,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 278,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1197974292824285200,
+            "id_str": "1197974292824285184",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EKAPRa3XYAAQzPD.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKAPRa3XYAAQzPD.jpg",
+            "url": "https://t.co/acJO3RDUgj",
+            "display_url": "pic.twitter.com/acJO3RDUgj",
+            "expanded_url": "https://twitter.com/gingerrich81/status/1197974305767903232/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 278,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 278,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 278,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                249,
+                139
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EKAPRa3XYAAQzPD.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 422689737,
+        "id_str": "422689737",
+        "name": "Rich Jones",
+        "screen_name": "gingerrich81",
+        "location": "Newport, Wales",
+        "description": "Regional Manager for One Million Mentors (1MM), Coach & chair allt-yr-yn ltc, dad, husband and bucket lister",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1139,
+        "friends_count": 394,
+        "listed_count": 11,
+        "created_at": "Sun Nov 27 15:28:11 +0000 2011",
+        "favourites_count": 6329,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10127,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1180224209164877828/eiyFxLRU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180224209164877828/eiyFxLRU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422689737/1574712882",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 20:24:16 +0000 2019",
+      "id": 1197974097822658600,
+      "id_str": "1197974097822658560",
+      "text": "@AgnesCPoirier Jo Swinson is being given a much harder time than Corbyn or Sturgeon.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AgnesCPoirier",
+            "name": "Agnes Poirier",
+            "id": 501768982,
+            "id_str": "501768982",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197971233868066800,
+      "in_reply_to_status_id_str": "1197971233868066816",
+      "in_reply_to_user_id": 501768982,
+      "in_reply_to_user_id_str": "501768982",
+      "in_reply_to_screen_name": "AgnesCPoirier",
+      "user": {
+        "id": 859172953258373100,
+        "id_str": "859172953258373120",
+        "name": "Chris Stevens",
+        "screen_name": "Chris_Stevens77",
+        "location": "Newport, Wales",
+        "description": "European political affairs junky. Chelsea FC fan. \nComic geek. \nRunner. \n,,,, and since joining Twitter found I like art,,,,(who knew!?)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 480,
+        "friends_count": 815,
+        "listed_count": 4,
+        "created_at": "Mon May 01 22:29:29 +0000 2017",
+        "favourites_count": 31433,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5450,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1111933377354047490/LHAuRVub_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111933377354047490/LHAuRVub_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/859172953258373120/1557937255",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 20:01:43 +0000 2019",
+      "id": 1197968419733291000,
+      "id_str": "1197968419733291008",
+      "text": "Jo Swinson wearing light blue to represent the fact that she’s a watered down Tory #bbcqt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bbcqt",
+            "indices": [
+              83,
+              89
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 415130673,
+        "id_str": "415130673",
+        "name": "petit pois Ⓥ",
+        "screen_name": "peagoesmeow",
+        "location": "Newport, Wales",
+        "description": "Lefty Lefty ✊🏼 I like animals, punk, soul, making art, Tudor pubs, festivals, space travel, earth travel, history, vegan food and Japan.",
+        "url": "https://t.co/uwSmFvCBDC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/uwSmFvCBDC",
+                "expanded_url": "http://Instagram.com/protomochi",
+                "display_url": "Instagram.com/protomochi",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 327,
+        "friends_count": 491,
+        "listed_count": 9,
+        "created_at": "Thu Nov 17 23:11:58 +0000 2011",
+        "favourites_count": 3168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5256,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "424434",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804872453109547008/eAEU3JHK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804872453109547008/eAEU3JHK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/415130673/1424834900",
+        "profile_link_color": "7E8075",
+        "profile_sidebar_border_color": "A6A6A6",
+        "profile_sidebar_fill_color": "A97EA1",
+        "profile_text_color": "EA035F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 21:28:18 +0000 2019",
+      "id": 1197265436804571100,
+      "id_str": "1197265436804571136",
+      "text": "Public confession time: I had a dream about Jo Swinson last night. I mean, not THAT sort of dream, but still. We di… https://t.co/nRiUgGdwaq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nRiUgGdwaq",
+            "expanded_url": "https://twitter.com/i/web/status/1197265436804571136",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1883101608,
+        "id_str": "1883101608",
+        "name": "Dave Thomas",
+        "screen_name": "electrichalibut",
+        "location": "Croeso i Gymru",
+        "description": "full of fishy goodness",
+        "url": "http://t.co/Qmg6jPBBTN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Qmg6jPBBTN",
+                "expanded_url": "http://electrichalibut.blogspot.co.uk/",
+                "display_url": "electrichalibut.blogspot.co.uk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 66,
+        "friends_count": 206,
+        "listed_count": 5,
+        "created_at": "Thu Sep 19 13:17:25 +0000 2013",
+        "favourites_count": 44,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15096,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/771703975225782272/oF4E2BAw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/771703975225782272/oF4E2BAw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1a989c2c4ed199a1",
+        "url": "https://api.twitter.com/1.1/geo/id/1a989c2c4ed199a1.json",
+        "place_type": "city",
+        "name": "Alway",
+        "full_name": "Alway, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -2.968967,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.595522
+              ],
+              [
+                -2.968967,
+                51.595522
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 22:14:38 +0000 2019",
+      "id": 1196914706704937000,
+      "id_str": "1196914706704936961",
+      "text": "Swinson says \"Look at our track record\"\n\n\"Well you served as a Liberal Democrat under a Conservative coalition\"\n\nJo… https://t.co/947GhMJJpR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/947GhMJJpR",
+            "expanded_url": "https://twitter.com/i/web/status/1196914706704936961",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 422771240,
+        "id_str": "422771240",
+        "name": "Elliot Baker 🎬✒",
+        "screen_name": "MrEJBAKER",
+        "location": "Newport, Wales",
+        "description": "Mean, coarse and unrefined Film-Maker. Described as 'Hencher and less of a virgin than @StephenTries' . Retired Pro Wrestler (Undefeated)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 552,
+        "friends_count": 1317,
+        "listed_count": 13,
+        "created_at": "Sun Nov 27 17:29:46 +0000 2011",
+        "favourites_count": 3146,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3C1657",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422771240/1371827112",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BAD2E0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 22:05:59 +0000 2019",
+      "id": 1196912528896475100,
+      "id_str": "1196912528896475136",
+      "text": "\"How will you win over the 17.4 million people who voted leave in 2016\"\n\nJo Swinson: *waffle*\n\nReal Answer: I can't… https://t.co/4YJ0W4sRZF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4YJ0W4sRZF",
+            "expanded_url": "https://twitter.com/i/web/status/1196912528896475136",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 422771240,
+        "id_str": "422771240",
+        "name": "Elliot Baker 🎬✒",
+        "screen_name": "MrEJBAKER",
+        "location": "Newport, Wales",
+        "description": "Mean, coarse and unrefined Film-Maker. Described as 'Hencher and less of a virgin than @StephenTries' . Retired Pro Wrestler (Undefeated)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 552,
+        "friends_count": 1317,
+        "listed_count": 13,
+        "created_at": "Sun Nov 27 17:29:46 +0000 2011",
+        "favourites_count": 3146,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3C1657",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175764051936387072/Sja87Vs4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422771240/1371827112",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BAD2E0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 19:10:45 +0000 2019",
+      "id": 1196868430865031200,
+      "id_str": "1196868430865031168",
+      "text": "Jo Swinson shoots red squirrels... https://t.co/Ww67fPUY39",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ww67fPUY39",
+            "expanded_url": "https://twitter.com/firstdraftnews/status/1196742295732834304",
+            "display_url": "twitter.com/firstdraftnews…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470187332,
+        "id_str": "470187332",
+        "name": "JOE CARROLL @Google @YouTube @netflix",
+        "screen_name": "joeleeds_motd",
+        "location": "Robinson Crusoe Island",
+        "description": "🐶🇪🇺🚴‍♂️🐝☘️🌻🍺🚒🏎️@skyarts  #DHL #lufc #TDF #NASA. @ebay @google  NP19..@Twitter @youtube @netflix @Instagram is me😍🌍🐺⚽ happy xmas 🎄, 🎅⛄🍺",
+        "url": "https://t.co/P3dJYKkChA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/P3dJYKkChA",
+                "expanded_url": "http://HASHTAGgames.com",
+                "display_url": "HASHTAGgames.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6413,
+        "friends_count": 7063,
+        "listed_count": 105,
+        "created_at": "Sat Jan 21 12:20:32 +0000 2012",
+        "favourites_count": 80917,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61995,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470187332/1536428234",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1a989c2c4ed199a1",
+        "url": "https://api.twitter.com/1.1/geo/id/1a989c2c4ed199a1.json",
+        "place_type": "city",
+        "name": "Alway",
+        "full_name": "Alway, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -2.968967,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.595522
+              ],
+              [
+                -2.968967,
+                51.595522
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196742295732834300,
+      "quoted_status_id_str": "1196742295732834304",
+      "quoted_status": {
+        "created_at": "Tue Nov 19 10:49:32 +0000 2019",
+        "id": 1196742295732834300,
+        "id_str": "1196742295732834304",
+        "text": "The Medium post received relatively few interactions until it was shared by a Brexit Party account on Twitter with… https://t.co/74mjDuVxR2",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/74mjDuVxR2",
+              "expanded_url": "https://twitter.com/i/web/status/1196742295732834304",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1196739689115508700,
+        "in_reply_to_status_id_str": "1196739689115508736",
+        "in_reply_to_user_id": 3314775459,
+        "in_reply_to_user_id_str": "3314775459",
+        "in_reply_to_screen_name": "firstdraftnews",
+        "user": {
+          "id": 3314775459,
+          "id_str": "3314775459",
+          "name": "First Draft",
+          "screen_name": "firstdraftnews",
+          "location": "New York, USA",
+          "description": "Non-profit fighting misinformation globally. Proud engine behind CrossCheck and @comprova. Free course on verifying online media: https://t.co/J34OvUJHI1",
+          "url": "https://t.co/idfgThYSea",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/idfgThYSea",
+                  "expanded_url": "http://firstdraftnews.org",
+                  "display_url": "firstdraftnews.org",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/J34OvUJHI1",
+                  "expanded_url": "http://firstdraftnews.org/learn",
+                  "display_url": "firstdraftnews.org/learn",
+                  "indices": [
+                    130,
+                    153
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 23709,
+          "friends_count": 1939,
+          "listed_count": 1264,
+          "created_at": "Tue Jun 09 11:01:31 +0000 2015",
+          "favourites_count": 2909,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 6960,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1172155111117864960/na4WVp-s_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172155111117864960/na4WVp-s_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3314775459/1568298444",
+          "profile_link_color": "9F1924",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 32,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.047,
+    "max_id": 1198589242844369000,
+    "max_id_str": "1198589242844368901",
+    "next_results": "?max_id=1196868430865031167&q=Jo%20Swinson&geocode=51.583333%2C-3%2C7.142857143mi&count=100&include_entities=1",
+    "query": "Jo+Swinson",
+    "refresh_url": "?since_id=1198589242844368901&q=Jo%20Swinson&geocode=51.583333%2C-3%2C7.142857143mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

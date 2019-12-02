@@ -1,0 +1,3284 @@
+{
+  "statuses": [
+    {
+      "created_at": "Thu Nov 21 20:13:41 +0000 2019",
+      "id": 1197609044535591000,
+      "id_str": "1197609044535590912",
+      "text": "RT @billingtoni: @peter4buckley The Public are not fools,all the Lies, Innuendo. Misinformation, Deceit, will be ultimately counter product…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "billingtoni",
+            "name": "freddy billington",
+            "id": 20146215,
+            "id_str": "20146215",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "peter4buckley",
+            "name": "🌹Without Prejudice...Peter Buckley 🎼🎭🎬✍️",
+            "id": 317048553,
+            "id_str": "317048553",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 317048553,
+        "id_str": "317048553",
+        "name": "🌹Without Prejudice...Peter Buckley 🎼🎭🎬✍️",
+        "screen_name": "peter4buckley",
+        "location": "London. UK",
+        "description": "Freelance comedy script writer/TV & Film. Political satire. Industry consultant/advisor. Music management/Prod. Old School Socialist Warrior.✊🌹🏉🎬🎭",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4991,
+        "friends_count": 4860,
+        "listed_count": 20,
+        "created_at": "Tue Jun 14 10:51:53 +0000 2011",
+        "favourites_count": 36549,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 48890,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1023108284688097280/iLDjPuhE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023108284688097280/iLDjPuhE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/317048553/1521666831",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 19:54:59 +0000 2019",
+        "id": 1197604337586978800,
+        "id_str": "1197604337586978819",
+        "text": "@peter4buckley The Public are not fools,all the Lies, Innuendo. Misinformation, Deceit, will be ultimately counter… https://t.co/rAMkTcplnN",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "peter4buckley",
+              "name": "🌹Without Prejudice...Peter Buckley 🎼🎭🎬✍️",
+              "id": 317048553,
+              "id_str": "317048553",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/rAMkTcplnN",
+              "expanded_url": "https://twitter.com/i/web/status/1197604337586978819",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1197580523998208000,
+        "in_reply_to_status_id_str": "1197580523998208001",
+        "in_reply_to_user_id": 317048553,
+        "in_reply_to_user_id_str": "317048553",
+        "in_reply_to_screen_name": "peter4buckley",
+        "user": {
+          "id": 20146215,
+          "id_str": "20146215",
+          "name": "freddy billington",
+          "screen_name": "billingtoni",
+          "location": "Derry, N Ireland",
+          "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 576,
+          "friends_count": 323,
+          "listed_count": 2,
+          "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+          "favourites_count": 14918,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 30195,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 19:55:56 +0000 2019",
+      "id": 1197604577203413000,
+      "id_str": "1197604577203412993",
+      "text": "@cookiris14 @CathyMcRorie Nasty Conservative Party living up to their name.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cookiris14",
+            "name": "Facebook.com/groups/4575411 be uncensored scotl",
+            "id": 726721533142511600,
+            "id_str": "726721533142511616",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "CathyMcRorie",
+            "name": "Kitty Cybernat",
+            "id": 295211634,
+            "id_str": "295211634",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1197478932834111500,
+      "in_reply_to_status_id_str": "1197478932834111488",
+      "in_reply_to_user_id": 726721533142511600,
+      "in_reply_to_user_id_str": "726721533142511616",
+      "in_reply_to_screen_name": "cookiris14",
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 19:54:59 +0000 2019",
+      "id": 1197604337586978800,
+      "id_str": "1197604337586978819",
+      "text": "@peter4buckley The Public are not fools,all the Lies, Innuendo. Misinformation, Deceit, will be ultimately counter… https://t.co/rAMkTcplnN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "peter4buckley",
+            "name": "🌹Without Prejudice...Peter Buckley 🎼🎭🎬✍️",
+            "id": 317048553,
+            "id_str": "317048553",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rAMkTcplnN",
+            "expanded_url": "https://twitter.com/i/web/status/1197604337586978819",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1197580523998208000,
+      "in_reply_to_status_id_str": "1197580523998208001",
+      "in_reply_to_user_id": 317048553,
+      "in_reply_to_user_id_str": "317048553",
+      "in_reply_to_screen_name": "peter4buckley",
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 14:12:21 +0000 2019",
+      "id": 1197518111211217000,
+      "id_str": "1197518111211216896",
+      "text": "RT @StuartC93: @berniespofforth Thankfully, my values and my Brexit vote are represented by the same Party. I’ve been Conservative since 20…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StuartC93",
+            "name": "Stuart Canning",
+            "id": 18847351,
+            "id_str": "18847351",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "berniespofforth",
+            "name": "Bernie'sTweets",
+            "id": 755135678422327300,
+            "id_str": "755135678422327296",
+            "indices": [
+              15,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1110866447948021800,
+        "id_str": "1110866447948021761",
+        "name": "Grace Robertson",
+        "screen_name": "GraceRo95193774",
+        "location": "",
+        "description": "Like to see the funny side of life",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1189,
+        "friends_count": 1572,
+        "listed_count": 2,
+        "created_at": "Wed Mar 27 11:29:34 +0000 2019",
+        "favourites_count": 48948,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44919,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 12:00:57 +0000 2019",
+        "id": 1197485046199935000,
+        "id_str": "1197485046199934978",
+        "text": "@berniespofforth Thankfully, my values and my Brexit vote are represented by the same Party. I’ve been Conservative… https://t.co/TpSAvo9tPF",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "berniespofforth",
+              "name": "Bernie'sTweets",
+              "id": 755135678422327300,
+              "id_str": "755135678422327296",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/TpSAvo9tPF",
+              "expanded_url": "https://twitter.com/i/web/status/1197485046199934978",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1197198898093273000,
+        "in_reply_to_status_id_str": "1197198898093273088",
+        "in_reply_to_user_id": 755135678422327300,
+        "in_reply_to_user_id_str": "755135678422327296",
+        "in_reply_to_screen_name": "berniespofforth",
+        "user": {
+          "id": 18847351,
+          "id_str": "18847351",
+          "name": "Stuart Canning",
+          "screen_name": "StuartC93",
+          "location": "Londonderry, Northern Ireland",
+          "description": "Northern Irish | British | UU Law Graduate | Fiancé | Tory | 90’s kid",
+          "url": "https://t.co/rjhMKtTCOA",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/rjhMKtTCOA",
+                  "expanded_url": "https://m.facebook.com/stuart.canning",
+                  "display_url": "m.facebook.com/stuart.canning",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 613,
+          "friends_count": 320,
+          "listed_count": 24,
+          "created_at": "Sat Jan 10 21:36:47 +0000 2009",
+          "favourites_count": 3379,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 14825,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/18847351/1573844590",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 12:00:57 +0000 2019",
+      "id": 1197485046199935000,
+      "id_str": "1197485046199934978",
+      "text": "@berniespofforth Thankfully, my values and my Brexit vote are represented by the same Party. I’ve been Conservative… https://t.co/TpSAvo9tPF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "berniespofforth",
+            "name": "Bernie'sTweets",
+            "id": 755135678422327300,
+            "id_str": "755135678422327296",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TpSAvo9tPF",
+            "expanded_url": "https://twitter.com/i/web/status/1197485046199934978",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1197198898093273000,
+      "in_reply_to_status_id_str": "1197198898093273088",
+      "in_reply_to_user_id": 755135678422327300,
+      "in_reply_to_user_id_str": "755135678422327296",
+      "in_reply_to_screen_name": "berniespofforth",
+      "user": {
+        "id": 18847351,
+        "id_str": "18847351",
+        "name": "Stuart Canning",
+        "screen_name": "StuartC93",
+        "location": "Londonderry, Northern Ireland",
+        "description": "Northern Irish | British | UU Law Graduate | Fiancé | Tory | 90’s kid",
+        "url": "https://t.co/rjhMKtTCOA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rjhMKtTCOA",
+                "expanded_url": "https://m.facebook.com/stuart.canning",
+                "display_url": "m.facebook.com/stuart.canning",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 613,
+        "friends_count": 320,
+        "listed_count": 24,
+        "created_at": "Sat Jan 10 21:36:47 +0000 2009",
+        "favourites_count": 3379,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14825,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18847351/1573844590",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 21:31:32 +0000 2019",
+      "id": 1197266248054300700,
+      "id_str": "1197266248054300675",
+      "text": "@Euan_C_ @DavidLammy @michaelgove Claimed his journalism was a \"polemic\" when actually it was a clear statement of… https://t.co/lhx2A9XoLP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Euan_C_",
+            "name": "Evan",
+            "id": 408090791,
+            "id_str": "408090791",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "DavidLammy",
+            "name": "David Lammy",
+            "id": 18020612,
+            "id_str": "18020612",
+            "indices": [
+              9,
+              20
+            ]
+          },
+          {
+            "screen_name": "michaelgove",
+            "name": "Michael Gove",
+            "id": 748453510048518100,
+            "id_str": "748453510048518145",
+            "indices": [
+              21,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lhx2A9XoLP",
+            "expanded_url": "https://twitter.com/i/web/status/1197266248054300675",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1197261121863987200,
+      "in_reply_to_status_id_str": "1197261121863987203",
+      "in_reply_to_user_id": 408090791,
+      "in_reply_to_user_id_str": "408090791",
+      "in_reply_to_screen_name": "Euan_C_",
+      "user": {
+        "id": 53646835,
+        "id_str": "53646835",
+        "name": "Dr. Kevin Breslin Esq.|Dr. Caoimhghín Ó Breasláin",
+        "screen_name": "kevinpbreslin",
+        "location": "Derry",
+        "description": "#SDLP #WeneedtheGFA #FBPE #WATON #freenazanin #DespiteSinnFéin #PCPEU #BlockTheCoup #Peoplesvote #DontBuyTheSun 🇪🇺🇬🇧 🇮🇪 PhD, MPhil, MSci, MSci",
+        "url": "https://t.co/X0eFx7UMIM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/X0eFx7UMIM",
+                "expanded_url": "https://www.facebook.com/semiconductorphysicist",
+                "display_url": "facebook.com/semiconductorp…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2594,
+        "friends_count": 4998,
+        "listed_count": 78,
+        "created_at": "Sat Jul 04 10:56:58 +0000 2009",
+        "favourites_count": 139549,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 202402,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CC0033",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174419953358970881/i0wqnLLT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174419953358970881/i0wqnLLT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53646835/1573745994",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 11:21:15 +0000 2019",
+      "id": 1197112665954488300,
+      "id_str": "1197112665954488320",
+      "text": "@JamesCleverly @_petermason Says the Disgraced Chairman of the Conservative Party and Minister Without Portfolio Ja… https://t.co/hDv91ITaVO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JamesCleverly",
+            "name": "James Cleverly",
+            "id": 14077382,
+            "id_str": "14077382",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "_petermason",
+            "name": "Peter Mason",
+            "id": 71513171,
+            "id_str": "71513171",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hDv91ITaVO",
+            "expanded_url": "https://twitter.com/i/web/status/1197112665954488320",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1197080356349993000,
+      "in_reply_to_status_id_str": "1197080356349992960",
+      "in_reply_to_user_id": 14077382,
+      "in_reply_to_user_id_str": "14077382",
+      "in_reply_to_screen_name": "JamesCleverly",
+      "user": {
+        "id": 53646835,
+        "id_str": "53646835",
+        "name": "Dr. Kevin Breslin Esq.|Dr. Caoimhghín Ó Breasláin",
+        "screen_name": "kevinpbreslin",
+        "location": "Derry",
+        "description": "#SDLP #WeneedtheGFA #FBPE #WATON #freenazanin #DespiteSinnFéin #PCPEU #BlockTheCoup #Peoplesvote #DontBuyTheSun 🇪🇺🇬🇧 🇮🇪 PhD, MPhil, MSci, MSci",
+        "url": "https://t.co/X0eFx7UMIM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/X0eFx7UMIM",
+                "expanded_url": "https://www.facebook.com/semiconductorphysicist",
+                "display_url": "facebook.com/semiconductorp…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2594,
+        "friends_count": 4998,
+        "listed_count": 78,
+        "created_at": "Sat Jul 04 10:56:58 +0000 2009",
+        "favourites_count": 139549,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 202402,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CC0033",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174419953358970881/i0wqnLLT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174419953358970881/i0wqnLLT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53646835/1573745994",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 11:53:41 +0000 2019",
+      "id": 1196758440976273400,
+      "id_str": "1196758440976273410",
+      "text": "RT @billingtoni: Enlightening RT,save The NHS from unscrupulous corporate USA&amp;Conservative party https://t.co/8vI1AfirUm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "billingtoni",
+            "name": "freddy billington",
+            "id": 20146215,
+            "id_str": "20146215",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8vI1AfirUm",
+            "expanded_url": "https://twitter.com/rozzleberry/status/1196713113057402880",
+            "display_url": "twitter.com/rozzleberry/st…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3222584008,
+        "id_str": "3222584008",
+        "name": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Collaborator Baroness Cybernat",
+        "screen_name": "mckinlay_liz",
+        "location": "Highlands, Scotland",
+        "description": "Professional beach bum / bag lady.Hobbies are swearing and falling over. Passions are Scottish Independence, animal rights and Palestine. Nae tories, thanks.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7788,
+        "friends_count": 7840,
+        "listed_count": 235,
+        "created_at": "Wed Apr 29 23:16:11 +0000 2015",
+        "favourites_count": 514993,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 433075,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121469785282236416/G91_v5bY_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121469785282236416/G91_v5bY_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3222584008/1558471473",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 19 09:31:16 +0000 2019",
+        "id": 1196722598610186200,
+        "id_str": "1196722598610186241",
+        "text": "Enlightening RT,save The NHS from unscrupulous corporate USA&amp;Conservative party https://t.co/8vI1AfirUm",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/8vI1AfirUm",
+              "expanded_url": "https://twitter.com/rozzleberry/status/1196713113057402880",
+              "display_url": "twitter.com/rozzleberry/st…",
+              "indices": [
+                84,
+                107
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20146215,
+          "id_str": "20146215",
+          "name": "freddy billington",
+          "screen_name": "billingtoni",
+          "location": "Derry, N Ireland",
+          "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 576,
+          "friends_count": 323,
+          "listed_count": 2,
+          "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+          "favourites_count": 14918,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 30195,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1196713113057403000,
+        "quoted_status_id_str": "1196713113057402880",
+        "quoted_status": {
+          "created_at": "Tue Nov 19 08:53:34 +0000 2019",
+          "id": 1196713113057403000,
+          "id_str": "1196713113057402880",
+          "text": "This explosive filming should remove any doubt from anyone’s mind that @BorisJohnson is involved in a covert operat… https://t.co/SJzLrhJRxJ",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "BorisJohnson",
+                "name": "Boris Johnson",
+                "id": 3131144855,
+                "id_str": "3131144855",
+                "indices": [
+                  71,
+                  84
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/SJzLrhJRxJ",
+                "expanded_url": "https://twitter.com/i/web/status/1196713113057402880",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 28539960,
+            "id_str": "28539960",
+            "name": "Rose Shillito 🌹 #GetAPostalVote",
+            "screen_name": "rozzleberry",
+            "location": "",
+            "description": "Liverpunlian hoping #SensibleSocialism can save us from barbarism. Ex Chief-Sub, Vogue. #JC4PM to #RebuildBritain #ForTheMany",
+            "url": null,
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 6442,
+            "friends_count": 3373,
+            "listed_count": 8,
+            "created_at": "Fri Apr 03 10:53:17 +0000 2009",
+            "favourites_count": 31700,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 18484,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1146794643960541184/vh8erj2v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146794643960541184/vh8erj2v_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28539960/1562252177",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": true,
+          "quoted_status_id": 1196685691964534800,
+          "quoted_status_id_str": "1196685691964534785",
+          "retweet_count": 452,
+          "favorite_count": 443,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1196713113057403000,
+      "quoted_status_id_str": "1196713113057402880",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 09:31:16 +0000 2019",
+      "id": 1196722598610186200,
+      "id_str": "1196722598610186241",
+      "text": "Enlightening RT,save The NHS from unscrupulous corporate USA&amp;Conservative party https://t.co/8vI1AfirUm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8vI1AfirUm",
+            "expanded_url": "https://twitter.com/rozzleberry/status/1196713113057402880",
+            "display_url": "twitter.com/rozzleberry/st…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196713113057403000,
+      "quoted_status_id_str": "1196713113057402880",
+      "quoted_status": {
+        "created_at": "Tue Nov 19 08:53:34 +0000 2019",
+        "id": 1196713113057403000,
+        "id_str": "1196713113057402880",
+        "text": "This explosive filming should remove any doubt from anyone’s mind that @BorisJohnson is involved in a covert operat… https://t.co/SJzLrhJRxJ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BorisJohnson",
+              "name": "Boris Johnson",
+              "id": 3131144855,
+              "id_str": "3131144855",
+              "indices": [
+                71,
+                84
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/SJzLrhJRxJ",
+              "expanded_url": "https://twitter.com/i/web/status/1196713113057402880",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 28539960,
+          "id_str": "28539960",
+          "name": "Rose Shillito 🌹 #GetAPostalVote",
+          "screen_name": "rozzleberry",
+          "location": "",
+          "description": "Liverpunlian hoping #SensibleSocialism can save us from barbarism. Ex Chief-Sub, Vogue. #JC4PM to #RebuildBritain #ForTheMany",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 6442,
+          "friends_count": 3373,
+          "listed_count": 8,
+          "created_at": "Fri Apr 03 10:53:17 +0000 2009",
+          "favourites_count": 31700,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 18484,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1146794643960541184/vh8erj2v_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146794643960541184/vh8erj2v_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/28539960/1562252177",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1196685691964534800,
+        "quoted_status_id_str": "1196685691964534785",
+        "retweet_count": 452,
+        "favorite_count": 443,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 23:57:23 +0000 2019",
+      "id": 1196215790581813200,
+      "id_str": "1196215790581813249",
+      "text": "@helenhims @Conservatives @brexitparty_uk @BorisJohnson Peterborough was held by a Conservative until 2017. They’d… https://t.co/GnAxyTzYFr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "helenhims",
+            "name": "Helen Hims",
+            "id": 2742987461,
+            "id_str": "2742987461",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "Conservatives",
+            "name": "Conservatives",
+            "id": 14281853,
+            "id_str": "14281853",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "brexitparty_uk",
+            "name": "The Brexit Party",
+            "id": 1094881364887986200,
+            "id_str": "1094881364887986177",
+            "indices": [
+              26,
+              41
+            ]
+          },
+          {
+            "screen_name": "BorisJohnson",
+            "name": "Boris Johnson",
+            "id": 3131144855,
+            "id_str": "3131144855",
+            "indices": [
+              42,
+              55
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GnAxyTzYFr",
+            "expanded_url": "https://twitter.com/i/web/status/1196215790581813249",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1195982308546883600,
+      "in_reply_to_status_id_str": "1195982308546883585",
+      "in_reply_to_user_id": 2742987461,
+      "in_reply_to_user_id_str": "2742987461",
+      "in_reply_to_screen_name": "helenhims",
+      "user": {
+        "id": 18847351,
+        "id_str": "18847351",
+        "name": "Stuart Canning",
+        "screen_name": "StuartC93",
+        "location": "Londonderry, Northern Ireland",
+        "description": "Northern Irish | British | UU Law Graduate | Fiancé | Tory | 90’s kid",
+        "url": "https://t.co/rjhMKtTCOA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rjhMKtTCOA",
+                "expanded_url": "https://m.facebook.com/stuart.canning",
+                "display_url": "m.facebook.com/stuart.canning",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 613,
+        "friends_count": 320,
+        "listed_count": 24,
+        "created_at": "Sat Jan 10 21:36:47 +0000 2009",
+        "favourites_count": 3379,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14825,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18847351/1573844590",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 17:42:33 +0000 2019",
+      "id": 1196121461120995300,
+      "id_str": "1196121461120995331",
+      "text": "No @brexitparty_uk candidate running in Your Constituency?  Dislike the thought of voting for the @Conservative can… https://t.co/KBQDjuA4K1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brexitparty_uk",
+            "name": "The Brexit Party",
+            "id": 1094881364887986200,
+            "id_str": "1094881364887986177",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "Conservative",
+            "name": "@Conservative",
+            "id": 2169511,
+            "id_str": "2169511",
+            "indices": [
+              98,
+              111
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KBQDjuA4K1",
+            "expanded_url": "https://twitter.com/i/web/status/1196121461120995331",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1178149744184565800,
+        "id_str": "1178149744184565760",
+        "name": "Jim The Brexiteer🇬🇧🤗🇬🇧",
+        "screen_name": "JimmyMalcolm3",
+        "location": "Planet Earth, UK",
+        "description": "Former Soldier &  Firefighter. serving Country/Community for over 30 years just for Snowflakes to say I stole their future!  #FollowForFollow #CleanBreakBrexit",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 133,
+        "friends_count": 251,
+        "listed_count": 1,
+        "created_at": "Sun Sep 29 03:29:40 +0000 2019",
+        "favourites_count": 339,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1061,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179858441923432456/ibeYL7V7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179858441923432456/ibeYL7V7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178149744184565760/1574087748",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5c5527129aecd398",
+        "url": "https://api.twitter.com/1.1/geo/id/5c5527129aecd398.json",
+        "place_type": "city",
+        "name": "Londonderry",
+        "full_name": "Londonderry, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -7.3595434,
+                54.9697857
+              ],
+              [
+                -7.2663468,
+                54.9697857
+              ],
+              [
+                -7.2663468,
+                55.0425905
+              ],
+              [
+                -7.3595434,
+                55.0425905
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 16:33:41 +0000 2019",
+      "id": 1195741739857956900,
+      "id_str": "1195741739857956865",
+      "text": "RT @Dean_Journalist: Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative party…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Dean_Journalist",
+            "name": "Dean McLaughlin",
+            "id": 406672625,
+            "id_str": "406672625",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 993738933287743500,
+        "id_str": "993738933287743488",
+        "name": "Maura 🎄🎅🤶⛄🌟",
+        "screen_name": "SadiesAngel208",
+        "location": "Mayo, Ireland",
+        "description": "Love dogs 🐶🐕  running, swimming #FreeBrendanDassey #FreeStevenAvery #FreeRodneyReed  #FreeLeonardPeltier #Think32🇮🇪  https://t.co/tTTBm5eB4u",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/tTTBm5eB4u",
+                "expanded_url": "http://freedomforbrendandassey.com",
+                "display_url": "freedomforbrendandassey.com",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1292,
+        "friends_count": 1436,
+        "listed_count": 3,
+        "created_at": "Tue May 08 06:26:39 +0000 2018",
+        "favourites_count": 55214,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195515288915238918/UnW-Gk6V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195515288915238918/UnW-Gk6V_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993738933287743488/1570749330",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 11 20:11:23 +0000 2019",
+        "id": 1193984586772074500,
+        "id_str": "1193984586772074496",
+        "text": "Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative pa… https://t.co/6u4lu0W8WC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/6u4lu0W8WC",
+              "expanded_url": "https://twitter.com/i/web/status/1193984586772074496",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 406672625,
+          "id_str": "406672625",
+          "name": "Dean McLaughlin",
+          "screen_name": "Dean_Journalist",
+          "location": "Derry, Northern Ireland",
+          "description": "BBC News journo | Started @BBCRadioFoyle/@BBCNewsNI in 2012 presenting, reporting, digital etc. Email: dean.mclaughlin@bbc.co.uk | Also on Insta. 📱📻🎧📽🍷✈☀️",
+          "url": "https://t.co/EwGIsKmH75",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/EwGIsKmH75",
+                  "expanded_url": "http://instagram.com/dean_journalist",
+                  "display_url": "instagram.com/dean_journalist",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 6853,
+          "friends_count": 6622,
+          "listed_count": 121,
+          "created_at": "Mon Nov 07 01:28:02 +0000 2011",
+          "favourites_count": 25556,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 28073,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/406672625/1566758514",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 64,
+        "favorite_count": 123,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 10:43:35 +0000 2019",
+      "id": 1195653637458006000,
+      "id_str": "1195653637458006017",
+      "text": "@scott_steve @Channel4News British Broadband, the 1st visionary policy of any of the Partys &amp; the usual suspects li… https://t.co/42fQqd24Sk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "scott_steve",
+            "name": "Steve Scott",
+            "id": 295795401,
+            "id_str": "295795401",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Channel4News",
+            "name": "Channel 4 News",
+            "id": 14569869,
+            "id_str": "14569869",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/42fQqd24Sk",
+            "expanded_url": "https://twitter.com/i/web/status/1195653637458006017",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1195434810010996700,
+      "in_reply_to_status_id_str": "1195434810010996738",
+      "in_reply_to_user_id": 295795401,
+      "in_reply_to_user_id_str": "295795401",
+      "in_reply_to_screen_name": "scott_steve",
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 18:38:53 +0000 2019",
+      "id": 1195048474523422700,
+      "id_str": "1195048474523422720",
+      "text": "@BENEFITS_NEWS Providing it,s the Conscious Cruel Conservative Party. Any other party,s receiving funding from the Russians ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BENEFITS_NEWS",
+            "name": "BENEFITS NEWS",
+            "id": 4862582645,
+            "id_str": "4862582645",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1195038730828091400,
+      "in_reply_to_status_id_str": "1195038730828091394",
+      "in_reply_to_user_id": 4862582645,
+      "in_reply_to_user_id_str": "4862582645",
+      "in_reply_to_screen_name": "BENEFITS_NEWS",
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 13:28:40 +0000 2019",
+      "id": 1194970402436595700,
+      "id_str": "1194970402436595718",
+      "text": "RT @Dean_Journalist: Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative party…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Dean_Journalist",
+            "name": "Dean McLaughlin",
+            "id": 406672625,
+            "id_str": "406672625",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22644834,
+        "id_str": "22644834",
+        "name": "charlie mc menamin",
+        "screen_name": "Bogsideandproud",
+        "location": "derry city,ireland",
+        "description": "community activist trying my best to improve the island of ireland for everyone,of all denominations and backgrounds. My views are my own",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4849,
+        "friends_count": 4674,
+        "listed_count": 57,
+        "created_at": "Tue Mar 03 16:56:16 +0000 2009",
+        "favourites_count": 57733,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 64821,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187371577987477505/0DIxMl-A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187371577987477505/0DIxMl-A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22644834/1571926421",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 11 20:11:23 +0000 2019",
+        "id": 1193984586772074500,
+        "id_str": "1193984586772074496",
+        "text": "Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative pa… https://t.co/6u4lu0W8WC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/6u4lu0W8WC",
+              "expanded_url": "https://twitter.com/i/web/status/1193984586772074496",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 406672625,
+          "id_str": "406672625",
+          "name": "Dean McLaughlin",
+          "screen_name": "Dean_Journalist",
+          "location": "Derry, Northern Ireland",
+          "description": "BBC News journo | Started @BBCRadioFoyle/@BBCNewsNI in 2012 presenting, reporting, digital etc. Email: dean.mclaughlin@bbc.co.uk | Also on Insta. 📱📻🎧📽🍷✈☀️",
+          "url": "https://t.co/EwGIsKmH75",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/EwGIsKmH75",
+                  "expanded_url": "http://instagram.com/dean_journalist",
+                  "display_url": "instagram.com/dean_journalist",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 6853,
+          "friends_count": 6622,
+          "listed_count": 121,
+          "created_at": "Mon Nov 07 01:28:02 +0000 2011",
+          "favourites_count": 25556,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 28073,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/406672625/1566758514",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 64,
+        "favorite_count": 123,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 22:16:25 +0000 2019",
+      "id": 1194740829832786000,
+      "id_str": "1194740829832785920",
+      "text": "Conservative Incompetence or wilful destruction of the NHS By The Conscious Conservative Cruelty party https://t.co/ar27WOn8q6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ar27WOn8q6",
+            "expanded_url": "https://twitter.com/redsarah99/status/1194739693214150659",
+            "display_url": "twitter.com/redsarah99/sta…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20146215,
+        "id_str": "20146215",
+        "name": "freddy billington",
+        "screen_name": "billingtoni",
+        "location": "Derry, N Ireland",
+        "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 576,
+        "friends_count": 323,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+        "favourites_count": 14918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1194739693214150700,
+      "quoted_status_id_str": "1194739693214150659",
+      "quoted_status": {
+        "created_at": "Wed Nov 13 22:11:54 +0000 2019",
+        "id": 1194739693214150700,
+        "id_str": "1194739693214150659",
+        "text": "From 2015\n#LabourNHSRescue \n\n\"Finances of the NHS have been in steady decline since the coalition of 2010-15 implem… https://t.co/vimSlMVks1",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "LabourNHSRescue",
+              "indices": [
+                10,
+                26
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/vimSlMVks1",
+              "expanded_url": "https://twitter.com/i/web/status/1194739693214150659",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 189072881,
+          "id_str": "189072881",
+          "name": "RedSarah#VoteLabour",
+          "screen_name": "redsarah99",
+          "location": "",
+          "description": "#VoteLabour #RealChange #VoteLabourDecember12",
+          "url": "https://t.co/C2js91ZsYc",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/C2js91ZsYc",
+                  "expanded_url": "https://join.labour.org.uk/",
+                  "display_url": "join.labour.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 11577,
+          "friends_count": 12023,
+          "listed_count": 102,
+          "created_at": "Fri Sep 10 09:22:52 +0000 2010",
+          "favourites_count": 94826,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 186889,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "ACDED6",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1196965150126940161/ZzrFg8q1_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196965150126940161/ZzrFg8q1_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/189072881/1574120828",
+          "profile_link_color": "038543",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "F6F6F6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 18:03:46 +0000 2019",
+      "id": 1194677248512659500,
+      "id_str": "1194677248512659456",
+      "text": "RT @Dean_Journalist: Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative party…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Dean_Journalist",
+            "name": "Dean McLaughlin",
+            "id": 406672625,
+            "id_str": "406672625",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1169557084872073200,
+        "id_str": "1169557084872073218",
+        "name": "Labour for Irish Unity #LFIU",
+        "screen_name": "LFIU2019",
+        "location": "London, England",
+        "description": "Labour for Irish Unity seeks to campaign in the British Labour movement & the Irish community in Britain for the re-unification of Ireland by people of Ireland.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 147,
+        "friends_count": 215,
+        "listed_count": 0,
+        "created_at": "Thu Sep 05 10:26:16 +0000 2019",
+        "favourites_count": 144,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 142,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169557441295634433/NBYxeNsq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169557441295634433/NBYxeNsq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169557084872073218/1567680817",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 11 20:11:23 +0000 2019",
+        "id": 1193984586772074500,
+        "id_str": "1193984586772074496",
+        "text": "Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative pa… https://t.co/6u4lu0W8WC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/6u4lu0W8WC",
+              "expanded_url": "https://twitter.com/i/web/status/1193984586772074496",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 406672625,
+          "id_str": "406672625",
+          "name": "Dean McLaughlin",
+          "screen_name": "Dean_Journalist",
+          "location": "Derry, Northern Ireland",
+          "description": "BBC News journo | Started @BBCRadioFoyle/@BBCNewsNI in 2012 presenting, reporting, digital etc. Email: dean.mclaughlin@bbc.co.uk | Also on Insta. 📱📻🎧📽🍷✈☀️",
+          "url": "https://t.co/EwGIsKmH75",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/EwGIsKmH75",
+                  "expanded_url": "http://instagram.com/dean_journalist",
+                  "display_url": "instagram.com/dean_journalist",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 6853,
+          "friends_count": 6622,
+          "listed_count": 121,
+          "created_at": "Mon Nov 07 01:28:02 +0000 2011",
+          "favourites_count": 25556,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 28073,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/406672625/1566758514",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 64,
+        "favorite_count": 123,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 17:17:45 +0000 2019",
+      "id": 1194665668014170000,
+      "id_str": "1194665668014170112",
+      "text": "RT @Dean_Journalist: Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative party…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Dean_Journalist",
+            "name": "Dean McLaughlin",
+            "id": 406672625,
+            "id_str": "406672625",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3248765446,
+        "id_str": "3248765446",
+        "name": "Angie Birtill",
+        "screen_name": "AngieBirtill",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 106,
+        "friends_count": 281,
+        "listed_count": 1,
+        "created_at": "Tue May 12 20:02:06 +0000 2015",
+        "favourites_count": 1441,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 668,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631028126177472512/3ygo6uK6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631028126177472512/3ygo6uK6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3248765446/1439283780",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 11 20:11:23 +0000 2019",
+        "id": 1193984586772074500,
+        "id_str": "1193984586772074496",
+        "text": "Emmett McConomy's brother Stephen was shot by a British soldier aged 11 in 1982. He has described a Conservative pa… https://t.co/6u4lu0W8WC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/6u4lu0W8WC",
+              "expanded_url": "https://twitter.com/i/web/status/1193984586772074496",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 406672625,
+          "id_str": "406672625",
+          "name": "Dean McLaughlin",
+          "screen_name": "Dean_Journalist",
+          "location": "Derry, Northern Ireland",
+          "description": "BBC News journo | Started @BBCRadioFoyle/@BBCNewsNI in 2012 presenting, reporting, digital etc. Email: dean.mclaughlin@bbc.co.uk | Also on Insta. 📱📻🎧📽🍷✈☀️",
+          "url": "https://t.co/EwGIsKmH75",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/EwGIsKmH75",
+                  "expanded_url": "http://instagram.com/dean_journalist",
+                  "display_url": "instagram.com/dean_journalist",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 6853,
+          "friends_count": 6622,
+          "listed_count": 121,
+          "created_at": "Mon Nov 07 01:28:02 +0000 2011",
+          "favourites_count": 25556,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 28073,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179109193174982657/-1Czpv9m_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/406672625/1566758514",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 64,
+        "favorite_count": 123,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 08:53:38 +0000 2019",
+      "id": 1194538802829770800,
+      "id_str": "1194538802829770752",
+      "text": "RT @billingtoni: @BelfastUnionist @BBCNewsNI @BBCTalkback @News_Letter Misinformation , Tory,s are in coalition with Brexit Party,hencefort…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "billingtoni",
+            "name": "freddy billington",
+            "id": 20146215,
+            "id_str": "20146215",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "BelfastUnionist",
+            "name": "Belfast Unionist",
+            "id": 1442105688,
+            "id_str": "1442105688",
+            "indices": [
+              17,
+              33
+            ]
+          },
+          {
+            "screen_name": "BBCNewsNI",
+            "name": "BBC News NI",
+            "id": 622123,
+            "id_str": "622123",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "BBCTalkback",
+            "name": "BBC Talkback",
+            "id": 2815613005,
+            "id_str": "2815613005",
+            "indices": [
+              45,
+              57
+            ]
+          },
+          {
+            "screen_name": "News_Letter",
+            "name": "Belfast News Letter",
+            "id": 135920727,
+            "id_str": "135920727",
+            "indices": [
+              58,
+              70
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20584022,
+        "id_str": "20584022",
+        "name": "wolfdancer - lwilde",
+        "screen_name": "wolfdancer",
+        "location": "Castle Douglas, Scotland",
+        "description": "Ospreys CrAZY dANCER LFC#6 YNWA, SNP/Green, Apple™fan. Serial RTer. English. Living in Scotland. Work@Threave Castle.All my views. Who's else would they be??",
+        "url": "https://t.co/PPgJiI7xB7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/PPgJiI7xB7",
+                "expanded_url": "http://www.youtube.com/profile?user=orcas3",
+                "display_url": "youtube.com/profile?user=o…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1686,
+        "friends_count": 5002,
+        "listed_count": 19,
+        "created_at": "Wed Feb 11 11:34:56 +0000 2009",
+        "favourites_count": 38117,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 55812,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A8A696",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697473157066838017/fxof2QWo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697473157066838017/fxof2QWo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20584022/1508331845",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "7FF2FA",
+        "profile_text_color": "EB7B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 12 11:05:15 +0000 2019",
+        "id": 1194209535071785000,
+        "id_str": "1194209535071784960",
+        "text": "@BelfastUnionist @BBCNewsNI @BBCTalkback @News_Letter Misinformation , Tory,s are in coalition with Brexit Party,he… https://t.co/Pf5qmRkuC4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BelfastUnionist",
+              "name": "Belfast Unionist",
+              "id": 1442105688,
+              "id_str": "1442105688",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "BBCNewsNI",
+              "name": "BBC News NI",
+              "id": 622123,
+              "id_str": "622123",
+              "indices": [
+                17,
+                27
+              ]
+            },
+            {
+              "screen_name": "BBCTalkback",
+              "name": "BBC Talkback",
+              "id": 2815613005,
+              "id_str": "2815613005",
+              "indices": [
+                28,
+                40
+              ]
+            },
+            {
+              "screen_name": "News_Letter",
+              "name": "Belfast News Letter",
+              "id": 135920727,
+              "id_str": "135920727",
+              "indices": [
+                41,
+                53
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Pf5qmRkuC4",
+              "expanded_url": "https://twitter.com/i/web/status/1194209535071784960",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1194195305018904600,
+        "in_reply_to_status_id_str": "1194195305018904576",
+        "in_reply_to_user_id": 1442105688,
+        "in_reply_to_user_id_str": "1442105688",
+        "in_reply_to_screen_name": "BelfastUnionist",
+        "user": {
+          "id": 20146215,
+          "id_str": "20146215",
+          "name": "freddy billington",
+          "screen_name": "billingtoni",
+          "location": "Derry, N Ireland",
+          "description": "Now retired,Formerly Miner,S.Yorks.Production/Tpt Foreman,Wadeville S.Africa.Fireman,Lorry Driver,Taxi Driver.Still above the soil.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 576,
+          "friends_count": 323,
+          "listed_count": 2,
+          "created_at": "Thu Feb 05 13:11:15 +0000 2009",
+          "favourites_count": 14918,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 30195,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/499533659376844800/B2Gdlox-_normal.png",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.069,
+    "max_id": 1197609044535591000,
+    "max_id_str": "1197609044535590912",
+    "next_results": "?max_id=1194538802829770751&q=Conservative%20Party&geocode=54.9958%2C-7.3074%2C4.545454545mi&count=100&include_entities=1",
+    "query": "Conservative+Party",
+    "refresh_url": "?since_id=1197609044535590912&q=Conservative%20Party&geocode=54.9958%2C-7.3074%2C4.545454545mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

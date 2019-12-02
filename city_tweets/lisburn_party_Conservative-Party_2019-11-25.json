@@ -1,0 +1,1882 @@
+{
+  "statuses": [
+    {
+      "created_at": "Mon Nov 25 15:27:20 +0000 2019",
+      "id": 1198986536030748700,
+      "id_str": "1198986536030748673",
+      "text": "RT @StripeyMiata: @dli_odoir @PaulTyredagh81 @LynneCampbell5 Always thought it was weird that the Conservative Party could run candidates h…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StripeyMiata",
+            "name": "Jonathan McCormack",
+            "id": 346769869,
+            "id_str": "346769869",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "dli_odoir",
+            "name": "Dli O'Doir",
+            "id": 2207730489,
+            "id_str": "2207730489",
+            "indices": [
+              18,
+              28
+            ]
+          },
+          {
+            "screen_name": "PaulTyredagh81",
+            "name": "Paul Patrick",
+            "id": 394030725,
+            "id_str": "394030725",
+            "indices": [
+              29,
+              44
+            ]
+          },
+          {
+            "screen_name": "LynneCampbell5",
+            "name": "pinkmiss",
+            "id": 496029811,
+            "id_str": "496029811",
+            "indices": [
+              45,
+              60
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 394030725,
+        "id_str": "394030725",
+        "name": "Paul Patrick",
+        "screen_name": "PaulTyredagh81",
+        "location": "Tyredagh",
+        "description": "Latin-America.Ireland.Britain.Never Forget.No Pasaran.Hasta la Victoria Siempre.If you are sectarian/bigoted/racist,don't follow me.Blocked by Nolan!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 9327,
+        "friends_count": 2845,
+        "listed_count": 182,
+        "created_at": "Wed Oct 19 13:30:36 +0000 2011",
+        "favourites_count": 251750,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 307316,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3707398041/353868c991308c085627a97761d91946_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3707398041/353868c991308c085627a97761d91946_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/394030725/1348601160",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 25 15:26:53 +0000 2019",
+        "id": 1198986420775469000,
+        "id_str": "1198986420775469056",
+        "text": "@dli_odoir @PaulTyredagh81 @LynneCampbell5 Always thought it was weird that the Conservative Party could run candid… https://t.co/16KXM43zGX",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "dli_odoir",
+              "name": "Dli O'Doir",
+              "id": 2207730489,
+              "id_str": "2207730489",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "PaulTyredagh81",
+              "name": "Paul Patrick",
+              "id": 394030725,
+              "id_str": "394030725",
+              "indices": [
+                11,
+                26
+              ]
+            },
+            {
+              "screen_name": "LynneCampbell5",
+              "name": "pinkmiss",
+              "id": 496029811,
+              "id_str": "496029811",
+              "indices": [
+                27,
+                42
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/16KXM43zGX",
+              "expanded_url": "https://twitter.com/i/web/status/1198986420775469056",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1198985907367493600,
+        "in_reply_to_status_id_str": "1198985907367493632",
+        "in_reply_to_user_id": 2207730489,
+        "in_reply_to_user_id_str": "2207730489",
+        "in_reply_to_screen_name": "dli_odoir",
+        "user": {
+          "id": 346769869,
+          "id_str": "346769869",
+          "name": "Jonathan McCormack",
+          "screen_name": "StripeyMiata",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Take Jesus – Take Marx – Take Hope",
+          "url": "https://t.co/pGsHcdPVN1",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/pGsHcdPVN1",
+                  "expanded_url": "https://about.me/Jonathan.McCormack",
+                  "display_url": "about.me/Jonathan.McCor…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1118,
+          "friends_count": 2589,
+          "listed_count": 20,
+          "created_at": "Mon Aug 01 20:22:04 +0000 2011",
+          "favourites_count": 13802,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 20618,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1190258588821983232/kpL8kwem_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190258588821983232/kpL8kwem_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/346769869/1572614770",
+          "profile_link_color": "FAB81E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 15:26:53 +0000 2019",
+      "id": 1198986420775469000,
+      "id_str": "1198986420775469056",
+      "text": "@dli_odoir @PaulTyredagh81 @LynneCampbell5 Always thought it was weird that the Conservative Party could run candid… https://t.co/16KXM43zGX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dli_odoir",
+            "name": "Dli O'Doir",
+            "id": 2207730489,
+            "id_str": "2207730489",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "PaulTyredagh81",
+            "name": "Paul Patrick",
+            "id": 394030725,
+            "id_str": "394030725",
+            "indices": [
+              11,
+              26
+            ]
+          },
+          {
+            "screen_name": "LynneCampbell5",
+            "name": "pinkmiss",
+            "id": 496029811,
+            "id_str": "496029811",
+            "indices": [
+              27,
+              42
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/16KXM43zGX",
+            "expanded_url": "https://twitter.com/i/web/status/1198986420775469056",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1198985907367493600,
+      "in_reply_to_status_id_str": "1198985907367493632",
+      "in_reply_to_user_id": 2207730489,
+      "in_reply_to_user_id_str": "2207730489",
+      "in_reply_to_screen_name": "dli_odoir",
+      "user": {
+        "id": 346769869,
+        "id_str": "346769869",
+        "name": "Jonathan McCormack",
+        "screen_name": "StripeyMiata",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Take Jesus – Take Marx – Take Hope",
+        "url": "https://t.co/pGsHcdPVN1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pGsHcdPVN1",
+                "expanded_url": "https://about.me/Jonathan.McCormack",
+                "display_url": "about.me/Jonathan.McCor…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1118,
+        "friends_count": 2589,
+        "listed_count": 20,
+        "created_at": "Mon Aug 01 20:22:04 +0000 2011",
+        "favourites_count": 13802,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20618,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190258588821983232/kpL8kwem_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190258588821983232/kpL8kwem_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/346769869/1572614770",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 15:44:38 +0000 2019",
+      "id": 1198628498832810000,
+      "id_str": "1198628498832809984",
+      "text": "@RandomPersonLiv I would definitely consider it, I tend to vote for the person as well as party, but as a working c… https://t.co/TnbFPIQUOs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RandomPersonLiv",
+            "name": "NormalPerson🌹🇪🇺🇵🇸🇪🇪 #GTTO #JC4PM",
+            "id": 988175214889590800,
+            "id_str": "988175214889590784",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TnbFPIQUOs",
+            "expanded_url": "https://twitter.com/i/web/status/1198628498832809984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198623789531193300,
+      "in_reply_to_status_id_str": "1198623789531193345",
+      "in_reply_to_user_id": 988175214889590800,
+      "in_reply_to_user_id_str": "988175214889590784",
+      "in_reply_to_screen_name": "RandomPersonLiv",
+      "user": {
+        "id": 346769869,
+        "id_str": "346769869",
+        "name": "Jonathan McCormack",
+        "screen_name": "StripeyMiata",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Take Jesus – Take Marx – Take Hope",
+        "url": "https://t.co/pGsHcdPVN1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pGsHcdPVN1",
+                "expanded_url": "https://about.me/Jonathan.McCormack",
+                "display_url": "about.me/Jonathan.McCor…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1118,
+        "friends_count": 2589,
+        "listed_count": 20,
+        "created_at": "Mon Aug 01 20:22:04 +0000 2011",
+        "favourites_count": 13802,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20618,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190258588821983232/kpL8kwem_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190258588821983232/kpL8kwem_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/346769869/1572614770",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 18:45:42 +0000 2019",
+      "id": 1197949292524249000,
+      "id_str": "1197949292524249088",
+      "text": "RT @GaryHynds: The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservative Party -…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GaryHynds",
+            "name": "Gary Hynds",
+            "id": 826847737643675600,
+            "id_str": "826847737643675649",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20507980,
+        "id_str": "20507980",
+        "name": "Harry Cullen",
+        "screen_name": "harrycullen",
+        "location": "portstewart n.ireland",
+        "description": "Past Company Chairman | Conservative | Striving for real politics in N. Ireland | Instonian | Past member of Conservative Party Board | Views are my own opinion",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 573,
+        "friends_count": 914,
+        "listed_count": 18,
+        "created_at": "Tue Feb 10 11:44:53 +0000 2009",
+        "favourites_count": 25832,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14499,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143105042490318850/MPZmBgPo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143105042490318850/MPZmBgPo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 20 19:34:33 +0000 2019",
+        "id": 1197236810948268000,
+        "id_str": "1197236810948268034",
+        "text": "The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservativ… https://t.co/PRlctYERpY",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/PRlctYERpY",
+              "expanded_url": "https://twitter.com/i/web/status/1197236810948268034",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 826847737643675600,
+          "id_str": "826847737643675649",
+          "name": "Gary Hynds",
+          "screen_name": "GaryHynds",
+          "location": "Lisburn",
+          "description": "Conservative Parliamentary Candidate for Lagan Valley. Spokesperson & Deputy Chair of the Northern Ireland Conservatives | ❤ Freedom & Liberty 🇬🇧 🏳️‍🌈",
+          "url": "https://t.co/9eCHhhRDCn",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9eCHhhRDCn",
+                  "expanded_url": "https://www.facebook.com/GaryHyndsConservative/",
+                  "display_url": "facebook.com/GaryHyndsConse…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4588,
+          "friends_count": 2152,
+          "listed_count": 41,
+          "created_at": "Wed Feb 01 17:40:37 +0000 2017",
+          "favourites_count": 40922,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 15189,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/826847737643675649/1536767289",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 06:24:16 +0000 2019",
+      "id": 1197762701495328800,
+      "id_str": "1197762701495328768",
+      "text": "@BrexitDoyin @damianham @Conservatives Tactical Voting means who has the best chance of Beating the sitting M.P whe… https://t.co/Y7BriREaMl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrexitDoyin",
+            "name": "Elizabeth Babade",
+            "id": 1121496592064876500,
+            "id_str": "1121496592064876545",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "damianham",
+            "name": "Tinkertwit McTwitFace",
+            "id": 39944151,
+            "id_str": "39944151",
+            "indices": [
+              13,
+              23
+            ]
+          },
+          {
+            "screen_name": "Conservatives",
+            "name": "Conservatives",
+            "id": 14281853,
+            "id_str": "14281853",
+            "indices": [
+              24,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Y7BriREaMl",
+            "expanded_url": "https://twitter.com/i/web/status/1197762701495328768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197759792900706300,
+      "in_reply_to_status_id_str": "1197759792900706306",
+      "in_reply_to_user_id": 1121496592064876500,
+      "in_reply_to_user_id_str": "1121496592064876545",
+      "in_reply_to_screen_name": "BrexitDoyin",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 511,
+        "friends_count": 571,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 22:15:41 +0000 2019",
+      "id": 1197639748782833700,
+      "id_str": "1197639748782833665",
+      "text": "@StevieBrexit @MikeHillMP Vote Conservative/TBP just kick Terrorist Loving Marxist Corbyns Labour Party OUT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StevieBrexit",
+            "name": "Brexit-Warrior-Steve #LeaveAlliance",
+            "id": 3391985055,
+            "id_str": "3391985055",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "MikeHillMP",
+            "name": "Mike Hill for Hartlepool",
+            "id": 495068194,
+            "id_str": "495068194",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197637749291016200,
+      "in_reply_to_status_id_str": "1197637749291016192",
+      "in_reply_to_user_id": 3391985055,
+      "in_reply_to_user_id_str": "3391985055",
+      "in_reply_to_screen_name": "StevieBrexit",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 511,
+        "friends_count": 571,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 21:07:30 +0000 2019",
+      "id": 1197260198710263800,
+      "id_str": "1197260198710263808",
+      "text": "RT @GaryHynds: The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservative Party -…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GaryHynds",
+            "name": "Gary Hynds",
+            "id": 826847737643675600,
+            "id_str": "826847737643675649",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 817726182426898400,
+        "id_str": "817726182426898432",
+        "name": "Kyle Knight 🌳",
+        "screen_name": "kyleknight609",
+        "location": "United Kingdom",
+        "description": "@Conservatives; Financial Services Consultant; Global Criminology MA @Roehamptonuni; Likes, retweets and comments are meant to stimulate discussion.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 911,
+        "friends_count": 1316,
+        "listed_count": 2,
+        "created_at": "Sat Jan 07 13:34:49 +0000 2017",
+        "favourites_count": 1656,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1155,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199068280180359169/F7rud8Em_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199068280180359169/F7rud8Em_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817726182426898432/1574713966",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 20 19:34:33 +0000 2019",
+        "id": 1197236810948268000,
+        "id_str": "1197236810948268034",
+        "text": "The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservativ… https://t.co/PRlctYERpY",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/PRlctYERpY",
+              "expanded_url": "https://twitter.com/i/web/status/1197236810948268034",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 826847737643675600,
+          "id_str": "826847737643675649",
+          "name": "Gary Hynds",
+          "screen_name": "GaryHynds",
+          "location": "Lisburn",
+          "description": "Conservative Parliamentary Candidate for Lagan Valley. Spokesperson & Deputy Chair of the Northern Ireland Conservatives | ❤ Freedom & Liberty 🇬🇧 🏳️‍🌈",
+          "url": "https://t.co/9eCHhhRDCn",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9eCHhhRDCn",
+                  "expanded_url": "https://www.facebook.com/GaryHyndsConservative/",
+                  "display_url": "facebook.com/GaryHyndsConse…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4588,
+          "friends_count": 2152,
+          "listed_count": 41,
+          "created_at": "Wed Feb 01 17:40:37 +0000 2017",
+          "favourites_count": 40922,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 15189,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/826847737643675649/1536767289",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 20:50:15 +0000 2019",
+      "id": 1197255857874096000,
+      "id_str": "1197255857874096135",
+      "text": "RT @GaryHynds: The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservative Party -…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GaryHynds",
+            "name": "Gary Hynds",
+            "id": 826847737643675600,
+            "id_str": "826847737643675649",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 66348349,
+        "id_str": "66348349",
+        "name": "Sam Murray",
+        "screen_name": "Nickysamethy",
+        "location": "Ipswich, England",
+        "description": "Millennial Brexiteer Tory.\nThatcherite.\nCommunity & Political Activist.\nSBO. \nFreelance Social Media Adviser.\nHas HMS ♿ \nAutism Parent.\nViews are my own",
+        "url": "https://t.co/00AUHaZEOd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/00AUHaZEOd",
+                "expanded_url": "http://www.sammurrayipswich.com",
+                "display_url": "sammurrayipswich.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3023,
+        "friends_count": 1697,
+        "listed_count": 11,
+        "created_at": "Mon Aug 17 13:02:00 +0000 2009",
+        "favourites_count": 8907,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7488,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197151253589090304/qzDE0wC0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197151253589090304/qzDE0wC0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66348349/1572105328",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 20 19:34:33 +0000 2019",
+        "id": 1197236810948268000,
+        "id_str": "1197236810948268034",
+        "text": "The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservativ… https://t.co/PRlctYERpY",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/PRlctYERpY",
+              "expanded_url": "https://twitter.com/i/web/status/1197236810948268034",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 826847737643675600,
+          "id_str": "826847737643675649",
+          "name": "Gary Hynds",
+          "screen_name": "GaryHynds",
+          "location": "Lisburn",
+          "description": "Conservative Parliamentary Candidate for Lagan Valley. Spokesperson & Deputy Chair of the Northern Ireland Conservatives | ❤ Freedom & Liberty 🇬🇧 🏳️‍🌈",
+          "url": "https://t.co/9eCHhhRDCn",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9eCHhhRDCn",
+                  "expanded_url": "https://www.facebook.com/GaryHyndsConservative/",
+                  "display_url": "facebook.com/GaryHyndsConse…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4588,
+          "friends_count": 2152,
+          "listed_count": 41,
+          "created_at": "Wed Feb 01 17:40:37 +0000 2017",
+          "favourites_count": 40922,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 15189,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/826847737643675649/1536767289",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 19:38:55 +0000 2019",
+      "id": 1197237907293196300,
+      "id_str": "1197237907293196288",
+      "text": "RT @GaryHynds: The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservative Party -…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GaryHynds",
+            "name": "Gary Hynds",
+            "id": 826847737643675600,
+            "id_str": "826847737643675649",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 287907294,
+        "id_str": "287907294",
+        "name": "Andrew Wooster",
+        "screen_name": "AWoosterNI",
+        "location": "Northern Ireland",
+        "description": "Classical Liberal. Student of J.S. Mill. Humanitarian Interventionist.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 418,
+        "friends_count": 1536,
+        "listed_count": 13,
+        "created_at": "Mon Apr 25 22:20:48 +0000 2011",
+        "favourites_count": 4246,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16522,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880138636720832512/5LOv4kHb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880138636720832512/5LOv4kHb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287907294/1398205693",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 20 19:34:33 +0000 2019",
+        "id": 1197236810948268000,
+        "id_str": "1197236810948268034",
+        "text": "The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservativ… https://t.co/PRlctYERpY",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/PRlctYERpY",
+              "expanded_url": "https://twitter.com/i/web/status/1197236810948268034",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 826847737643675600,
+          "id_str": "826847737643675649",
+          "name": "Gary Hynds",
+          "screen_name": "GaryHynds",
+          "location": "Lisburn",
+          "description": "Conservative Parliamentary Candidate for Lagan Valley. Spokesperson & Deputy Chair of the Northern Ireland Conservatives | ❤ Freedom & Liberty 🇬🇧 🏳️‍🌈",
+          "url": "https://t.co/9eCHhhRDCn",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9eCHhhRDCn",
+                  "expanded_url": "https://www.facebook.com/GaryHyndsConservative/",
+                  "display_url": "facebook.com/GaryHyndsConse…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4588,
+          "friends_count": 2152,
+          "listed_count": 41,
+          "created_at": "Wed Feb 01 17:40:37 +0000 2017",
+          "favourites_count": 40922,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 15189,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/826847737643675649/1536767289",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 19:34:33 +0000 2019",
+      "id": 1197236810948268000,
+      "id_str": "1197236810948268034",
+      "text": "The crisis in our health service is a legacy of Stormont and the local parties. This is why I am in the Conservativ… https://t.co/PRlctYERpY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PRlctYERpY",
+            "expanded_url": "https://twitter.com/i/web/status/1197236810948268034",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 826847737643675600,
+        "id_str": "826847737643675649",
+        "name": "Gary Hynds",
+        "screen_name": "GaryHynds",
+        "location": "Lisburn",
+        "description": "Conservative Parliamentary Candidate for Lagan Valley. Spokesperson & Deputy Chair of the Northern Ireland Conservatives | ❤ Freedom & Liberty 🇬🇧 🏳️‍🌈",
+        "url": "https://t.co/9eCHhhRDCn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/9eCHhhRDCn",
+                "expanded_url": "https://www.facebook.com/GaryHyndsConservative/",
+                "display_url": "facebook.com/GaryHyndsConse…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4588,
+        "friends_count": 2152,
+        "listed_count": 41,
+        "created_at": "Wed Feb 01 17:40:37 +0000 2017",
+        "favourites_count": 40922,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15189,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826847737643675649/1536767289",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 20:50:41 +0000 2019",
+      "id": 1196893579639218200,
+      "id_str": "1196893579639218182",
+      "text": "@DavidBr88082531 The Lefties in the studio would clap if Corbyn farts, The momentum Thugs aren't Happy, Corbyn😂😂😂is… https://t.co/e5kcmb5s7Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DavidBr88082531",
+            "name": "Davie, Warrington Loyal",
+            "id": 1038727923589623800,
+            "id_str": "1038727923589623808",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/e5kcmb5s7Z",
+            "expanded_url": "https://twitter.com/i/web/status/1196893579639218182",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196891338316402700,
+      "in_reply_to_status_id_str": "1196891338316402694",
+      "in_reply_to_user_id": 1038727923589623800,
+      "in_reply_to_user_id_str": "1038727923589623808",
+      "in_reply_to_screen_name": "DavidBr88082531",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 511,
+        "friends_count": 571,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.062,
+    "max_id": 1198986536030748700,
+    "max_id_str": "1198986536030748673",
+    "next_results": "?max_id=1196893579639218181&q=Conservative%20Party&geocode=54.512%2C-6.031%2C4.166666667mi&count=100&include_entities=1",
+    "query": "Conservative+Party",
+    "refresh_url": "?since_id=1198986536030748673&q=Conservative%20Party&geocode=54.512%2C-6.031%2C4.166666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

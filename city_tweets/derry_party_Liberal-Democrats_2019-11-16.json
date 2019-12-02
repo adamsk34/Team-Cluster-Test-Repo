@@ -1,0 +1,13 @@
+{
+  "statuses": [],
+  "search_metadata": {
+    "completed_in": 0.016,
+    "max_id": 1195875844696096800,
+    "max_id_str": "1195875844696096768",
+    "query": "Liberal+Democrats",
+    "refresh_url": "?since_id=1195875844696096768&q=Liberal%20Democrats&geocode=54.9958%2C-7.3074%2C4.545454545mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

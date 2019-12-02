@@ -1,0 +1,4574 @@
+{
+  "statuses": [
+    {
+      "created_at": "Mon Nov 25 17:22:00 +0000 2019",
+      "id": 1199015389944074200,
+      "id_str": "1199015389944074240",
+      "text": "@tomhfh Could just as easily been someone saying \"I'm voting Conservative. Great manifesto, pity about the leader,… https://t.co/vMMBM4PSkU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tomhfh",
+            "name": "Tom Harwood",
+            "id": 453473029,
+            "id_str": "453473029",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vMMBM4PSkU",
+            "expanded_url": "https://twitter.com/i/web/status/1199015389944074240",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1198913427302953000,
+      "in_reply_to_status_id_str": "1198913427302952960",
+      "in_reply_to_user_id": 453473029,
+      "in_reply_to_user_id_str": "453473029",
+      "in_reply_to_screen_name": "tomhfh",
+      "user": {
+        "id": 377434392,
+        "id_str": "377434392",
+        "name": "John Hilton🕷️🇪🇺🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "screen_name": "oldmanbigkid",
+        "location": "Newport, Wales",
+        "description": "Made in Yorkshire. Unofficially naturalised Welshman. Retired Town Planner, Graphic Designer & general know-it-all. #StopBrexit",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 932,
+        "friends_count": 336,
+        "listed_count": 5,
+        "created_at": "Wed Sep 21 15:33:46 +0000 2011",
+        "favourites_count": 82924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17980,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129380642008043520/-sSH5JrF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129380642008043520/-sSH5JrF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377434392/1558100264",
+        "profile_link_color": "7C86A1",
+        "profile_sidebar_border_color": "FFFCFD",
+        "profile_sidebar_fill_color": "D8D7DE",
+        "profile_text_color": "9C999C",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 14:39:42 +0000 2019",
+      "id": 1198974547732713500,
+      "id_str": "1198974547732713472",
+      "text": "🙏 \n\nhttps://t.co/iDRobNiWl0 via @PoliticsHome",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "politicshome",
+            "name": "PoliticsHome",
+            "id": 16558943,
+            "id_str": "16558943",
+            "indices": [
+              32,
+              45
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iDRobNiWl0",
+            "expanded_url": "https://shar.es/a320Zs",
+            "display_url": "shar.es/a320Zs",
+            "indices": [
+              4,
+              27
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 113435373,
+        "id_str": "113435373",
+        "name": "🆃🅸🅼 🆆🅸🅻🅻🅸🅰🅼🆂",
+        "screen_name": "TimAlunWilliams",
+        "location": "Newport, Wales",
+        "description": "Take it down a notch, Clive.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 232,
+        "friends_count": 176,
+        "listed_count": 4,
+        "created_at": "Thu Feb 11 19:10:42 +0000 2010",
+        "favourites_count": 29221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14318,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "618A0F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194169124932538369/s7hBWSiA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194169124932538369/s7hBWSiA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113435373/1527521754",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 25 13:28:11 +0000 2019",
+      "id": 1198956549936423000,
+      "id_str": "1198956549936422913",
+      "text": "@LordAshcroft @CrimestoppersUK @ElectoralCommUK I'd like to report my concerns about possible Russian influence on… https://t.co/b3rbNs1PIS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LordAshcroft",
+            "name": "Lord Ashcroft",
+            "id": 1282992704,
+            "id_str": "1282992704",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "CrimestoppersUK",
+            "name": "Crimestoppers",
+            "id": 26474665,
+            "id_str": "26474665",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "ElectoralCommUK",
+            "name": "Electoral Commission",
+            "id": 43001521,
+            "id_str": "43001521",
+            "indices": [
+              31,
+              47
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/b3rbNs1PIS",
+            "expanded_url": "https://twitter.com/i/web/status/1198956549936422913",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1198210527039774700,
+      "in_reply_to_status_id_str": "1198210527039774721",
+      "in_reply_to_user_id": 1282992704,
+      "in_reply_to_user_id_str": "1282992704",
+      "in_reply_to_screen_name": "LordAshcroft",
+      "user": {
+        "id": 377434392,
+        "id_str": "377434392",
+        "name": "John Hilton🕷️🇪🇺🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "screen_name": "oldmanbigkid",
+        "location": "Newport, Wales",
+        "description": "Made in Yorkshire. Unofficially naturalised Welshman. Retired Town Planner, Graphic Designer & general know-it-all. #StopBrexit",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 932,
+        "friends_count": 336,
+        "listed_count": 5,
+        "created_at": "Wed Sep 21 15:33:46 +0000 2011",
+        "favourites_count": 82924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17980,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129380642008043520/-sSH5JrF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129380642008043520/-sSH5JrF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377434392/1558100264",
+        "profile_link_color": "7C86A1",
+        "profile_sidebar_border_color": "FFFCFD",
+        "profile_sidebar_fill_color": "D8D7DE",
+        "profile_text_color": "9C999C",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 08:27:58 +0000 2019",
+      "id": 1198880998227882000,
+      "id_str": "1198880998227881985",
+      "text": "#ToryBritain \n\nJohnson’s accelerated and aggressive approach to, well, get Brexit done, it appears that Conservativ… https://t.co/jsY5CTV1j0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ToryBritain",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jsY5CTV1j0",
+            "expanded_url": "https://twitter.com/i/web/status/1198880998227881985",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 397948584,
+        "id_str": "397948584",
+        "name": "Adam Smith",
+        "screen_name": "Taxiboi3583",
+        "location": "Newport",
+        "description": "#LGBT #Education and #Youth. Tweets and #RT are my views, not views of organisations I am involved with.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1054,
+        "friends_count": 1515,
+        "listed_count": 10,
+        "created_at": "Tue Oct 25 11:14:35 +0000 2011",
+        "favourites_count": 1462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12355,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E4D4B2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397948584/1535474266",
+        "profile_link_color": "F94141",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B6B13C",
+        "profile_text_color": "479387",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 07:04:02 +0000 2019",
+      "id": 1198859872625975300,
+      "id_str": "1198859872625975300",
+      "text": "@BBCNews  @BBCBreakfast you do realise that BBC  are supposed to be UNBIASED  🧐that means reporting the news that a… https://t.co/gJR223tJdt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BBCNews",
+            "name": "BBC News (UK)",
+            "id": 612473,
+            "id_str": "612473",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "BBCBreakfast",
+            "name": "BBC Breakfast",
+            "id": 143415291,
+            "id_str": "143415291",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gJR223tJdt",
+            "expanded_url": "https://twitter.com/i/web/status/1198859872625975300",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 612473,
+      "in_reply_to_user_id_str": "612473",
+      "in_reply_to_screen_name": "BBCNews",
+      "user": {
+        "id": 3224188816,
+        "id_str": "3224188816",
+        "name": "dave wall 🦈💯💙",
+        "screen_name": "59_dai",
+        "location": "Newport, Wales",
+        "description": "Man City , Speedway , Motorsports , Whitesnake ,Stereophonics,  The Struts ,Derry Girls , all opinions are my own .",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 567,
+        "listed_count": 1,
+        "created_at": "Thu Apr 30 11:13:25 +0000 2015",
+        "favourites_count": 41563,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30383,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3224188816/1557679868",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 06:22:10 +0000 2019",
+      "id": 1198849340359532500,
+      "id_str": "1198849340359532544",
+      "text": "@TheCanaryUK @emilyapple you do realise that BBC  are supposed to be UNBIASED  🧐that means reporting the news that… https://t.co/1Zcw0ZfYPR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TheCanaryUK",
+            "name": "The Canary",
+            "id": 3314289248,
+            "id_str": "3314289248",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "emilyapple",
+            "name": "Emily Apple",
+            "id": 49440370,
+            "id_str": "49440370",
+            "indices": [
+              13,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1Zcw0ZfYPR",
+            "expanded_url": "https://twitter.com/i/web/status/1198849340359532544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1198734287887110100,
+      "in_reply_to_status_id_str": "1198734287887110144",
+      "in_reply_to_user_id": 3314289248,
+      "in_reply_to_user_id_str": "3314289248",
+      "in_reply_to_screen_name": "TheCanaryUK",
+      "user": {
+        "id": 3224188816,
+        "id_str": "3224188816",
+        "name": "dave wall 🦈💯💙",
+        "screen_name": "59_dai",
+        "location": "Newport, Wales",
+        "description": "Man City , Speedway , Motorsports , Whitesnake ,Stereophonics,  The Struts ,Derry Girls , all opinions are my own .",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 567,
+        "listed_count": 1,
+        "created_at": "Thu Apr 30 11:13:25 +0000 2015",
+        "favourites_count": 41563,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30383,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3224188816/1557679868",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 06:21:45 +0000 2019",
+      "id": 1198849232557490200,
+      "id_str": "1198849232557490176",
+      "text": "@OborneTweets you do realise that BBC  are supposed to be UNBIASED  🧐that means reporting the news that actually ha… https://t.co/pJnoplY3pB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OborneTweets",
+            "name": "Peter Oborne",
+            "id": 1870998606,
+            "id_str": "1870998606",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pJnoplY3pB",
+            "expanded_url": "https://twitter.com/i/web/status/1198849232557490176",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1198573465432928300,
+      "in_reply_to_status_id_str": "1198573465432928256",
+      "in_reply_to_user_id": 1870998606,
+      "in_reply_to_user_id_str": "1870998606",
+      "in_reply_to_screen_name": "OborneTweets",
+      "user": {
+        "id": 3224188816,
+        "id_str": "3224188816",
+        "name": "dave wall 🦈💯💙",
+        "screen_name": "59_dai",
+        "location": "Newport, Wales",
+        "description": "Man City , Speedway , Motorsports , Whitesnake ,Stereophonics,  The Struts ,Derry Girls , all opinions are my own .",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 567,
+        "listed_count": 1,
+        "created_at": "Thu Apr 30 11:13:25 +0000 2015",
+        "favourites_count": 41563,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30383,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3224188816/1557679868",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 06:14:09 +0000 2019",
+      "id": 1198847319447363600,
+      "id_str": "1198847319447363584",
+      "text": "@huwbbc @BBCNews you do realise that BBC  are supposed to be UNBIASED  🧐that means reporting the news that actually… https://t.co/tCVTE4sjLz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "huwbbc",
+            "name": "Huw Edwards",
+            "id": 229957245,
+            "id_str": "229957245",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "BBCNews",
+            "name": "BBC News (UK)",
+            "id": 612473,
+            "id_str": "612473",
+            "indices": [
+              8,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tCVTE4sjLz",
+            "expanded_url": "https://twitter.com/i/web/status/1198847319447363584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1198559095869051000,
+      "in_reply_to_status_id_str": "1198559095869050881",
+      "in_reply_to_user_id": 229957245,
+      "in_reply_to_user_id_str": "229957245",
+      "in_reply_to_screen_name": "huwbbc",
+      "user": {
+        "id": 3224188816,
+        "id_str": "3224188816",
+        "name": "dave wall 🦈💯💙",
+        "screen_name": "59_dai",
+        "location": "Newport, Wales",
+        "description": "Man City , Speedway , Motorsports , Whitesnake ,Stereophonics,  The Struts ,Derry Girls , all opinions are my own .",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 567,
+        "listed_count": 1,
+        "created_at": "Thu Apr 30 11:13:25 +0000 2015",
+        "favourites_count": 41563,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30383,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103781040777244676/9h2QS9wp_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3224188816/1557679868",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 21:45:52 +0000 2019",
+      "id": 1198719408769818600,
+      "id_str": "1198719408769818625",
+      "text": "This wafer thin Conservative Party manifesto is shocking. And they’ll win the election by a crushing landslide. Fri… https://t.co/LzEPjrcPfn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LzEPjrcPfn",
+            "expanded_url": "https://twitter.com/i/web/status/1198719408769818625",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 118082365,
+        "id_str": "118082365",
+        "name": "The First 🌊",
+        "screen_name": "FirenzePhoenix",
+        "location": "Casnewydd, Cymru",
+        "description": "Singer/song-writer/content creator 📍🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "url": "https://t.co/JVtxajPgKT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JVtxajPgKT",
+                "expanded_url": "http://soundcloud.com/firenzephoenix",
+                "display_url": "soundcloud.com/firenzephoenix",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 742,
+        "friends_count": 128,
+        "listed_count": 25,
+        "created_at": "Sat Feb 27 14:58:27 +0000 2010",
+        "favourites_count": 6891,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9224,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135831444025151488/NY74Xw3O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135831444025151488/NY74Xw3O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118082365/1401737773",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 17:07:59 +0000 2019",
+      "id": 1198287089256870000,
+      "id_str": "1198287089256869888",
+      "text": "@RichardJohnRJ @DaveFouweather @matthewevansnpt @SaraLlanover @WelshConserv @NewportTories Swings and roundabouts\nhttps://t.co/rfrzjDrkIu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RichardJohnRJ",
+            "name": "Richard John",
+            "id": 995353224,
+            "id_str": "995353224",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "DaveFouweather",
+            "name": "David Fouweather",
+            "id": 195899685,
+            "id_str": "195899685",
+            "indices": [
+              15,
+              30
+            ]
+          },
+          {
+            "screen_name": "matthewevansnpt",
+            "name": "Matthew Evans",
+            "id": 1066155534,
+            "id_str": "1066155534",
+            "indices": [
+              31,
+              47
+            ]
+          },
+          {
+            "screen_name": "SaraLlanover",
+            "name": "Sara Jones",
+            "id": 551678338,
+            "id_str": "551678338",
+            "indices": [
+              48,
+              61
+            ]
+          },
+          {
+            "screen_name": "WelshConserv",
+            "name": "Welsh Conservatives",
+            "id": 154132370,
+            "id_str": "154132370",
+            "indices": [
+              62,
+              75
+            ]
+          },
+          {
+            "screen_name": "NewportTories",
+            "name": "Newport Conservatives",
+            "id": 802278494,
+            "id_str": "802278494",
+            "indices": [
+              76,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rfrzjDrkIu",
+            "expanded_url": "https://www.independent.co.uk/news/uk/politics/george-osborne-lib-dem-tory-party-conservative-vote-general-election-a9211391.html",
+            "display_url": "independent.co.uk/news/uk/politi…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1197602239168336000,
+      "in_reply_to_status_id_str": "1197602239168335872",
+      "in_reply_to_user_id": 995353224,
+      "in_reply_to_user_id_str": "995353224",
+      "in_reply_to_screen_name": "RichardJohnRJ",
+      "user": {
+        "id": 377434392,
+        "id_str": "377434392",
+        "name": "John Hilton🕷️🇪🇺🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "screen_name": "oldmanbigkid",
+        "location": "Newport, Wales",
+        "description": "Made in Yorkshire. Unofficially naturalised Welshman. Retired Town Planner, Graphic Designer & general know-it-all. #StopBrexit",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 932,
+        "friends_count": 336,
+        "listed_count": 5,
+        "created_at": "Wed Sep 21 15:33:46 +0000 2011",
+        "favourites_count": 82924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17980,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129380642008043520/-sSH5JrF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129380642008043520/-sSH5JrF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377434392/1558100264",
+        "profile_link_color": "7C86A1",
+        "profile_sidebar_border_color": "FFFCFD",
+        "profile_sidebar_fill_color": "D8D7DE",
+        "profile_text_color": "9C999C",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 12:22:25 +0000 2019",
+      "id": 1198215221774606300,
+      "id_str": "1198215221774606336",
+      "text": "Honestly after watching last night's debate, if this country puts the Conservative party, with this lying goon back… https://t.co/aXLXHYaVqF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aXLXHYaVqF",
+            "expanded_url": "https://twitter.com/i/web/status/1198215221774606336",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 289905333,
+        "id_str": "289905333",
+        "name": "Luke Phillips 🏴󠁧󠁢󠁷󠁬󠁳󠁿🤘",
+        "screen_name": "LukeyEDH",
+        "location": "Newport",
+        "description": "Lead Singer/Guitarist @edhbandsw⚪Daddy⚪Hunter of Platinum Trophies⚪Chelsea FC⚪MMA fan⚪",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 362,
+        "friends_count": 393,
+        "listed_count": 7,
+        "created_at": "Fri Apr 29 12:26:26 +0000 2011",
+        "favourites_count": 5242,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11945,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192378671681753088/qRMtM48Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192378671681753088/qRMtM48Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289905333/1566083046",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 10:27:13 +0000 2019",
+      "id": 1197823844322549800,
+      "id_str": "1197823844322549761",
+      "text": "RT @Marcoosious: The https://t.co/AujE78P2uM website shows that the domain name https://t.co/7GRVngRviJ was bought on Monday this week - th…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Marcoosious",
+            "name": "Marcus Hughes",
+            "id": 56203131,
+            "id_str": "56203131",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AujE78P2uM",
+            "expanded_url": "http://whois.net",
+            "display_url": "whois.net",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "url": "https://t.co/7GRVngRviJ",
+            "expanded_url": "http://labourmanifesto.co.uk",
+            "display_url": "labourmanifesto.co.uk",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27951909,
+        "id_str": "27951909",
+        "name": "Betty Boo",
+        "screen_name": "Cauchemar111",
+        "location": "Wexford, Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 776,
+        "friends_count": 1091,
+        "listed_count": 58,
+        "created_at": "Tue Mar 31 20:14:48 +0000 2009",
+        "favourites_count": 27911,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61710,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159761769067417600/62lcI5Zj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159761769067417600/62lcI5Zj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27951909/1560539344",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 13:21:46 +0000 2019",
+        "id": 1197505384082235400,
+        "id_str": "1197505384082235392",
+        "text": "The https://t.co/AujE78P2uM website shows that the domain name https://t.co/7GRVngRviJ was bought on Monday this we… https://t.co/rT9FheNHLh",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/AujE78P2uM",
+              "expanded_url": "http://whois.net",
+              "display_url": "whois.net",
+              "indices": [
+                4,
+                27
+              ]
+            },
+            {
+              "url": "https://t.co/7GRVngRviJ",
+              "expanded_url": "http://labourmanifesto.co.uk",
+              "display_url": "labourmanifesto.co.uk",
+              "indices": [
+                63,
+                86
+              ]
+            },
+            {
+              "url": "https://t.co/rT9FheNHLh",
+              "expanded_url": "https://twitter.com/i/web/status/1197505384082235392",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 56203131,
+          "id_str": "56203131",
+          "name": "Marcus Hughes",
+          "screen_name": "Marcoosious",
+          "location": "Newport, Wales",
+          "description": "Senior reporter @WalesOnline covering politics, crime, and general news for Newport and Cardiff - 02920 243642 - marcus.hughes@walesonline.co.uk",
+          "url": "https://t.co/qVqetoJ7ep",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qVqetoJ7ep",
+                  "expanded_url": "http://walesonline.co.uk/authors/marcus-hughes/",
+                  "display_url": "walesonline.co.uk/authors/marcus…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 867,
+          "friends_count": 2119,
+          "listed_count": 6,
+          "created_at": "Sun Jul 12 21:58:41 +0000 2009",
+          "favourites_count": 938,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1470,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1039956325046865921/n1K2Hfo4_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039956325046865921/n1K2Hfo4_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/56203131/1529705519",
+          "profile_link_color": "00008B",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 09:52:08 +0000 2019",
+      "id": 1197815014452859000,
+      "id_str": "1197815014452858881",
+      "text": "@Peston More shit reporting. When is the BBC (Best Be Conservative; British Brainwashing Corp; Big Bunch of C**t's)… https://t.co/yXhfo4rlPm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Peston",
+            "name": "Robert Peston",
+            "id": 14157134,
+            "id_str": "14157134",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yXhfo4rlPm",
+            "expanded_url": "https://twitter.com/i/web/status/1197815014452858881",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1197585500011409400,
+      "in_reply_to_status_id_str": "1197585500011409409",
+      "in_reply_to_user_id": 14157134,
+      "in_reply_to_user_id_str": "14157134",
+      "in_reply_to_screen_name": "Peston",
+      "user": {
+        "id": 308173763,
+        "id_str": "308173763",
+        "name": "Disco King",
+        "screen_name": "davew200",
+        "location": "Newport, Wales",
+        "description": "Anti establishment; anti austerity; anti Tory; anti social injustice; anti anything right wing; anti racism; anti greed; anti exploitation...",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 521,
+        "friends_count": 901,
+        "listed_count": 4,
+        "created_at": "Mon May 30 23:29:17 +0000 2011",
+        "favourites_count": 1595,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2025,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/870592452490645504/wjXwPxT1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/870592452490645504/wjXwPxT1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/308173763/1488748409",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 13:25:02 +0000 2019",
+      "id": 1197506205008236500,
+      "id_str": "1197506205008236544",
+      "text": "RT @Marcoosious: The https://t.co/AujE78P2uM website shows that the domain name https://t.co/7GRVngRviJ was bought on Monday this week - th…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Marcoosious",
+            "name": "Marcus Hughes",
+            "id": 56203131,
+            "id_str": "56203131",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AujE78P2uM",
+            "expanded_url": "http://whois.net",
+            "display_url": "whois.net",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "url": "https://t.co/7GRVngRviJ",
+            "expanded_url": "http://labourmanifesto.co.uk",
+            "display_url": "labourmanifesto.co.uk",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40196050,
+        "id_str": "40196050",
+        "name": "Lauren Goodland - REGISTER TO VOTE PLS",
+        "screen_name": "Dorkfeatures",
+        "location": "Newport,South Wales",
+        "description": "Designer @paradedesignuk & owner @cardfeatures. Proud Newport lover, overly honest & navigating twenties. Enjoys sneaky dancing & singing in supermarket aisles.",
+        "url": "https://t.co/WorHnEvk6W",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WorHnEvk6W",
+                "expanded_url": "http://etsy.com/shop/dorkfeatures",
+                "display_url": "etsy.com/shop/dorkfeatu…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2482,
+        "friends_count": 1053,
+        "listed_count": 66,
+        "created_at": "Fri May 15 07:21:24 +0000 2009",
+        "favourites_count": 20016,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 51521,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175481546557546497/YqboluAT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175481546557546497/YqboluAT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40196050/1548018487",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 13:21:46 +0000 2019",
+        "id": 1197505384082235400,
+        "id_str": "1197505384082235392",
+        "text": "The https://t.co/AujE78P2uM website shows that the domain name https://t.co/7GRVngRviJ was bought on Monday this we… https://t.co/rT9FheNHLh",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/AujE78P2uM",
+              "expanded_url": "http://whois.net",
+              "display_url": "whois.net",
+              "indices": [
+                4,
+                27
+              ]
+            },
+            {
+              "url": "https://t.co/7GRVngRviJ",
+              "expanded_url": "http://labourmanifesto.co.uk",
+              "display_url": "labourmanifesto.co.uk",
+              "indices": [
+                63,
+                86
+              ]
+            },
+            {
+              "url": "https://t.co/rT9FheNHLh",
+              "expanded_url": "https://twitter.com/i/web/status/1197505384082235392",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 56203131,
+          "id_str": "56203131",
+          "name": "Marcus Hughes",
+          "screen_name": "Marcoosious",
+          "location": "Newport, Wales",
+          "description": "Senior reporter @WalesOnline covering politics, crime, and general news for Newport and Cardiff - 02920 243642 - marcus.hughes@walesonline.co.uk",
+          "url": "https://t.co/qVqetoJ7ep",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qVqetoJ7ep",
+                  "expanded_url": "http://walesonline.co.uk/authors/marcus-hughes/",
+                  "display_url": "walesonline.co.uk/authors/marcus…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 867,
+          "friends_count": 2119,
+          "listed_count": 6,
+          "created_at": "Sun Jul 12 21:58:41 +0000 2009",
+          "favourites_count": 938,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1470,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1039956325046865921/n1K2Hfo4_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039956325046865921/n1K2Hfo4_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/56203131/1529705519",
+          "profile_link_color": "00008B",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 13:21:46 +0000 2019",
+      "id": 1197505384082235400,
+      "id_str": "1197505384082235392",
+      "text": "The https://t.co/AujE78P2uM website shows that the domain name https://t.co/7GRVngRviJ was bought on Monday this we… https://t.co/rT9FheNHLh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AujE78P2uM",
+            "expanded_url": "http://whois.net",
+            "display_url": "whois.net",
+            "indices": [
+              4,
+              27
+            ]
+          },
+          {
+            "url": "https://t.co/7GRVngRviJ",
+            "expanded_url": "http://labourmanifesto.co.uk",
+            "display_url": "labourmanifesto.co.uk",
+            "indices": [
+              63,
+              86
+            ]
+          },
+          {
+            "url": "https://t.co/rT9FheNHLh",
+            "expanded_url": "https://twitter.com/i/web/status/1197505384082235392",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 56203131,
+        "id_str": "56203131",
+        "name": "Marcus Hughes",
+        "screen_name": "Marcoosious",
+        "location": "Newport, Wales",
+        "description": "Senior reporter @WalesOnline covering politics, crime, and general news for Newport and Cardiff - 02920 243642 - marcus.hughes@walesonline.co.uk",
+        "url": "https://t.co/qVqetoJ7ep",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/qVqetoJ7ep",
+                "expanded_url": "http://walesonline.co.uk/authors/marcus-hughes/",
+                "display_url": "walesonline.co.uk/authors/marcus…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 867,
+        "friends_count": 2119,
+        "listed_count": 6,
+        "created_at": "Sun Jul 12 21:58:41 +0000 2009",
+        "favourites_count": 938,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1470,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039956325046865921/n1K2Hfo4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039956325046865921/n1K2Hfo4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56203131/1529705519",
+        "profile_link_color": "00008B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 22:08:19 +0000 2019",
+      "id": 1197275504639971300,
+      "id_str": "1197275504639971329",
+      "text": "@MonmouthTory @DavidTCDavies Conservative elite ignoring the working class yet again.  Does this tory puppet have a… https://t.co/dRoUQRjglL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MonmouthTory",
+            "name": "Conservative in Monmouth",
+            "id": 2149742612,
+            "id_str": "2149742612",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "DavidTCDavies",
+            "name": "David TC Davies 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧",
+            "id": 550076077,
+            "id_str": "550076077",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dRoUQRjglL",
+            "expanded_url": "https://twitter.com/i/web/status/1197275504639971329",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197223076339040300,
+      "in_reply_to_status_id_str": "1197223076339040257",
+      "in_reply_to_user_id": 2149742612,
+      "in_reply_to_user_id_str": "2149742612",
+      "in_reply_to_screen_name": "MonmouthTory",
+      "user": {
+        "id": 712646631,
+        "id_str": "712646631",
+        "name": "Richard Taylor",
+        "screen_name": "Richard76Taylor",
+        "location": "Cwmbran, Torfaen",
+        "description": "Always knackered! Loves Jaffa cakes.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 83,
+        "friends_count": 465,
+        "listed_count": 0,
+        "created_at": "Sun Oct 13 13:20:38 +0000 2013",
+        "favourites_count": 267,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 670,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1189813728600039425/283jscXB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189813728600039425/283jscXB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 17:41:23 +0000 2019",
+      "id": 1197208329057124400,
+      "id_str": "1197208329057124353",
+      "text": "If true rather like your pals in the Conservative party https://t.co/83BjPM9qof",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/83BjPM9qof",
+            "expanded_url": "https://twitter.com/petercbowden/status/1196905936717303809",
+            "display_url": "twitter.com/petercbowden/s…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1058655458,
+        "id_str": "1058655458",
+        "name": "Brian Mawby",
+        "screen_name": "BrianakaMawby",
+        "location": "Cwmbran, Wales",
+        "description": "Brian Mawby - Husband, Son, Dad and Bampa. Wales rugby and MUFC fan. Formerly a public servant in local government, education and health. Dementia Friendly.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 369,
+        "friends_count": 596,
+        "listed_count": 1,
+        "created_at": "Thu Jan 03 19:57:59 +0000 2013",
+        "favourites_count": 6344,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1238,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042345381709926401/HSQ89yYh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042345381709926401/HSQ89yYh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058655458/1558627073",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196905936717303800,
+      "quoted_status_id_str": "1196905936717303809",
+      "quoted_status": {
+        "created_at": "Tue Nov 19 21:39:47 +0000 2019",
+        "id": 1196905936717303800,
+        "id_str": "1196905936717303809",
+        "text": "Hearing that a lot of left-wing Twitter accounts are dishonestly changing their names and profile pictures (also re… https://t.co/hv4CXouKCp",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hv4CXouKCp",
+              "expanded_url": "https://twitter.com/i/web/status/1196905936717303809",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 28863217,
+          "id_str": "28863217",
+          "name": "Peter Bowden",
+          "screen_name": "petercbowden",
+          "location": "he/him",
+          "description": "former Cards Against Humanity pro tour runner-up || not Laura Kuenssberg, please stop QTing that tweet as if I'm Laura Kuenssberg",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1933,
+          "friends_count": 774,
+          "listed_count": 22,
+          "created_at": "Sat Apr 04 20:23:21 +0000 2009",
+          "favourites_count": 3487,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 5878,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "260340",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1197538556065013761/OxqP5ER8_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197538556065013761/OxqP5ER8_normal.jpg",
+          "profile_link_color": "19CF86",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "F7F3F2",
+          "profile_text_color": "1A0802",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1144,
+        "favorite_count": 9288,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 15:12:20 +0000 2019",
+      "id": 1197170819811725300,
+      "id_str": "1197170819811725313",
+      "text": "It’s a dirty trick!\n\nLast night, the Conservative Party changed its name on Twitter to pretend to be a fact-checkin… https://t.co/7U2rLKvKWN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7U2rLKvKWN",
+            "expanded_url": "https://twitter.com/i/web/status/1197170819811725313",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 337739126,
+        "id_str": "337739126",
+        "name": "Keith Coppuck",
+        "screen_name": "KeithCoppuck",
+        "location": "Ponthir",
+        "description": "Keith worked in telecommunications before taking the plunge to become a full time writer. Keith lives in Newport, South Wales, with his family and fish!",
+        "url": "https://t.co/nVvxazFDVu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/nVvxazFDVu",
+                "expanded_url": "http://www.keithcoppuck.com",
+                "display_url": "keithcoppuck.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 161,
+        "friends_count": 1009,
+        "listed_count": 6,
+        "created_at": "Mon Jul 18 14:17:58 +0000 2011",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 718,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/792858932939227136/7suPvLyo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/792858932939227136/7suPvLyo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/337739126/1477867243",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 08:21:59 +0000 2019",
+      "id": 1197067553836806100,
+      "id_str": "1197067553836806145",
+      "text": "RT @NASLibDems: Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party and is ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NASLibDems",
+            "name": "Newport Lib Dems🔶",
+            "id": 798930808325230600,
+            "id_str": "798930808325230592",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 81585046,
+        "id_str": "81585046",
+        "name": "Robert Barr OBE 🔶",
+        "screen_name": "CllrBobBarr",
+        "location": "Warrington",
+        "description": "Liberal Democrat Group Leader Warrington Borough Council, Geographer, FRSA. Strong Remain campaigner! #FBPE",
+        "url": "https://t.co/Oeer0m6v49",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Oeer0m6v49",
+                "expanded_url": "http://CllrBobBarr.net",
+                "display_url": "CllrBobBarr.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2209,
+        "friends_count": 1432,
+        "listed_count": 87,
+        "created_at": "Sun Oct 11 12:36:27 +0000 2009",
+        "favourites_count": 14568,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41662,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/532339484306595840/Nc_21kN0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/532339484306595840/Nc_21kN0_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+        "id": 1195990255876427800,
+        "id_str": "1195990255876427776",
+        "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hfUTiPd47r",
+              "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 798930808325230600,
+          "id_str": "798930808325230592",
+          "name": "Newport Lib Dems🔶",
+          "screen_name": "NASLibDems",
+          "location": "Newport, Wales",
+          "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+          "url": "https://t.co/67nTTGgAZd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/67nTTGgAZd",
+                  "expanded_url": "http://www.naslibdems.org.uk",
+                  "display_url": "naslibdems.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 320,
+          "friends_count": 1029,
+          "listed_count": 2,
+          "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+          "favourites_count": 711,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 389,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+          "profile_link_color": "FDBB30",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 00:27:57 +0000 2019",
+      "id": 1196948259358544000,
+      "id_str": "1196948259358543872",
+      "text": "RT @NASLibDems: Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party and is ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NASLibDems",
+            "name": "Newport Lib Dems🔶",
+            "id": 798930808325230600,
+            "id_str": "798930808325230592",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 708033605990223900,
+        "id_str": "708033605990223872",
+        "name": "Tracey Hodgson 🇪🇺🐊🔶 Remain teamdjokovic",
+        "screen_name": "traceymhodgson",
+        "location": "European Union",
+        "description": "I love Novak Djokovic, Slovenia, photography, am a Proud EU Citizen, and Lib Dem, Passionate Remainer and Vegan. #teamdjokovic🇪🇺🏴󠁧󠁢󠁷󠁬󠁳󠁿🔶",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1866,
+        "friends_count": 1827,
+        "listed_count": 18,
+        "created_at": "Thu Mar 10 20:55:41 +0000 2016",
+        "favourites_count": 82415,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 40697,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009473631427137536/_9MZ6lhS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009473631427137536/_9MZ6lhS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708033605990223872/1571441080",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+        "id": 1195990255876427800,
+        "id_str": "1195990255876427776",
+        "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hfUTiPd47r",
+              "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 798930808325230600,
+          "id_str": "798930808325230592",
+          "name": "Newport Lib Dems🔶",
+          "screen_name": "NASLibDems",
+          "location": "Newport, Wales",
+          "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+          "url": "https://t.co/67nTTGgAZd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/67nTTGgAZd",
+                  "expanded_url": "http://www.naslibdems.org.uk",
+                  "display_url": "naslibdems.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 320,
+          "friends_count": 1029,
+          "listed_count": 2,
+          "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+          "favourites_count": 711,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 389,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+          "profile_link_color": "FDBB30",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 00:13:39 +0000 2019",
+      "id": 1196944659265794000,
+      "id_str": "1196944659265794049",
+      "text": "RT @NASLibDems: Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party and is ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NASLibDems",
+            "name": "Newport Lib Dems🔶",
+            "id": 798930808325230600,
+            "id_str": "798930808325230592",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2569646997,
+        "id_str": "2569646997",
+        "name": "🔶Slawomir Adam Fejfer🔶🇵🇱🇬🇧🇪🇺",
+        "screen_name": "SFejfer",
+        "location": "Shrewsbury",
+        "description": "🔶 @shrewslibdems🔶 @WMLibDems🔶\nCommittee member https://t.co/DxJumqjbmG and https://t.co/mVozjlF5Sx View my own. #FBPE🔶🔶🔶🇬🇧🇵🇱🇪🇺",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/DxJumqjbmG",
+                "expanded_url": "http://shrewsburylibdems.org/en",
+                "display_url": "shrewsburylibdems.org/en",
+                "indices": [
+                  47,
+                  70
+                ]
+              },
+              {
+                "url": "https://t.co/mVozjlF5Sx",
+                "expanded_url": "http://wmlibdems.org/about",
+                "display_url": "wmlibdems.org/about",
+                "indices": [
+                  75,
+                  98
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1512,
+        "friends_count": 2157,
+        "listed_count": 22,
+        "created_at": "Wed May 28 20:50:13 +0000 2014",
+        "favourites_count": 41043,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191435413996654592/7F_om4zv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191435413996654592/7F_om4zv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2569646997/1496069196",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+        "id": 1195990255876427800,
+        "id_str": "1195990255876427776",
+        "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hfUTiPd47r",
+              "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 798930808325230600,
+          "id_str": "798930808325230592",
+          "name": "Newport Lib Dems🔶",
+          "screen_name": "NASLibDems",
+          "location": "Newport, Wales",
+          "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+          "url": "https://t.co/67nTTGgAZd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/67nTTGgAZd",
+                  "expanded_url": "http://www.naslibdems.org.uk",
+                  "display_url": "naslibdems.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 320,
+          "friends_count": 1029,
+          "listed_count": 2,
+          "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+          "favourites_count": 711,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 389,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+          "profile_link_color": "FDBB30",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 23:25:23 +0000 2019",
+      "id": 1196932510254547000,
+      "id_str": "1196932510254546944",
+      "text": "RT @NASLibDems: Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party and is ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NASLibDems",
+            "name": "Newport Lib Dems🔶",
+            "id": 798930808325230600,
+            "id_str": "798930808325230592",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22757247,
+        "id_str": "22757247",
+        "name": "Colin Taylor 🔶 🇪🇺",
+        "screen_name": "JColinTaylor",
+        "location": "Epsom",
+        "description": "Structural Engineer; Retired County Councillor; Former Mayor, Epsom & Ewell.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 721,
+        "friends_count": 248,
+        "listed_count": 36,
+        "created_at": "Wed Mar 04 11:01:30 +0000 2009",
+        "favourites_count": 1876,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 33780,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/866287392763686913/ClxlOO8K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/866287392763686913/ClxlOO8K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22757247/1399215904",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+        "id": 1195990255876427800,
+        "id_str": "1195990255876427776",
+        "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hfUTiPd47r",
+              "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 798930808325230600,
+          "id_str": "798930808325230592",
+          "name": "Newport Lib Dems🔶",
+          "screen_name": "NASLibDems",
+          "location": "Newport, Wales",
+          "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+          "url": "https://t.co/67nTTGgAZd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/67nTTGgAZd",
+                  "expanded_url": "http://www.naslibdems.org.uk",
+                  "display_url": "naslibdems.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 320,
+          "friends_count": 1029,
+          "listed_count": 2,
+          "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+          "favourites_count": 711,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 389,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+          "profile_link_color": "FDBB30",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 23:06:03 +0000 2019",
+      "id": 1196927646757720000,
+      "id_str": "1196927646757720068",
+      "text": "RT @NASLibDems: Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party and is ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NASLibDems",
+            "name": "Newport Lib Dems🔶",
+            "id": 798930808325230600,
+            "id_str": "798930808325230592",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 939789092006563800,
+        "id_str": "939789092006563840",
+        "name": "Elizabeth Freedman",
+        "screen_name": "elizabethf100",
+        "location": "Ambridge",
+        "description": "Loves family, teaching, a good read, a good sing and a day at Lord's. Let’s keep it civil; bridges not walls.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2429,
+        "friends_count": 1705,
+        "listed_count": 7,
+        "created_at": "Sun Dec 10 09:29:14 +0000 2017",
+        "favourites_count": 4390,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22512,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105370369920241664/8Nf1bFI4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105370369920241664/8Nf1bFI4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/939789092006563840/1558506705",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+        "id": 1195990255876427800,
+        "id_str": "1195990255876427776",
+        "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hfUTiPd47r",
+              "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 798930808325230600,
+          "id_str": "798930808325230592",
+          "name": "Newport Lib Dems🔶",
+          "screen_name": "NASLibDems",
+          "location": "Newport, Wales",
+          "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+          "url": "https://t.co/67nTTGgAZd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/67nTTGgAZd",
+                  "expanded_url": "http://www.naslibdems.org.uk",
+                  "display_url": "naslibdems.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 320,
+          "friends_count": 1029,
+          "listed_count": 2,
+          "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+          "favourites_count": 711,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 389,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+          "profile_link_color": "FDBB30",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 23:03:49 +0000 2019",
+      "id": 1196927084486115300,
+      "id_str": "1196927084486115328",
+      "text": "RT @NASLibDems: Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party and is ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NASLibDems",
+            "name": "Newport Lib Dems🔶",
+            "id": 798930808325230600,
+            "id_str": "798930808325230592",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 141598993,
+        "id_str": "141598993",
+        "name": "Trevor Stables🔶 #LibDem",
+        "screen_name": "trevdick",
+        "location": "British Migrant. European",
+        "description": "Don't Trust Corbyn or Johnson🔶\nLibdems can win this time. We have to stop the duopoly.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 15359,
+        "friends_count": 16899,
+        "listed_count": 326,
+        "created_at": "Sat May 08 14:08:21 +0000 2010",
+        "favourites_count": 149270,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 291711,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191086932790595584/h6jCRrJX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191086932790595584/h6jCRrJX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141598993/1572872477",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+        "id": 1195990255876427800,
+        "id_str": "1195990255876427776",
+        "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hfUTiPd47r",
+              "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 798930808325230600,
+          "id_str": "798930808325230592",
+          "name": "Newport Lib Dems🔶",
+          "screen_name": "NASLibDems",
+          "location": "Newport, Wales",
+          "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+          "url": "https://t.co/67nTTGgAZd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/67nTTGgAZd",
+                  "expanded_url": "http://www.naslibdems.org.uk",
+                  "display_url": "naslibdems.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 320,
+          "friends_count": 1029,
+          "listed_count": 2,
+          "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+          "favourites_count": 711,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 389,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+          "profile_link_color": "FDBB30",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 21:57:56 +0000 2019",
+      "id": 1196910505216135200,
+      "id_str": "1196910505216135172",
+      "text": "#ToryBritain \n\nGeneral election debate: Conservative Party HQ pretended to be a fact-checking organisation to sprea… https://t.co/14KsygxTeN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ToryBritain",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/14KsygxTeN",
+            "expanded_url": "https://twitter.com/i/web/status/1196910505216135172",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 397948584,
+        "id_str": "397948584",
+        "name": "Adam Smith",
+        "screen_name": "Taxiboi3583",
+        "location": "Newport",
+        "description": "#LGBT #Education and #Youth. Tweets and #RT are my views, not views of organisations I am involved with.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1054,
+        "friends_count": 1515,
+        "listed_count": 10,
+        "created_at": "Tue Oct 25 11:14:35 +0000 2011",
+        "favourites_count": 1462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12355,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E4D4B2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397948584/1535474266",
+        "profile_link_color": "F94141",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B6B13C",
+        "profile_text_color": "479387",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 21:25:06 +0000 2019",
+      "id": 1196902242936377300,
+      "id_str": "1196902242936377346",
+      "text": "@mossenator Mate I really want to vote Plaid Cymru, but we have a rubbish electoral system. Thems the breaks\n\nThe C… https://t.co/UF6M7EnyTv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mossenator",
+            "name": "Joseph Moss",
+            "id": 168117865,
+            "id_str": "168117865",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UF6M7EnyTv",
+            "expanded_url": "https://twitter.com/i/web/status/1196902242936377346",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196901008946937900,
+      "in_reply_to_status_id_str": "1196901008946937856",
+      "in_reply_to_user_id": 168117865,
+      "in_reply_to_user_id_str": "168117865",
+      "in_reply_to_screen_name": "mossenator",
+      "user": {
+        "id": 1049043398,
+        "id_str": "1049043398",
+        "name": "Rory O'Donnell",
+        "screen_name": "RoryODed",
+        "location": "Newport, Wales",
+        "description": "Am I meant to write something about myself here?",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 35,
+        "friends_count": 250,
+        "listed_count": 0,
+        "created_at": "Sun Dec 30 23:30:29 +0000 2012",
+        "favourites_count": 838,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 398,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120613636551131136/COEHACKp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120613636551131136/COEHACKp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1049043398/1547711834",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 21:21:34 +0000 2019",
+      "id": 1196901353563578400,
+      "id_str": "1196901353563578369",
+      "text": "I should know better than to be shocked at the lengths the Conservative party will go to... But this is completely… https://t.co/P1JkGB4N9Y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P1JkGB4N9Y",
+            "expanded_url": "https://twitter.com/i/web/status/1196901353563578369",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2566919207,
+        "id_str": "2566919207",
+        "name": "Ashleigh",
+        "screen_name": "Ashleighnessy",
+        "location": "Cwmbran, Wales",
+        "description": "Politics Graduate Swansea University 👩🏻‍🎓 Student Nurse👩🏻‍⚕️",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 312,
+        "friends_count": 338,
+        "listed_count": 4,
+        "created_at": "Tue May 27 10:23:01 +0000 2014",
+        "favourites_count": 4519,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6425,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080528422886092800/qnqCEvP0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080528422886092800/qnqCEvP0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2566919207/1546453028",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196894657378164700,
+      "quoted_status_id_str": "1196894657378164736",
+      "quoted_status": {
+        "created_at": "Tue Nov 19 20:54:58 +0000 2019",
+        "id": 1196894657378164700,
+        "id_str": "1196894657378164736",
+        "text": "We live in a post truth era... The Conservative Campaign HQ have renamed themselvesd factcheckUK... IS THIS LEGAL?!… https://t.co/Sd9pz48gRd",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Sd9pz48gRd",
+              "expanded_url": "https://twitter.com/i/web/status/1196894657378164736",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1165585517410476000,
+          "id_str": "1165585517410476032",
+          "name": "Julia Simons",
+          "screen_name": "SJimons",
+          "location": "Tweets in a personal capacity",
+          "description": "aka angry medical student The climate crisis is a health crisis",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 18846,
+          "friends_count": 930,
+          "listed_count": 30,
+          "created_at": "Sun Aug 25 11:23:45 +0000 2019",
+          "favourites_count": 698,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 346,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1189932611176665088/yyTGqPZW_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189932611176665088/yyTGqPZW_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165585517410476032/1566734998",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1196890862023786500,
+        "quoted_status_id_str": "1196890862023786497",
+        "retweet_count": 228,
+        "favorite_count": 757,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 18 14:37:42 +0000 2019",
+      "id": 1196437327385632800,
+      "id_str": "1196437327385632768",
+      "text": "BREAKING NEWS - Chuka Umanna is going to take a Conservative Seat by...............................................… https://t.co/62MIgyuZCA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/62MIgyuZCA",
+            "expanded_url": "https://twitter.com/i/web/status/1196437327385632768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 208449377,
+        "id_str": "208449377",
+        "name": "Dr Peter Noyes",
+        "screen_name": "PeternoyesVC",
+        "location": "Newport",
+        "description": "Former Vice Chancellor of the University of Wales, Newport and independent commentator. Speaks up for Newport against the tyranny of Cardiff and the WA.",
+        "url": "https://t.co/WQjs4QIfd5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WQjs4QIfd5",
+                "expanded_url": "http://www.newport.ac.uk",
+                "display_url": "newport.ac.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 600,
+        "friends_count": 268,
+        "listed_count": 35,
+        "created_at": "Wed Oct 27 09:12:30 +0000 2010",
+        "favourites_count": 1236,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2517,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157205756/peternoyes2_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157205756/peternoyes2_normal.gif",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196432702704103400,
+      "quoted_status_id_str": "1196432702704103424",
+      "quoted_status": {
+        "created_at": "Mon Nov 18 14:19:19 +0000 2019",
+        "id": 1196432702704103400,
+        "id_str": "1196432702704103424",
+        "text": "The @LibDems are in a far better position to take seats from the Tories than Labour. The only way to deprive Boris… https://t.co/8oupdzuO9S",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LibDems",
+              "name": "Liberal Democrats",
+              "id": 5680622,
+              "id_str": "5680622",
+              "indices": [
+                4,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/8oupdzuO9S",
+              "expanded_url": "https://twitter.com/i/web/status/1196432702704103424",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 33300246,
+          "id_str": "33300246",
+          "name": "Chuka Umunna",
+          "screen_name": "ChukaUmunna",
+          "location": "London",
+          "description": "@LibDems candidate for Cities of London & Westminster, Shadow Foreign Sec.\nI am no longer an MP, Parliament is dissolved for the election.\nImprint: https://t.co/qxpd0gVM0R",
+          "url": "https://t.co/QKAqDzdAr9",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/QKAqDzdAr9",
+                  "expanded_url": "http://www.chuka.org.uk",
+                  "display_url": "chuka.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/qxpd0gVM0R",
+                  "expanded_url": "http://chuka.org.uk",
+                  "display_url": "chuka.org.uk",
+                  "indices": [
+                    148,
+                    171
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 391409,
+          "friends_count": 2566,
+          "listed_count": 3022,
+          "created_at": "Sun Apr 19 20:14:28 +0000 2009",
+          "favourites_count": 62,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 35651,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "9E0909",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1179363824455110656/Pd7Ar9z6_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179363824455110656/Pd7Ar9z6_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/33300246/1570016851",
+          "profile_link_color": "CC3379",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDFFCC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 300,
+        "favorite_count": 718,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 12:04:01 +0000 2019",
+      "id": 1196036266627928000,
+      "id_str": "1196036266627928066",
+      "text": "RT @NASLibDems: Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party and is ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NASLibDems",
+            "name": "Newport Lib Dems🔶",
+            "id": 798930808325230600,
+            "id_str": "798930808325230592",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 142052831,
+        "id_str": "142052831",
+        "name": "flybynight",
+        "screen_name": "flybynightpress",
+        "location": "United Kingdom",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 481,
+        "listed_count": 0,
+        "created_at": "Sun May 09 20:25:21 +0000 2010",
+        "favourites_count": 14511,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12534,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+        "id": 1195990255876427800,
+        "id_str": "1195990255876427776",
+        "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hfUTiPd47r",
+              "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 798930808325230600,
+          "id_str": "798930808325230592",
+          "name": "Newport Lib Dems🔶",
+          "screen_name": "NASLibDems",
+          "location": "Newport, Wales",
+          "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+          "url": "https://t.co/67nTTGgAZd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/67nTTGgAZd",
+                  "expanded_url": "http://www.naslibdems.org.uk",
+                  "display_url": "naslibdems.org.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 320,
+          "friends_count": 1029,
+          "listed_count": 2,
+          "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+          "favourites_count": 711,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 389,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+          "profile_link_color": "FDBB30",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 09:01:12 +0000 2019",
+      "id": 1195990255876427800,
+      "id_str": "1195990255876427776",
+      "text": "Lib Dem vote surging. But it isn’t just London. The other day a lifelong conservative from Magor joined our party a… https://t.co/hfUTiPd47r",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hfUTiPd47r",
+            "expanded_url": "https://twitter.com/i/web/status/1195990255876427776",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 798930808325230600,
+        "id_str": "798930808325230592",
+        "name": "Newport Lib Dems🔶",
+        "screen_name": "NASLibDems",
+        "location": "Newport, Wales",
+        "description": "Official Twitter account of the Newport and Severnside Liberal Democrats. Imprint on website.",
+        "url": "https://t.co/67nTTGgAZd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/67nTTGgAZd",
+                "expanded_url": "http://www.naslibdems.org.uk",
+                "display_url": "naslibdems.org.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 320,
+        "friends_count": 1029,
+        "listed_count": 2,
+        "created_at": "Wed Nov 16 16:48:42 +0000 2016",
+        "favourites_count": 711,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 389,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/798932582905868288/2YWAzMxk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/798930808325230592/1568014617",
+        "profile_link_color": "FDBB30",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 23:17:42 +0000 2019",
+      "id": 1195843414677446700,
+      "id_str": "1195843414677446656",
+      "text": "@MattHancock I’ll just leave this here Matt. The Conservative Party are in complete denial so I’ll just keep postin… https://t.co/JKQ1ksXR6q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MattHancock",
+            "name": "Matt Hancock",
+            "id": 19825835,
+            "id_str": "19825835",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JKQ1ksXR6q",
+            "expanded_url": "https://twitter.com/i/web/status/1195843414677446656",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1195757409450516500,
+      "in_reply_to_status_id_str": "1195757409450516480",
+      "in_reply_to_user_id": 19825835,
+      "in_reply_to_user_id_str": "19825835",
+      "in_reply_to_screen_name": "MattHancock",
+      "user": {
+        "id": 4854894773,
+        "id_str": "4854894773",
+        "name": "Gary Lee",
+        "screen_name": "pandpradio",
+        "location": "Cwmbran, Wales",
+        "description": "Mobile DJ in South Wales, Mobile DJ in Somerset. Former Radio DJ (still interested). Worked in Clubs, Pubs, DJ’ed on beaches, and large venues across the UK.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 67,
+        "friends_count": 703,
+        "listed_count": 0,
+        "created_at": "Wed Jan 27 21:03:34 +0000 2016",
+        "favourites_count": 348,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 660,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/692453987849736192/g4kJn1VS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/692453987849736192/g4kJn1VS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.108,
+    "max_id": 1199015389944074200,
+    "max_id_str": "1199015389944074240",
+    "next_results": "?max_id=1195843414677446655&q=Conservative%20Party&geocode=51.583333%2C-3%2C7.142857143mi&count=100&include_entities=1",
+    "query": "Conservative+Party",
+    "refresh_url": "?since_id=1199015389944074240&q=Conservative%20Party&geocode=51.583333%2C-3%2C7.142857143mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

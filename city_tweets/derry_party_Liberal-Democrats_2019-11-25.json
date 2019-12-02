@@ -1,0 +1,213 @@
+{
+  "statuses": [
+    {
+      "created_at": "Tue Nov 19 20:34:08 +0000 2019",
+      "id": 1196889414363963400,
+      "id_str": "1196889414363963392",
+      "text": "What practising Catholic could contemplate associating with Liberal Democrats?....or Labour? https://t.co/8cuKFjdJiJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8cuKFjdJiJ",
+            "expanded_url": "https://twitter.com/The_Tablet/status/1196766813662654465",
+            "display_url": "twitter.com/The_Tablet/sta…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2720845264,
+        "id_str": "2720845264",
+        "name": "Donal Deeney",
+        "screen_name": "jamesdeens",
+        "location": "Derry, Northern Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 1446,
+        "listed_count": 1,
+        "created_at": "Tue Jul 22 16:04:40 +0000 2014",
+        "favourites_count": 38772,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23612,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196766813662654500,
+      "quoted_status_id_str": "1196766813662654465",
+      "quoted_status": {
+        "created_at": "Tue Nov 19 12:26:57 +0000 2019",
+        "id": 1196766813662654500,
+        "id_str": "1196766813662654465",
+        "text": "The Liberal Democrats have deselected a practising Catholic as an election candidate after concluding that “his val… https://t.co/fox3gi2NW0",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/fox3gi2NW0",
+              "expanded_url": "https://twitter.com/i/web/status/1196766813662654465",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 153408965,
+          "id_str": "153408965",
+          "name": "The Tablet",
+          "screen_name": "The_Tablet",
+          "location": "London, United Kingdom",
+          "description": "The Tablet is a weekly Catholic journal which has been reporting on events of significance for nearly 180 years",
+          "url": "http://t.co/2OkEOV0OCY",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/2OkEOV0OCY",
+                  "expanded_url": "http://www.thetablet.co.uk",
+                  "display_url": "thetablet.co.uk",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 21040,
+          "friends_count": 2005,
+          "listed_count": 489,
+          "created_at": "Tue Jun 08 13:36:58 +0000 2010",
+          "favourites_count": 1235,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 14206,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1067452737749729280/Y_cOt_9m_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067452737749729280/Y_cOt_9m_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/153408965/1566478036",
+          "profile_link_color": "CD191C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 142,
+        "favorite_count": 115,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.032,
+    "max_id": 1196889414363963400,
+    "max_id_str": "1196889414363963392",
+    "next_results": "?max_id=1196889414363963391&q=Liberal%20Democrats&geocode=54.9958%2C-7.3074%2C4.545454545mi&count=100&include_entities=1",
+    "query": "Liberal+Democrats",
+    "refresh_url": "?since_id=1196889414363963392&q=Liberal%20Democrats&geocode=54.9958%2C-7.3074%2C4.545454545mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

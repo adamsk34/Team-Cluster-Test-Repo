@@ -1,0 +1,490 @@
+{
+  "statuses": [
+    {
+      "created_at": "Tue Nov 19 17:13:41 +0000 2019",
+      "id": 1196838969952084000,
+      "id_str": "1196838969952083969",
+      "text": "Chip shop staff still stuck at work 20 hours after asking Jeremy Corbyn if he wants salt and vinegar… https://t.co/fbG8i6Xxsm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fbG8i6Xxsm",
+            "expanded_url": "https://twitter.com/i/web/status/1196838969952083969",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42294035,
+        "id_str": "42294035",
+        "name": "David Archer",
+        "screen_name": "davidarcherNI",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Son, brother, friend. Tom Hanks lookalike. Spreading #news in #Arts #Entertainment #Sports #Technology! Op Weeting survivor! Born Zimbabwe, bred Lisburn.",
+        "url": "https://t.co/mgAyx4gDGh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mgAyx4gDGh",
+                "expanded_url": "http://facebook.com/cllrdavidarcher",
+                "display_url": "facebook.com/cllrdavidarcher",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3318,
+        "friends_count": 4995,
+        "listed_count": 88,
+        "created_at": "Sun May 24 22:24:59 +0000 2009",
+        "favourites_count": 24743,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25654,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42294035/1553978734",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 21:20:35 +0000 2019",
+      "id": 1196176329504362500,
+      "id_str": "1196176329504362498",
+      "text": "Jeremy Corbyn hints he wants united Ireland as he celebrates ‘growing integration’ @Daily_Express… https://t.co/Fyu6zPh3cc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Daily_Express",
+            "name": "Daily Express",
+            "id": 17895820,
+            "id_str": "17895820",
+            "indices": [
+              83,
+              97
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Fyu6zPh3cc",
+            "expanded_url": "https://twitter.com/i/web/status/1196176329504362498",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42294035,
+        "id_str": "42294035",
+        "name": "David Archer",
+        "screen_name": "davidarcherNI",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Son, brother, friend. Tom Hanks lookalike. Spreading #news in #Arts #Entertainment #Sports #Technology! Op Weeting survivor! Born Zimbabwe, bred Lisburn.",
+        "url": "https://t.co/mgAyx4gDGh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mgAyx4gDGh",
+                "expanded_url": "http://facebook.com/cllrdavidarcher",
+                "display_url": "facebook.com/cllrdavidarcher",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3318,
+        "friends_count": 4995,
+        "listed_count": 88,
+        "created_at": "Sun May 24 22:24:59 +0000 2009",
+        "favourites_count": 24743,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25654,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42294035/1553978734",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 20:42:26 +0000 2019",
+      "id": 1195804342105890800,
+      "id_str": "1195804342105890816",
+      "text": "RT @GanglSepp: Jeremy Corbyn has such a positive attitude for someone working his month's notice...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GanglSepp",
+            "name": "N.I.Veteran",
+            "id": 1100114051223433200,
+            "id_str": "1100114051223433216",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 819526967997382700,
+        "id_str": "819526967997382656",
+        "name": "ZVictor 6",
+        "screen_name": "clive_uttley",
+        "location": "Liverpool, England",
+        "description": "Hang em and flog em !!\nEx Marksman, ex Z Victor 6,\nEx Merchant Marine, Engineer, Scuba Instructor, Pot Holer, Mountain Runner, Equestrian, Dog and Cat lover",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3747,
+        "friends_count": 4339,
+        "listed_count": 2,
+        "created_at": "Thu Jan 12 12:50:30 +0000 2017",
+        "favourites_count": 120730,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 131898,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095397827050594304/03kNoA5a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095397827050594304/03kNoA5a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819526967997382656/1549400837",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Nov 16 20:14:39 +0000 2019",
+        "id": 1195797347944599600,
+        "id_str": "1195797347944599557",
+        "text": "Jeremy Corbyn has such a positive attitude for someone working his month's notice...",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1100114051223433200,
+          "id_str": "1100114051223433216",
+          "name": "N.I.Veteran",
+          "screen_name": "GanglSepp",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Supporting N.I.Veterans from History being rewritten by terrorists. If you have FBPE in your title-GO AWAY!",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1062,
+          "friends_count": 794,
+          "listed_count": 1,
+          "created_at": "Mon Feb 25 19:23:23 +0000 2019",
+          "favourites_count": 14804,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 9659,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100114051223433216/1574086467",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 20:14:39 +0000 2019",
+      "id": 1195797347944599600,
+      "id_str": "1195797347944599557",
+      "text": "Jeremy Corbyn has such a positive attitude for someone working his month's notice...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1100114051223433200,
+        "id_str": "1100114051223433216",
+        "name": "N.I.Veteran",
+        "screen_name": "GanglSepp",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Supporting N.I.Veterans from History being rewritten by terrorists. If you have FBPE in your title-GO AWAY!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1062,
+        "friends_count": 794,
+        "listed_count": 1,
+        "created_at": "Mon Feb 25 19:23:23 +0000 2019",
+        "favourites_count": 14804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9659,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100114051223433216/1574086467",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.08,
+    "max_id": 1196838969952084000,
+    "max_id_str": "1196838969952083969",
+    "next_results": "?max_id=1195797347944599556&q=Jeremy%20Corbyn&geocode=54.512%2C-6.031%2C4.166666667mi&count=100&include_entities=1",
+    "query": "Jeremy+Corbyn",
+    "refresh_url": "?since_id=1196838969952083969&q=Jeremy%20Corbyn&geocode=54.512%2C-6.031%2C4.166666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

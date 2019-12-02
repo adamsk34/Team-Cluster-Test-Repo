@@ -1,0 +1,13 @@
+{
+  "statuses": [],
+  "search_metadata": {
+    "completed_in": 0.02,
+    "max_id": 1195445246542459000,
+    "max_id_str": "1195445246542458880",
+    "query": "Jeremy+Corbyn+OR+Boris+Johnson+OR+Jo+Swinson+OR+Nigel+Farage",
+    "refresh_url": "?since_id=1195445246542458880&q=Jeremy%20Corbyn%20OR%20Boris%20Johnson%20OR%20Jo%20Swinson%20OR%20Nigel%20Farage&geocode=54.596389%2C-5.93%2C5.555555556mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

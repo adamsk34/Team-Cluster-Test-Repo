@@ -1,0 +1,3484 @@
+{
+  "statuses": [
+    {
+      "created_at": "Thu Nov 21 22:15:41 +0000 2019",
+      "id": 1197639748782833700,
+      "id_str": "1197639748782833665",
+      "text": "@StevieBrexit @MikeHillMP Vote Conservative/TBP just kick Terrorist Loving Marxist Corbyns Labour Party OUT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StevieBrexit",
+            "name": "Brexit-Warrior-Steve #LeaveAlliance",
+            "id": 3391985055,
+            "id_str": "3391985055",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "MikeHillMP",
+            "name": "Mike Hill for Hartlepool",
+            "id": 495068194,
+            "id_str": "495068194",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197637749291016200,
+      "in_reply_to_status_id_str": "1197637749291016192",
+      "in_reply_to_user_id": 3391985055,
+      "in_reply_to_user_id_str": "3391985055",
+      "in_reply_to_screen_name": "StevieBrexit",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 19:12:27 +0000 2019",
+      "id": 1197593636302663700,
+      "id_str": "1197593636302663687",
+      "text": "@DarrenPlymouth @StevieBrexit The Doll in the glasses is a member of Corbyns Marxist Labour Party",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DarrenPlymouth",
+            "name": "Darren of Plymouth 🇬🇧",
+            "id": 791672814017347600,
+            "id_str": "791672814017347584",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "StevieBrexit",
+            "name": "Brexit-Warrior-Steve #LeaveAlliance",
+            "id": 3391985055,
+            "id_str": "3391985055",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197437947861184500,
+      "in_reply_to_status_id_str": "1197437947861184512",
+      "in_reply_to_user_id": 791672814017347600,
+      "in_reply_to_user_id_str": "791672814017347584",
+      "in_reply_to_screen_name": "DarrenPlymouth",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 15:49:29 +0000 2019",
+      "id": 1197542557028376600,
+      "id_str": "1197542557028376582",
+      "text": "@AlanHJamieson1 @junemcallister3 The Nationalists of the SNP like the Nationalists of SF/IRA, Corbyns Marxist Labou… https://t.co/BquR7oFP8K",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlanHJamieson1",
+            "name": "Alan H Jamieson",
+            "id": 1034849321290788900,
+            "id_str": "1034849321290788864",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "junemcallister3",
+            "name": "june mcallister",
+            "id": 747128899,
+            "id_str": "747128899",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BquR7oFP8K",
+            "expanded_url": "https://twitter.com/i/web/status/1197542557028376582",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197273603101921300,
+      "in_reply_to_status_id_str": "1197273603101921282",
+      "in_reply_to_user_id": 1034849321290788900,
+      "in_reply_to_user_id_str": "1034849321290788864",
+      "in_reply_to_screen_name": "AlanHJamieson1",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 14:29:52 +0000 2019",
+      "id": 1197522521278599200,
+      "id_str": "1197522521278599169",
+      "text": "This is the document that fully costs the Labour Party Manifesto https://t.co/AtAVHpOqHk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AtAVHpOqHk",
+            "expanded_url": "https://labour.org.uk/wp-content/uploads/2019/11/Funding-Real-Change.pdf",
+            "display_url": "labour.org.uk/wp-content/upl…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25183457,
+        "id_str": "25183457",
+        "name": "Keith Gray",
+        "screen_name": "liver30",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Member of Lagan Valley Labour. Pro-Corbyn Supporter. #FORTHEMANYNOTJUSTTHEPRIVLEGEDFEW#.  I suffer from depression, Cerebral Palsy and fibromylagia",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 307,
+        "friends_count": 1888,
+        "listed_count": 4,
+        "created_at": "Wed Mar 18 23:28:15 +0000 2009",
+        "favourites_count": 278,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 709,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196793406267236353/l3XIh4FW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196793406267236353/l3XIh4FW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25183457/1530096219",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 08:52:43 +0000 2019",
+      "id": 1197437672396148700,
+      "id_str": "1197437672396148736",
+      "text": "@hannah1_rose @exon384 @Telegraph Corbyns Marxist Labour Party love those who Hate Israel &amp; The United Kingdom.\nSF/IRA\nHamas\nHezbollah\nIran",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hannah1_rose",
+            "name": "Hannah Rose",
+            "id": 2490289837,
+            "id_str": "2490289837",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "exon384",
+            "name": "Exon384",
+            "id": 1122777907481522200,
+            "id_str": "1122777907481522176",
+            "indices": [
+              14,
+              22
+            ]
+          },
+          {
+            "screen_name": "Telegraph",
+            "name": "The Telegraph",
+            "id": 16343974,
+            "id_str": "16343974",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197239329896239000,
+      "in_reply_to_status_id_str": "1197239329896239110",
+      "in_reply_to_user_id": 2490289837,
+      "in_reply_to_user_id_str": "2490289837",
+      "in_reply_to_screen_name": "hannah1_rose",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 08:46:37 +0000 2019",
+      "id": 1197436137788321800,
+      "id_str": "1197436137788321792",
+      "text": "@zero_to_here_oh @damianham Hold your nose and Vote for whoever can beat Corbyns Marxist Labour Party/SNP/Welsh Nat… https://t.co/7ZrxsPnvwy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zero_to_here_oh",
+            "name": "Zero to Here...Oh QC",
+            "id": 814159519,
+            "id_str": "814159519",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "damianham",
+            "name": "Tinkertwit McTwitFace",
+            "id": 39944151,
+            "id_str": "39944151",
+            "indices": [
+              17,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7ZrxsPnvwy",
+            "expanded_url": "https://twitter.com/i/web/status/1197436137788321792",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197272189281669000,
+      "in_reply_to_status_id_str": "1197272189281669120",
+      "in_reply_to_user_id": 814159519,
+      "in_reply_to_user_id_str": "814159519",
+      "in_reply_to_screen_name": "zero_to_here_oh",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 10:15:08 +0000 2019",
+      "id": 1196733638047600600,
+      "id_str": "1196733638047600641",
+      "text": "@carsonsarmy_NS @AATG57 Corbyns Marxist Labour Party and Sturgeons IRA loving Nationalists of the SNP Hate, Absolut… https://t.co/1NsktG5sM3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "carsonsarmy_NS",
+            "name": "John 🇬🇧",
+            "id": 1119508634503917600,
+            "id_str": "1119508634503917568",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "AATG57",
+            "name": "AATG",
+            "id": 913734584210264000,
+            "id_str": "913734584210264069",
+            "indices": [
+              16,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1NsktG5sM3",
+            "expanded_url": "https://twitter.com/i/web/status/1196733638047600641",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196498251203125200,
+      "in_reply_to_status_id_str": "1196498251203125249",
+      "in_reply_to_user_id": 1119508634503917600,
+      "in_reply_to_user_id_str": "1119508634503917568",
+      "in_reply_to_screen_name": "carsonsarmy_NS",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 10:09:24 +0000 2019",
+      "id": 1196732194439487500,
+      "id_str": "1196732194439487490",
+      "text": "@UKLabour I would not believe a word Terrorist Loving Marxist Corbyn said.\nThe Labour Party is Dead Because, \nMarxi… https://t.co/3OMUKrXpDM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UKLabour",
+            "name": "The Labour Party",
+            "id": 14291684,
+            "id_str": "14291684",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3OMUKrXpDM",
+            "expanded_url": "https://twitter.com/i/web/status/1196732194439487490",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196729829569097700,
+      "in_reply_to_status_id_str": "1196729829569097729",
+      "in_reply_to_user_id": 14291684,
+      "in_reply_to_user_id_str": "14291684",
+      "in_reply_to_screen_name": "UKLabour",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 18 09:04:15 +0000 2019",
+      "id": 1196353412322996200,
+      "id_str": "1196353412322996224",
+      "text": "@UKLabour 😂😂😂😂😂😂Corbyns Marxist so called Labour Party with their Sectarian, Racist IRA Loving backroom staffers wa… https://t.co/7SzWdNwzlO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UKLabour",
+            "name": "The Labour Party",
+            "id": 14291684,
+            "id_str": "14291684",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7SzWdNwzlO",
+            "expanded_url": "https://twitter.com/i/web/status/1196353412322996224",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196352343354286000,
+      "in_reply_to_status_id_str": "1196352343354286080",
+      "in_reply_to_user_id": 14291684,
+      "in_reply_to_user_id_str": "14291684",
+      "in_reply_to_screen_name": "UKLabour",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 553,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 05:51:59 +0000 2019",
+      "id": 1195942640010891300,
+      "id_str": "1195942640010891264",
+      "text": "RT @GaryHynds: The Labour Party 2019 https://t.co/Pb2c5ISBTM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GaryHynds",
+            "name": "Gary Hynds",
+            "id": 826847737643675600,
+            "id_str": "826847737643675649",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1084099701341913100,
+            "id_str": "1084099701341913089",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+            "url": "https://t.co/Pb2c5ISBTM",
+            "display_url": "pic.twitter.com/Pb2c5ISBTM",
+            "expanded_url": "https://twitter.com/GaryHynds/status/1084099714516160512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1084099714516160500,
+            "source_status_id_str": "1084099714516160512",
+            "source_user_id": 826847737643675600,
+            "source_user_id_str": "826847737643675649"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1084099701341913100,
+            "id_str": "1084099701341913089",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+            "url": "https://t.co/Pb2c5ISBTM",
+            "display_url": "pic.twitter.com/Pb2c5ISBTM",
+            "expanded_url": "https://twitter.com/GaryHynds/status/1084099714516160512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1084099714516160500,
+            "source_status_id_str": "1084099714516160512",
+            "source_user_id": 826847737643675600,
+            "source_user_id_str": "826847737643675649"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 276014492,
+        "id_str": "276014492",
+        "name": "Jay Thompson 🔶🥀 🇪🇺 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🌊",
+        "screen_name": "boffchops",
+        "location": "#Cymru #EU #PaleBlueDot #Cosmos",
+        "description": "#Progressive #Centrist #FBPE #ABTV #WATON #VoteLibDem #LibDemSurge #Remain #StopBrexit #NotVotingLabour #LabourNoLonger #NeverCorbyn #AnyoneButCorbyn #GE19",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10957,
+        "friends_count": 6346,
+        "listed_count": 217,
+        "created_at": "Sat Apr 02 13:34:23 +0000 2011",
+        "favourites_count": 148714,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 111537,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/881185756089384964/YJm3cZHK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/881185756089384964/YJm3cZHK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276014492/1498926032",
+        "profile_link_color": "D60808",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E60000",
+        "profile_text_color": "FF8400",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Jan 12 14:48:08 +0000 2019",
+        "id": 1084099714516160500,
+        "id_str": "1084099714516160512",
+        "text": "The Labour Party 2019 https://t.co/Pb2c5ISBTM",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1084099701341913100,
+              "id_str": "1084099701341913089",
+              "indices": [
+                22,
+                45
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+              "url": "https://t.co/Pb2c5ISBTM",
+              "display_url": "pic.twitter.com/Pb2c5ISBTM",
+              "expanded_url": "https://twitter.com/GaryHynds/status/1084099714516160512/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 675,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1152,
+                  "h": 2048,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1084099701341913100,
+              "id_str": "1084099701341913089",
+              "indices": [
+                22,
+                45
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dwt-7z-XgAEa0E1.jpg",
+              "url": "https://t.co/Pb2c5ISBTM",
+              "display_url": "pic.twitter.com/Pb2c5ISBTM",
+              "expanded_url": "https://twitter.com/GaryHynds/status/1084099714516160512/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 675,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1152,
+                  "h": 2048,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 826847737643675600,
+          "id_str": "826847737643675649",
+          "name": "Gary Hynds",
+          "screen_name": "GaryHynds",
+          "location": "Lisburn",
+          "description": "Conservative Parliamentary Candidate for Lagan Valley. Spokesperson & Deputy Chair of the Northern Ireland Conservatives | ❤ Freedom & Liberty 🇬🇧 🏳️‍🌈",
+          "url": "https://t.co/9eCHhhRDCn",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9eCHhhRDCn",
+                  "expanded_url": "https://www.facebook.com/GaryHyndsConservative/",
+                  "display_url": "facebook.com/GaryHyndsConse…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4574,
+          "friends_count": 2149,
+          "listed_count": 39,
+          "created_at": "Wed Feb 01 17:40:37 +0000 2017",
+          "favourites_count": 40843,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 15125,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194313164487372801/7-JEUM1u_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/826847737643675649/1536767289",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 453,
+        "favorite_count": 833,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 453,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 07:07:53 +0000 2019",
+      "id": 1194874577442295800,
+      "id_str": "1194874577442295808",
+      "text": "RT @BrianDavidHigg1: @BelTel @JamieBrysonCPNI Kate Hoey former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fe…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "BelTel",
+            "name": "Belfast Telegraph",
+            "id": 20687723,
+            "id_str": "20687723",
+            "indices": [
+              21,
+              28
+            ]
+          },
+          {
+            "screen_name": "JamieBrysonCPNI",
+            "name": "Jamie Bryson",
+            "id": 240214426,
+            "id_str": "240214426",
+            "indices": [
+              29,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1147878759942512600,
+        "id_str": "1147878759942512640",
+        "name": "Davy_36th",
+        "screen_name": "36thDavy",
+        "location": "",
+        "description": "Proud Loyalist. Country before All. \nDeath before Dishonour. FGAU",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 367,
+        "friends_count": 396,
+        "listed_count": 0,
+        "created_at": "Sun Jul 07 14:43:17 +0000 2019",
+        "favourites_count": 620,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1399,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183091575922008069/6V5b0RIW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183091575922008069/6V5b0RIW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147878759942512640/1570906175",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 23:41:21 +0000 2019",
+        "id": 1194762204538691600,
+        "id_str": "1194762204538691584",
+        "text": "@BelTel @JamieBrysonCPNI Kate Hoey former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn… https://t.co/exbA0mXTPs",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BelTel",
+              "name": "Belfast Telegraph",
+              "id": 20687723,
+              "id_str": "20687723",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "JamieBrysonCPNI",
+              "name": "Jamie Bryson",
+              "id": 240214426,
+              "id_str": "240214426",
+              "indices": [
+                8,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/exbA0mXTPs",
+              "expanded_url": "https://twitter.com/i/web/status/1194762204538691584",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1194726166629900300,
+        "in_reply_to_status_id_str": "1194726166629900294",
+        "in_reply_to_user_id": 20687723,
+        "in_reply_to_user_id_str": "20687723",
+        "in_reply_to_screen_name": "BelTel",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2624,
+          "friends_count": 4989,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15917,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3265,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 06:41:37 +0000 2019",
+      "id": 1194867966866854000,
+      "id_str": "1194867966866853889",
+      "text": "RT @BrianDavidHigg1: @CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't drea…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "CatharineHoey",
+            "name": "Kate Hoey",
+            "id": 1284146730,
+            "id_str": "1284146730",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2205616722,
+        "id_str": "2205616722",
+        "name": "Derby",
+        "screen_name": "CultraStephen",
+        "location": "UK",
+        "description": "Christian, British, Democrat.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 214,
+        "friends_count": 1501,
+        "listed_count": 2,
+        "created_at": "Wed Nov 20 21:18:53 +0000 2013",
+        "favourites_count": 61873,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32218,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170084537629646848/CXjIc6-o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170084537629646848/CXjIc6-o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2205616722/1567804866",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 23:36:22 +0000 2019",
+        "id": 1194760950148153300,
+        "id_str": "1194760950148153345",
+        "text": "@CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't d… https://t.co/K8PpeORuIM",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CatharineHoey",
+              "name": "Kate Hoey",
+              "id": 1284146730,
+              "id_str": "1284146730",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/K8PpeORuIM",
+              "expanded_url": "https://twitter.com/i/web/status/1194760950148153345",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1194745165115773000,
+        "in_reply_to_status_id_str": "1194745165115772930",
+        "in_reply_to_user_id": 1008450552492101600,
+        "in_reply_to_user_id_str": "1008450552492101632",
+        "in_reply_to_screen_name": "BrianDavidHigg1",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2624,
+          "friends_count": 4989,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15917,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3265,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 00:44:48 +0000 2019",
+      "id": 1194778169318006800,
+      "id_str": "1194778169318006789",
+      "text": "RT @BrianDavidHigg1: @CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't drea…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "CatharineHoey",
+            "name": "Kate Hoey",
+            "id": 1284146730,
+            "id_str": "1284146730",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3254729421,
+        "id_str": "3254729421",
+        "name": "Jim W",
+        "screen_name": "Teamleader_8683",
+        "location": "Northern Ireland, UK",
+        "description": "British. Northern Ireland. Glentoran. GAWA",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 483,
+        "friends_count": 1037,
+        "listed_count": 2,
+        "created_at": "Thu May 14 21:46:27 +0000 2015",
+        "favourites_count": 1094,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6993,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/931557730514501632/6Uqy65O2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/931557730514501632/6Uqy65O2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 23:36:22 +0000 2019",
+        "id": 1194760950148153300,
+        "id_str": "1194760950148153345",
+        "text": "@CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't d… https://t.co/K8PpeORuIM",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CatharineHoey",
+              "name": "Kate Hoey",
+              "id": 1284146730,
+              "id_str": "1284146730",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/K8PpeORuIM",
+              "expanded_url": "https://twitter.com/i/web/status/1194760950148153345",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1194745165115773000,
+        "in_reply_to_status_id_str": "1194745165115772930",
+        "in_reply_to_user_id": 1008450552492101600,
+        "in_reply_to_user_id_str": "1008450552492101632",
+        "in_reply_to_screen_name": "BrianDavidHigg1",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2624,
+          "friends_count": 4989,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15917,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3265,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:52:56 +0000 2019",
+      "id": 1194765119680594000,
+      "id_str": "1194765119680593920",
+      "text": "RT @BrianDavidHigg1: @BelTel @JamieBrysonCPNI Kate Hoey former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fe…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "BelTel",
+            "name": "Belfast Telegraph",
+            "id": 20687723,
+            "id_str": "20687723",
+            "indices": [
+              21,
+              28
+            ]
+          },
+          {
+            "screen_name": "JamieBrysonCPNI",
+            "name": "Jamie Bryson",
+            "id": 240214426,
+            "id_str": "240214426",
+            "indices": [
+              29,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1009696639592947700,
+        "id_str": "1009696639592947714",
+        "name": "The Chaplain",
+        "screen_name": "BrianHassan12",
+        "location": "United Kingdom",
+        "description": "Rangers/Linfield/MUFC/GAWA #LoyalOrders #Unionist #Loyalist **views my own** #CleanBreakBrexit",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1783,
+        "friends_count": 1855,
+        "listed_count": 5,
+        "created_at": "Thu Jun 21 07:16:52 +0000 2018",
+        "favourites_count": 18508,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24626,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194023456486105089/M3D6lD_Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194023456486105089/M3D6lD_Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009696639592947714/1573903377",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 23:41:21 +0000 2019",
+        "id": 1194762204538691600,
+        "id_str": "1194762204538691584",
+        "text": "@BelTel @JamieBrysonCPNI Kate Hoey former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn… https://t.co/exbA0mXTPs",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BelTel",
+              "name": "Belfast Telegraph",
+              "id": 20687723,
+              "id_str": "20687723",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "JamieBrysonCPNI",
+              "name": "Jamie Bryson",
+              "id": 240214426,
+              "id_str": "240214426",
+              "indices": [
+                8,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/exbA0mXTPs",
+              "expanded_url": "https://twitter.com/i/web/status/1194762204538691584",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1194726166629900300,
+        "in_reply_to_status_id_str": "1194726166629900294",
+        "in_reply_to_user_id": 20687723,
+        "in_reply_to_user_id_str": "20687723",
+        "in_reply_to_screen_name": "BelTel",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2624,
+          "friends_count": 4989,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15917,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3265,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:41:21 +0000 2019",
+      "id": 1194762204538691600,
+      "id_str": "1194762204538691584",
+      "text": "@BelTel @JamieBrysonCPNI Kate Hoey former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn… https://t.co/exbA0mXTPs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BelTel",
+            "name": "Belfast Telegraph",
+            "id": 20687723,
+            "id_str": "20687723",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "JamieBrysonCPNI",
+            "name": "Jamie Bryson",
+            "id": 240214426,
+            "id_str": "240214426",
+            "indices": [
+              8,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/exbA0mXTPs",
+            "expanded_url": "https://twitter.com/i/web/status/1194762204538691584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1194726166629900300,
+      "in_reply_to_status_id_str": "1194726166629900294",
+      "in_reply_to_user_id": 20687723,
+      "in_reply_to_user_id_str": "20687723",
+      "in_reply_to_screen_name": "BelTel",
+      "user": {
+        "id": 1008450552492101600,
+        "id_str": "1008450552492101632",
+        "name": "Brian Higginson🇬🇧",
+        "screen_name": "BrianDavidHigg1",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2624,
+        "friends_count": 4989,
+        "listed_count": 3,
+        "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+        "favourites_count": 15917,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3265,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:41:09 +0000 2019",
+      "id": 1194762151430426600,
+      "id_str": "1194762151430426624",
+      "text": "@LBC @JamieBrysonCPNI @IainDale @CatharineHoey Kate Hoey former Labour MP stated....\n\nI'm pro-union. I would not dr… https://t.co/C78SDTIBDl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LBC",
+            "name": "LBC",
+            "id": 20973388,
+            "id_str": "20973388",
+            "indices": [
+              0,
+              4
+            ]
+          },
+          {
+            "screen_name": "JamieBrysonCPNI",
+            "name": "Jamie Bryson",
+            "id": 240214426,
+            "id_str": "240214426",
+            "indices": [
+              5,
+              21
+            ]
+          },
+          {
+            "screen_name": "IainDale",
+            "name": "Iain Dale",
+            "id": 5838002,
+            "id_str": "5838002",
+            "indices": [
+              22,
+              31
+            ]
+          },
+          {
+            "screen_name": "CatharineHoey",
+            "name": "Kate Hoey",
+            "id": 1284146730,
+            "id_str": "1284146730",
+            "indices": [
+              32,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/C78SDTIBDl",
+            "expanded_url": "https://twitter.com/i/web/status/1194762151430426624",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1194713530886475800,
+      "in_reply_to_status_id_str": "1194713530886475776",
+      "in_reply_to_user_id": 20973388,
+      "in_reply_to_user_id_str": "20973388",
+      "in_reply_to_screen_name": "LBC",
+      "user": {
+        "id": 1008450552492101600,
+        "id_str": "1008450552492101632",
+        "name": "Brian Higginson🇬🇧",
+        "screen_name": "BrianDavidHigg1",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2624,
+        "friends_count": 4989,
+        "listed_count": 3,
+        "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+        "favourites_count": 15917,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3265,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:40:22 +0000 2019",
+      "id": 1194761956504326100,
+      "id_str": "1194761956504326144",
+      "text": "RT @BrianDavidHigg1: @CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't drea…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "CatharineHoey",
+            "name": "Kate Hoey",
+            "id": 1284146730,
+            "id_str": "1284146730",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1110982350358360000,
+        "id_str": "1110982350358360070",
+        "name": "Eddie Mick",
+        "screen_name": "dupvoter",
+        "location": "Northern Ireland",
+        "description": "it is said democracy is the worst kind of government except all others that have been tried (W.Churchill)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 239,
+        "friends_count": 260,
+        "listed_count": 3,
+        "created_at": "Wed Mar 27 19:10:08 +0000 2019",
+        "favourites_count": 4465,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4926,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187468768412229644/S_s0gSSc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187468768412229644/S_s0gSSc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 23:36:22 +0000 2019",
+        "id": 1194760950148153300,
+        "id_str": "1194760950148153345",
+        "text": "@CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't d… https://t.co/K8PpeORuIM",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CatharineHoey",
+              "name": "Kate Hoey",
+              "id": 1284146730,
+              "id_str": "1284146730",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/K8PpeORuIM",
+              "expanded_url": "https://twitter.com/i/web/status/1194760950148153345",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1194745165115773000,
+        "in_reply_to_status_id_str": "1194745165115772930",
+        "in_reply_to_user_id": 1008450552492101600,
+        "in_reply_to_user_id_str": "1008450552492101632",
+        "in_reply_to_screen_name": "BrianDavidHigg1",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2624,
+          "friends_count": 4989,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15917,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3265,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:39:44 +0000 2019",
+      "id": 1194761798119022600,
+      "id_str": "1194761798119022598",
+      "text": "RT @BrianDavidHigg1: @CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't drea…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "CatharineHoey",
+            "name": "Kate Hoey",
+            "id": 1284146730,
+            "id_str": "1284146730",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1120381383396950000,
+        "id_str": "1120381383396950016",
+        "name": "Alex Jones",
+        "screen_name": "alexjonesAM1",
+        "location": "Northern Ireland",
+        "description": "I used to love my old twitter account, then everyone from work found me.  This is my new account",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 823,
+        "friends_count": 1246,
+        "listed_count": 1,
+        "created_at": "Mon Apr 22 17:38:32 +0000 2019",
+        "favourites_count": 26164,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17714,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120381596840988675/ILgJ1CQi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120381596840988675/ILgJ1CQi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 23:36:22 +0000 2019",
+        "id": 1194760950148153300,
+        "id_str": "1194760950148153345",
+        "text": "@CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't d… https://t.co/K8PpeORuIM",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CatharineHoey",
+              "name": "Kate Hoey",
+              "id": 1284146730,
+              "id_str": "1284146730",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/K8PpeORuIM",
+              "expanded_url": "https://twitter.com/i/web/status/1194760950148153345",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1194745165115773000,
+        "in_reply_to_status_id_str": "1194745165115772930",
+        "in_reply_to_user_id": 1008450552492101600,
+        "in_reply_to_user_id_str": "1008450552492101632",
+        "in_reply_to_screen_name": "BrianDavidHigg1",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2624,
+          "friends_count": 4989,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15917,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3265,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:36:47 +0000 2019",
+      "id": 1194761054414418000,
+      "id_str": "1194761054414417921",
+      "text": "RT @BrianDavidHigg1: @CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't drea…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "CatharineHoey",
+            "name": "Kate Hoey",
+            "id": 1284146730,
+            "id_str": "1284146730",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1113575081463226400,
+        "id_str": "1113575081463226369",
+        "name": "Dolly D",
+        "screen_name": "Abbbbbaaaa",
+        "location": "London, England",
+        "description": "#brexit leave voters add me. we must stand united in leaving the 17.4 million standing together for democracy. i am not stupid or racist .Brexit 31/10/19",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2828,
+        "friends_count": 4389,
+        "listed_count": 1,
+        "created_at": "Wed Apr 03 22:52:43 +0000 2019",
+        "favourites_count": 8601,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3944,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177319504579354624/NJhYcmD__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177319504579354624/NJhYcmD__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113575081463226369/1567975621",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 23:36:22 +0000 2019",
+        "id": 1194760950148153300,
+        "id_str": "1194760950148153345",
+        "text": "@CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't d… https://t.co/K8PpeORuIM",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CatharineHoey",
+              "name": "Kate Hoey",
+              "id": 1284146730,
+              "id_str": "1284146730",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/K8PpeORuIM",
+              "expanded_url": "https://twitter.com/i/web/status/1194760950148153345",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1194745165115773000,
+        "in_reply_to_status_id_str": "1194745165115772930",
+        "in_reply_to_user_id": 1008450552492101600,
+        "in_reply_to_user_id_str": "1008450552492101632",
+        "in_reply_to_screen_name": "BrianDavidHigg1",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2624,
+          "friends_count": 4989,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15917,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3265,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:36:22 +0000 2019",
+      "id": 1194760950148153300,
+      "id_str": "1194760950148153345",
+      "text": "@CatharineHoey  former Labour MP stated....\n\nI'm pro-union. I would not dream of voting for Sinn Fein, I wouldn't d… https://t.co/K8PpeORuIM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CatharineHoey",
+            "name": "Kate Hoey",
+            "id": 1284146730,
+            "id_str": "1284146730",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/K8PpeORuIM",
+            "expanded_url": "https://twitter.com/i/web/status/1194760950148153345",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1194745165115773000,
+      "in_reply_to_status_id_str": "1194745165115772930",
+      "in_reply_to_user_id": 1008450552492101600,
+      "in_reply_to_user_id_str": "1008450552492101632",
+      "in_reply_to_screen_name": "BrianDavidHigg1",
+      "user": {
+        "id": 1008450552492101600,
+        "id_str": "1008450552492101632",
+        "name": "Brian Higginson🇬🇧",
+        "screen_name": "BrianDavidHigg1",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2624,
+        "friends_count": 4989,
+        "listed_count": 3,
+        "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+        "favourites_count": 15917,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3265,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194962648057745418/aFp3Ce3F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 17:34:08 +0000 2019",
+      "id": 1194669789425344500,
+      "id_str": "1194669789425344513",
+      "text": "@mrjamesob Will he be expelled, in the same way as @campbellclaret was ousted from the Labour Party?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mrjamesob",
+            "name": "James O'Brien",
+            "id": 152656121,
+            "id_str": "152656121",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "campbellclaret",
+            "name": "Alastair TACTICAL VOTE FOR PEOPLE’S VOTE Campbell",
+            "id": 19644592,
+            "id_str": "19644592",
+            "indices": [
+              51,
+              66
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1194663002798248000,
+      "in_reply_to_status_id_str": "1194663002798247936",
+      "in_reply_to_user_id": 152656121,
+      "in_reply_to_user_id_str": "152656121",
+      "in_reply_to_screen_name": "mrjamesob",
+      "user": {
+        "id": 425402403,
+        "id_str": "425402403",
+        "name": "Eric Dawson",
+        "screen_name": "DawsonEric",
+        "location": "Lisburn",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1407,
+        "friends_count": 2755,
+        "listed_count": 11,
+        "created_at": "Wed Nov 30 23:35:27 +0000 2011",
+        "favourites_count": 45846,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3823,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1058000859538296835/rlmu4pfh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058000859538296835/rlmu4pfh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/425402403/1541087452",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.061,
+    "max_id": 1197639748782833700,
+    "max_id_str": "1197639748782833665",
+    "next_results": "?max_id=1194669789425344512&q=Labour%20Party&geocode=54.512%2C-6.031%2C4.166666667mi&count=100&include_entities=1",
+    "query": "Labour+Party",
+    "refresh_url": "?since_id=1197639748782833665&q=Labour%20Party&geocode=54.512%2C-6.031%2C4.166666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

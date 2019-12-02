@@ -1,0 +1,3638 @@
+{
+  "statuses": [
+    {
+      "created_at": "Wed Nov 20 20:09:13 +0000 2019",
+      "id": 1197245535117295600,
+      "id_str": "1197245535117295616",
+      "text": "Well, I’m still waiting for the Italians to pay reparations for the Roman Invasion, and the French for the Norman i… https://t.co/bvJUrLxPfY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bvJUrLxPfY",
+            "expanded_url": "https://twitter.com/i/web/status/1197245535117295616",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 375514330,
+        "id_str": "375514330",
+        "name": "Steve Denton #NeverCorbyn",
+        "screen_name": "StevenJDenton",
+        "location": "Newport, Wales",
+        "description": "Centrist. Coffee snob, wine drinker. Politically homeless. Pro Welsh language, of Jewish descent Likes car programmes.. #CorbynNotFit4PM #CorbynOut #JC4P45",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 537,
+        "friends_count": 497,
+        "listed_count": 20,
+        "created_at": "Sun Sep 18 08:10:40 +0000 2011",
+        "favourites_count": 12233,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7949,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375514330/1561120572",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 13:24:48 +0000 2019",
+      "id": 1197143756333600800,
+      "id_str": "1197143756333600768",
+      "text": "@ingridoliver100 Ah! Brexit party eh?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ingridoliver100",
+            "name": "Ingrid Oliver",
+            "id": 278549435,
+            "id_str": "278549435",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "tl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196751244972478500,
+      "in_reply_to_status_id_str": "1196751244972478465",
+      "in_reply_to_user_id": 278549435,
+      "in_reply_to_user_id_str": "278549435",
+      "in_reply_to_screen_name": "ingridoliver100",
+      "user": {
+        "id": 6752272,
+        "id_str": "6752272",
+        "name": "Joel Hughes",
+        "screen_name": "Joel_Hughes",
+        "location": "Caerleon, Wales",
+        "description": "Head honcho at @glass_mountains Wordpress studio. Organiser of @port80events. Massive space nut, seen 'First Man' 7 times & Apollo 11 thrice (so far)",
+        "url": "https://t.co/mPsPUHQAvn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mPsPUHQAvn",
+                "expanded_url": "http://glassmountains.co.uk",
+                "display_url": "glassmountains.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3993,
+        "friends_count": 1681,
+        "listed_count": 290,
+        "created_at": "Mon Jun 11 20:41:57 +0000 2007",
+        "favourites_count": 55216,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 108438,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1071857400771153921/Un_s7pgx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071857400771153921/Un_s7pgx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6752272/1568300487",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "tl"
+    },
+    {
+      "created_at": "Tue Nov 19 23:08:24 +0000 2019",
+      "id": 1196928238985068500,
+      "id_str": "1196928238985068544",
+      "text": "@JordanM2802 I just can’t deal with the “it wasn’t fair, it was too close” from the losing party again 😂🤦🏼‍♀️ we’ll… https://t.co/UKP4n4kWRc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JordanM2802",
+            "name": "Jordan Mitchell 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "id": 1029003416050315300,
+            "id_str": "1029003416050315264",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UKP4n4kWRc",
+            "expanded_url": "https://twitter.com/i/web/status/1196928238985068544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196927452129435600,
+      "in_reply_to_status_id_str": "1196927452129435648",
+      "in_reply_to_user_id": 1029003416050315300,
+      "in_reply_to_user_id_str": "1029003416050315264",
+      "in_reply_to_screen_name": "JordanM2802",
+      "user": {
+        "id": 417466156,
+        "id_str": "417466156",
+        "name": "Georgia Webster",
+        "screen_name": "GeorgiaWebster_",
+        "location": "Risca, Newport",
+        "description": "snapchat - georgiaawebster",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 298,
+        "friends_count": 504,
+        "listed_count": 1,
+        "created_at": "Mon Nov 21 00:00:08 +0000 2011",
+        "favourites_count": 2453,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2951,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/919149207423995905/g-pnSPcs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/919149207423995905/g-pnSPcs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/417466156/1482058424",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 13:04:11 +0000 2019",
+      "id": 1196776180621422600,
+      "id_str": "1196776180621422593",
+      "text": "Brexit Party under investigation for 'failing to hand over personal data'\nhttps://t.co/qgydKsEPZv https://t.co/8GgP2koZBJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qgydKsEPZv",
+            "expanded_url": "http://news.sky.com/story/brexit-party-under-investigation-for-failing-to-hand-over-personal-data-11864790",
+            "display_url": "news.sky.com/story/brexit-p…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1196776175646982100,
+            "id_str": "1196776175646982148",
+            "indices": [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJvNl0kWwAQH0Do.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJvNl0kWwAQH0Do.jpg",
+            "url": "https://t.co/8GgP2koZBJ",
+            "display_url": "pic.twitter.com/8GgP2koZBJ",
+            "expanded_url": "https://twitter.com/fawnee47/status/1196776180621422593/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 762,
+                "h": 428,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 762,
+                "h": 428,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1196776175646982100,
+            "id_str": "1196776175646982148",
+            "indices": [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJvNl0kWwAQH0Do.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJvNl0kWwAQH0Do.jpg",
+            "url": "https://t.co/8GgP2koZBJ",
+            "display_url": "pic.twitter.com/8GgP2koZBJ",
+            "expanded_url": "https://twitter.com/fawnee47/status/1196776180621422593/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 762,
+                "h": 428,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 762,
+                "h": 428,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39986702,
+        "id_str": "39986702",
+        "name": "Martyn Vaughan",
+        "screen_name": "fawnee47",
+        "location": "Newport, Wales, UK",
+        "description": "I am a Science/Ancient History/Politics geek. Liberal democracy is the best form of government that has yet been devised. Believe in rationality or die out.",
+        "url": "https://t.co/UEc1OEtaOD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UEc1OEtaOD",
+                "expanded_url": "https://www.martynvaughan.co.uk/",
+                "display_url": "martynvaughan.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 237,
+        "listed_count": 1,
+        "created_at": "Thu May 14 12:54:07 +0000 2009",
+        "favourites_count": 89,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2838,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3582794243/1c30d1e3782d0ac6c5f36ade9d492bab_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3582794243/1c30d1e3782d0ac6c5f36ade9d492bab_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 07:05:45 +0000 2019",
+      "id": 1196685981056938000,
+      "id_str": "1196685981056937984",
+      "text": "A sad day and I blame the labour party. I checked the voting record of @jessicamordenmp and throughout she put her… https://t.co/ScGCgmnjB8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jessicamordenmp",
+            "name": "Jessica Morden",
+            "id": 43312141,
+            "id_str": "43312141",
+            "indices": [
+              71,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ScGCgmnjB8",
+            "expanded_url": "https://twitter.com/i/web/status/1196685981056937984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 151362874,
+        "id_str": "151362874",
+        "name": "Gwyneth Pocock",
+        "screen_name": "gepocock",
+        "location": "Newport, Wales, UK",
+        "description": "Retired & jaded teacher who rediscovered her mojo as a supply teacher, Viking reenactor, and maker of dark age clothing.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 263,
+        "friends_count": 699,
+        "listed_count": 14,
+        "created_at": "Thu Jun 03 06:53:09 +0000 2010",
+        "favourites_count": 356,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2263,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/800092841787658240/uKassnAr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/800092841787658240/uKassnAr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151362874/1526463274",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 05:44:35 +0000 2019",
+      "id": 1196665552858685400,
+      "id_str": "1196665552858685441",
+      "text": "@NickTorfaen @UniteWales I think you're a pretty good local MP but you voted against torfaen in the referendum,can'… https://t.co/cWSaldfoZb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NickTorfaen",
+            "name": "Nick Thomas-Symonds",
+            "id": 3092429597,
+            "id_str": "3092429597",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "UniteWales",
+            "name": "UniteWales",
+            "id": 492550987,
+            "id_str": "492550987",
+            "indices": [
+              13,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cWSaldfoZb",
+            "expanded_url": "https://twitter.com/i/web/status/1196665552858685441",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196536905984286700,
+      "in_reply_to_status_id_str": "1196536905984286725",
+      "in_reply_to_user_id": 3092429597,
+      "in_reply_to_user_id_str": "3092429597",
+      "in_reply_to_screen_name": "NickTorfaen",
+      "user": {
+        "id": 2236901745,
+        "id_str": "2236901745",
+        "name": "frazer penny",
+        "screen_name": "lewisgizmo1964",
+        "location": "cwmbran",
+        "description": "welsh trucker,mufc fan ex Gwent and Brecon county dart player and a pen and woodturner",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 229,
+        "friends_count": 1188,
+        "listed_count": 2,
+        "created_at": "Sat Dec 21 19:20:50 +0000 2013",
+        "favourites_count": 694,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 519,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121000865731612672/DZ0J2vlx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121000865731612672/DZ0J2vlx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2236901745/1391983488",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 18 16:39:59 +0000 2019",
+      "id": 1196468101350596600,
+      "id_str": "1196468101350596609",
+      "text": "Brexit Party candidate declares ‘war’ on LGBT+ community and wants to turn ‘Christ-rejecting creatures’ into shoes… https://t.co/jH3CjEmdvj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jH3CjEmdvj",
+            "expanded_url": "https://twitter.com/i/web/status/1196468101350596609",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 397948584,
+        "id_str": "397948584",
+        "name": "Adam Smith",
+        "screen_name": "Taxiboi3583",
+        "location": "Newport",
+        "description": "#LGBT #Education and #Youth. Tweets and #RT are my views, not views of organisations I am involved with.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1053,
+        "friends_count": 1514,
+        "listed_count": 10,
+        "created_at": "Tue Oct 25 11:14:35 +0000 2011",
+        "favourites_count": 1462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E4D4B2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397948584/1535474266",
+        "profile_link_color": "F94141",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B6B13C",
+        "profile_text_color": "479387",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 18 12:41:56 +0000 2019",
+      "id": 1196408194274398200,
+      "id_str": "1196408194274398208",
+      "text": "@VagaCallum @simonreeswales @adrianmasters84 @Sion_J @tahmeenaalam @hamishausk @ZoeLeonie @tvnewswales Turn it in C… https://t.co/ONRSi0xgUi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VagaCallum",
+            "name": "Callum Vaga 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "id": 4578570093,
+            "id_str": "4578570093",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "simonreeswales",
+            "name": "Simon Rees",
+            "id": 265351451,
+            "id_str": "265351451",
+            "indices": [
+              12,
+              27
+            ]
+          },
+          {
+            "screen_name": "adrianmasters84",
+            "name": "Adrian Masters",
+            "id": 116271887,
+            "id_str": "116271887",
+            "indices": [
+              28,
+              44
+            ]
+          },
+          {
+            "screen_name": "Sion_J",
+            "name": "Siôn Jenkins",
+            "id": 247923303,
+            "id_str": "247923303",
+            "indices": [
+              45,
+              52
+            ]
+          },
+          {
+            "screen_name": "tahmeenaalam",
+            "name": "Tahmeena Alam",
+            "id": 2862807113,
+            "id_str": "2862807113",
+            "indices": [
+              53,
+              66
+            ]
+          },
+          {
+            "screen_name": "hamishausk",
+            "name": "Hamish Auskerry",
+            "id": 240337685,
+            "id_str": "240337685",
+            "indices": [
+              67,
+              78
+            ]
+          },
+          {
+            "screen_name": "ZoeLeonie",
+            "name": "Zoë Thomas",
+            "id": 27308815,
+            "id_str": "27308815",
+            "indices": [
+              79,
+              89
+            ]
+          },
+          {
+            "screen_name": "tvnewswales",
+            "name": "Andy Collinson",
+            "id": 133465732,
+            "id_str": "133465732",
+            "indices": [
+              90,
+              102
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ONRSi0xgUi",
+            "expanded_url": "https://twitter.com/i/web/status/1196408194274398208",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196399753338278000,
+      "in_reply_to_status_id_str": "1196399753338277889",
+      "in_reply_to_user_id": 4578570093,
+      "in_reply_to_user_id_str": "4578570093",
+      "in_reply_to_screen_name": "VagaCallum",
+      "user": {
+        "id": 4072619421,
+        "id_str": "4072619421",
+        "name": "Michael Enea",
+        "screen_name": "mikeenea",
+        "location": "Newport, Wales, United Kingdom",
+        "description": "Full-time dad to 2 | St.Julians | Newport | Beer Sales | aka The Pointy Finger on Facebook | St.Julians Conservatives | All views my own | mikeenea@hotmail.com",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1592,
+        "friends_count": 4910,
+        "listed_count": 10,
+        "created_at": "Fri Oct 30 04:24:39 +0000 2015",
+        "favourites_count": 7737,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8480,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4072619421/1554569650",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 23:53:42 +0000 2019",
+      "id": 1196214862118084600,
+      "id_str": "1196214862118084608",
+      "text": "@VagaCallum @adrianmasters84 @Sion_J @tahmeenaalam @hamishausk @ZoeLeonie @tvnewswales That’s all well and good for… https://t.co/beJM2i4ArN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VagaCallum",
+            "name": "Callum Vaga 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "id": 4578570093,
+            "id_str": "4578570093",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "adrianmasters84",
+            "name": "Adrian Masters",
+            "id": 116271887,
+            "id_str": "116271887",
+            "indices": [
+              12,
+              28
+            ]
+          },
+          {
+            "screen_name": "Sion_J",
+            "name": "Siôn Jenkins",
+            "id": 247923303,
+            "id_str": "247923303",
+            "indices": [
+              29,
+              36
+            ]
+          },
+          {
+            "screen_name": "tahmeenaalam",
+            "name": "Tahmeena Alam",
+            "id": 2862807113,
+            "id_str": "2862807113",
+            "indices": [
+              37,
+              50
+            ]
+          },
+          {
+            "screen_name": "hamishausk",
+            "name": "Hamish Auskerry",
+            "id": 240337685,
+            "id_str": "240337685",
+            "indices": [
+              51,
+              62
+            ]
+          },
+          {
+            "screen_name": "ZoeLeonie",
+            "name": "Zoë Thomas",
+            "id": 27308815,
+            "id_str": "27308815",
+            "indices": [
+              63,
+              73
+            ]
+          },
+          {
+            "screen_name": "tvnewswales",
+            "name": "Andy Collinson",
+            "id": 133465732,
+            "id_str": "133465732",
+            "indices": [
+              74,
+              86
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/beJM2i4ArN",
+            "expanded_url": "https://twitter.com/i/web/status/1196214862118084608",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196213393713254400,
+      "in_reply_to_status_id_str": "1196213393713254407",
+      "in_reply_to_user_id": 4578570093,
+      "in_reply_to_user_id_str": "4578570093",
+      "in_reply_to_screen_name": "VagaCallum",
+      "user": {
+        "id": 4072619421,
+        "id_str": "4072619421",
+        "name": "Michael Enea",
+        "screen_name": "mikeenea",
+        "location": "Newport, Wales, United Kingdom",
+        "description": "Full-time dad to 2 | St.Julians | Newport | Beer Sales | aka The Pointy Finger on Facebook | St.Julians Conservatives | All views my own | mikeenea@hotmail.com",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1592,
+        "friends_count": 4910,
+        "listed_count": 10,
+        "created_at": "Fri Oct 30 04:24:39 +0000 2015",
+        "favourites_count": 7737,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8480,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4072619421/1554569650",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 23:44:07 +0000 2019",
+      "id": 1196212450712051700,
+      "id_str": "1196212450712051712",
+      "text": "@adrianmasters84 @Sion_J @tahmeenaalam @hamishausk @ZoeLeonie @tvnewswales ITV could have at least had the Green Pa… https://t.co/yeAji6mh2s",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "adrianmasters84",
+            "name": "Adrian Masters",
+            "id": 116271887,
+            "id_str": "116271887",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "Sion_J",
+            "name": "Siôn Jenkins",
+            "id": 247923303,
+            "id_str": "247923303",
+            "indices": [
+              17,
+              24
+            ]
+          },
+          {
+            "screen_name": "tahmeenaalam",
+            "name": "Tahmeena Alam",
+            "id": 2862807113,
+            "id_str": "2862807113",
+            "indices": [
+              25,
+              38
+            ]
+          },
+          {
+            "screen_name": "hamishausk",
+            "name": "Hamish Auskerry",
+            "id": 240337685,
+            "id_str": "240337685",
+            "indices": [
+              39,
+              50
+            ]
+          },
+          {
+            "screen_name": "ZoeLeonie",
+            "name": "Zoë Thomas",
+            "id": 27308815,
+            "id_str": "27308815",
+            "indices": [
+              51,
+              61
+            ]
+          },
+          {
+            "screen_name": "tvnewswales",
+            "name": "Andy Collinson",
+            "id": 133465732,
+            "id_str": "133465732",
+            "indices": [
+              62,
+              74
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yeAji6mh2s",
+            "expanded_url": "https://twitter.com/i/web/status/1196212450712051712",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196106381755072500,
+      "in_reply_to_status_id_str": "1196106381755072520",
+      "in_reply_to_user_id": 116271887,
+      "in_reply_to_user_id_str": "116271887",
+      "in_reply_to_screen_name": "adrianmasters84",
+      "user": {
+        "id": 4072619421,
+        "id_str": "4072619421",
+        "name": "Michael Enea",
+        "screen_name": "mikeenea",
+        "location": "Newport, Wales, United Kingdom",
+        "description": "Full-time dad to 2 | St.Julians | Newport | Beer Sales | aka The Pointy Finger on Facebook | St.Julians Conservatives | All views my own | mikeenea@hotmail.com",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1592,
+        "friends_count": 4910,
+        "listed_count": 10,
+        "created_at": "Fri Oct 30 04:24:39 +0000 2015",
+        "favourites_count": 7737,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8480,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4072619421/1554569650",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 15:00:09 +0000 2019",
+      "id": 1196080588807180300,
+      "id_str": "1196080588807180293",
+      "text": "#ToryBritain #ToryFraudAgain? \n\nClaims the Tories offered peerages to senior Brexit Party figures could amount to \"… https://t.co/O66yBepGic",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ToryBritain",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "ToryFraudAgain",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O66yBepGic",
+            "expanded_url": "https://twitter.com/i/web/status/1196080588807180293",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 397948584,
+        "id_str": "397948584",
+        "name": "Adam Smith",
+        "screen_name": "Taxiboi3583",
+        "location": "Newport",
+        "description": "#LGBT #Education and #Youth. Tweets and #RT are my views, not views of organisations I am involved with.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1053,
+        "friends_count": 1514,
+        "listed_count": 10,
+        "created_at": "Tue Oct 25 11:14:35 +0000 2011",
+        "favourites_count": 1462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E4D4B2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397948584/1535474266",
+        "profile_link_color": "F94141",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B6B13C",
+        "profile_text_color": "479387",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 10:00:39 +0000 2019",
+      "id": 1196005220192575500,
+      "id_str": "1196005220192575488",
+      "text": "RT @mikeenea: @matthewevansnpt @uncriticalsimon @0_politics2 @brexitparty_uk The Brexit Party haven’t got a chance in Newport West. No trac…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mikeenea",
+            "name": "Michael Enea",
+            "id": 4072619421,
+            "id_str": "4072619421",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "matthewevansnpt",
+            "name": "Matthew Evans",
+            "id": 1066155534,
+            "id_str": "1066155534",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "uncriticalsimon",
+            "name": "Simon 😄",
+            "id": 35293835,
+            "id_str": "35293835",
+            "indices": [
+              31,
+              47
+            ]
+          },
+          {
+            "screen_name": "0_politics2",
+            "name": "Politics2.0 - Back Boris",
+            "id": 1133048122702274600,
+            "id_str": "1133048122702274560",
+            "indices": [
+              48,
+              60
+            ]
+          },
+          {
+            "screen_name": "brexitparty_uk",
+            "name": "The Brexit Party",
+            "id": 1094881364887986200,
+            "id_str": "1094881364887986177",
+            "indices": [
+              61,
+              76
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 227700025,
+        "id_str": "227700025",
+        "name": "🐞🌺🦅BrexiteersUniteForTheFight #BackBoris 🌺🦉🐞",
+        "screen_name": "JenFullick",
+        "location": "England, United Kingdom",
+        "description": "Ban cruelty to animals #BackBoris #PeoplesPrimeMinister #BritishIndependence #BrexiteersUniteForTheFight",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4084,
+        "friends_count": 2866,
+        "listed_count": 3,
+        "created_at": "Fri Dec 17 15:21:45 +0000 2010",
+        "favourites_count": 83346,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 112563,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188886726393155586/vWeV-oxc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188886726393155586/vWeV-oxc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/227700025/1572287661",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Nov 13 22:58:58 +0000 2019",
+        "id": 1194751537781891000,
+        "id_str": "1194751537781891072",
+        "text": "@matthewevansnpt @uncriticalsimon @0_politics2 @brexitparty_uk The Brexit Party haven’t got a chance in Newport Wes… https://t.co/7VAZamCjYf",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "matthewevansnpt",
+              "name": "Matthew Evans",
+              "id": 1066155534,
+              "id_str": "1066155534",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "uncriticalsimon",
+              "name": "Simon 😄",
+              "id": 35293835,
+              "id_str": "35293835",
+              "indices": [
+                17,
+                33
+              ]
+            },
+            {
+              "screen_name": "0_politics2",
+              "name": "Politics2.0 - Back Boris",
+              "id": 1133048122702274600,
+              "id_str": "1133048122702274560",
+              "indices": [
+                34,
+                46
+              ]
+            },
+            {
+              "screen_name": "brexitparty_uk",
+              "name": "The Brexit Party",
+              "id": 1094881364887986200,
+              "id_str": "1094881364887986177",
+              "indices": [
+                47,
+                62
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/7VAZamCjYf",
+              "expanded_url": "https://twitter.com/i/web/status/1194751537781891072",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1194745411933749200,
+        "in_reply_to_status_id_str": "1194745411933749248",
+        "in_reply_to_user_id": 1066155534,
+        "in_reply_to_user_id_str": "1066155534",
+        "in_reply_to_screen_name": "matthewevansnpt",
+        "user": {
+          "id": 4072619421,
+          "id_str": "4072619421",
+          "name": "Michael Enea",
+          "screen_name": "mikeenea",
+          "location": "Newport, Wales, United Kingdom",
+          "description": "Full-time dad to 2 | St.Julians | Newport | Beer Sales | aka The Pointy Finger on Facebook | St.Julians Conservatives | All views my own | mikeenea@hotmail.com",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1592,
+          "friends_count": 4910,
+          "listed_count": 10,
+          "created_at": "Fri Oct 30 04:24:39 +0000 2015",
+          "favourites_count": 7737,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 8480,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4072619421/1554569650",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 18:56:42 +0000 2019",
+      "id": 1195777734066225200,
+      "id_str": "1195777734066225153",
+      "text": "@cherjohnson15 There's an urgent duty upon pro Brexit parties to show that any gaps in legal and financial support… https://t.co/iP4EwLKwpK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cherjohnson15",
+            "name": "Cheryl Johnson",
+            "id": 3477638836,
+            "id_str": "3477638836",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iP4EwLKwpK",
+            "expanded_url": "https://twitter.com/i/web/status/1195777734066225153",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1195755039723344000,
+      "in_reply_to_status_id_str": "1195755039723343872",
+      "in_reply_to_user_id": 3477638836,
+      "in_reply_to_user_id_str": "3477638836",
+      "in_reply_to_screen_name": "cherjohnson15",
+      "user": {
+        "id": 430265039,
+        "id_str": "430265039",
+        "name": "Phil Anderson",
+        "screen_name": "PhilAnderson6",
+        "location": "Wales",
+        "description": "Social Democrat, Pro European, Pro Environment, Anti EU\nNB tweets represent my personal opinion only.\nRe-tweets and Follows are not endorsements.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 162,
+        "listed_count": 2,
+        "created_at": "Tue Dec 06 23:34:34 +0000 2011",
+        "favourites_count": 497,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 647,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193371956743147521/BdEti1uu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193371956743147521/BdEti1uu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/430265039/1560438054",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1da00c8852cc9da2",
+        "url": "https://api.twitter.com/1.1/geo/id/1da00c8852cc9da2.json",
+        "place_type": "city",
+        "name": "Newport",
+        "full_name": "Newport, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -3.0812071,
+                51.549936
+              ],
+              [
+                -2.970463,
+                51.549936
+              ],
+              [
+                -2.970463,
+                51.621386
+              ],
+              [
+                -3.0812071,
+                51.621386
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 12:19:01 +0000 2019",
+      "id": 1195677651652030500,
+      "id_str": "1195677651652030464",
+      "text": "@Plaid_Cymru You are giving the racist (Brexit) party a stick to beat you with.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Plaid_Cymru",
+            "name": "Plaid Cymru",
+            "id": 14411725,
+            "id_str": "14411725",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1195046237784797200,
+      "in_reply_to_status_id_str": "1195046237784797186",
+      "in_reply_to_user_id": 14411725,
+      "in_reply_to_user_id_str": "14411725",
+      "in_reply_to_screen_name": "Plaid_Cymru",
+      "user": {
+        "id": 162854618,
+        "id_str": "162854618",
+        "name": "Mark Smith",
+        "screen_name": "markccfc70",
+        "location": "Cwmbran",
+        "description": "Obsessed with football and horse racing. Cardiff city season ticket holder for my sins.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 210,
+        "friends_count": 281,
+        "listed_count": 1,
+        "created_at": "Sun Jul 04 22:01:08 +0000 2010",
+        "favourites_count": 591,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2703,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/788541451869233156/scEwE0YB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/788541451869233156/scEwE0YB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/162854618/1373143527",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 09:43:00 +0000 2019",
+      "id": 1195638388147335200,
+      "id_str": "1195638388147335168",
+      "text": "LIVE: Police assess claim Tories offered Brexit Party candidates peerages | Politics News | Sky News https://t.co/jTCxNvNdFl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jTCxNvNdFl",
+            "expanded_url": "https://news.sky.com/story/live-police-assess-claim-tories-offered-brexit-party-candidates-peerages-11862551",
+            "display_url": "news.sky.com/story/live-pol…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39986702,
+        "id_str": "39986702",
+        "name": "Martyn Vaughan",
+        "screen_name": "fawnee47",
+        "location": "Newport, Wales, UK",
+        "description": "I am a Science/Ancient History/Politics geek. Liberal democracy is the best form of government that has yet been devised. Believe in rationality or die out.",
+        "url": "https://t.co/UEc1OEtaOD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UEc1OEtaOD",
+                "expanded_url": "https://www.martynvaughan.co.uk/",
+                "display_url": "martynvaughan.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 237,
+        "listed_count": 1,
+        "created_at": "Thu May 14 12:54:07 +0000 2009",
+        "favourites_count": 89,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2838,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3582794243/1c30d1e3782d0ac6c5f36ade9d492bab_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3582794243/1c30d1e3782d0ac6c5f36ade9d492bab_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 08:30:55 +0000 2019",
+      "id": 1195620248067682300,
+      "id_str": "1195620248067682304",
+      "text": "Has the Brexit Party been tamed? Has it ceased to be a positive force for real change? Check out this Spiked video.… https://t.co/GMtsr862Z8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GMtsr862Z8",
+            "expanded_url": "https://twitter.com/i/web/status/1195620248067682304",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 430265039,
+        "id_str": "430265039",
+        "name": "Phil Anderson",
+        "screen_name": "PhilAnderson6",
+        "location": "Wales",
+        "description": "Social Democrat, Pro European, Pro Environment, Anti EU\nNB tweets represent my personal opinion only.\nRe-tweets and Follows are not endorsements.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 162,
+        "listed_count": 2,
+        "created_at": "Tue Dec 06 23:34:34 +0000 2011",
+        "favourites_count": 497,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 647,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193371956743147521/BdEti1uu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193371956743147521/BdEti1uu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/430265039/1560438054",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1da00c8852cc9da2",
+        "url": "https://api.twitter.com/1.1/geo/id/1da00c8852cc9da2.json",
+        "place_type": "city",
+        "name": "Newport",
+        "full_name": "Newport, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -3.0812071,
+                51.549936
+              ],
+              [
+                -2.970463,
+                51.549936
+              ],
+              [
+                -2.970463,
+                51.621386
+              ],
+              [
+                -3.0812071,
+                51.621386
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 15 20:46:13 +0000 2019",
+      "id": 1195442906355642400,
+      "id_str": "1195442906355642375",
+      "text": "@matthewevansnpt Was that the Brexit Party lad?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "matthewevansnpt",
+            "name": "Matthew Evans",
+            "id": 1066155534,
+            "id_str": "1066155534",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1195434673364701200,
+      "in_reply_to_status_id_str": "1195434673364701187",
+      "in_reply_to_user_id": 1066155534,
+      "in_reply_to_user_id_str": "1066155534",
+      "in_reply_to_screen_name": "matthewevansnpt",
+      "user": {
+        "id": 725413458100011000,
+        "id_str": "725413458100011010",
+        "name": "Craig Luffman",
+        "screen_name": "luffers70",
+        "location": "Newport, Wales",
+        "description": "@NewportCounty season ticket holder. Supporter of @ManUtd @RAIDERS @englandcricket #Brexit. @F1 and 80's music fanatic",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1991,
+        "friends_count": 2207,
+        "listed_count": 2,
+        "created_at": "Wed Apr 27 19:57:00 +0000 2016",
+        "favourites_count": 16955,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5743,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137503200620228609/d3IyQIXP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137503200620228609/d3IyQIXP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725413458100011010/1560614157",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 15 18:57:30 +0000 2019",
+      "id": 1195415547053297700,
+      "id_str": "1195415547053297664",
+      "text": "@SteveBakerHW @brexitparty_uk @julia_reid Not a chance Steve sorry you and your party selling out Brexit.Brexit Party for me",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SteveBakerHW",
+            "name": "Steve Baker",
+            "id": 15157283,
+            "id_str": "15157283",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "brexitparty_uk",
+            "name": "The Brexit Party",
+            "id": 1094881364887986200,
+            "id_str": "1094881364887986177",
+            "indices": [
+              14,
+              29
+            ]
+          },
+          {
+            "screen_name": "julia_reid",
+            "name": "Dr Julia Reid PhD",
+            "id": 43554444,
+            "id_str": "43554444",
+            "indices": [
+              30,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1195369459415994400,
+      "in_reply_to_status_id_str": "1195369459415994370",
+      "in_reply_to_user_id": 15157283,
+      "in_reply_to_user_id_str": "15157283",
+      "in_reply_to_screen_name": "SteveBakerHW",
+      "user": {
+        "id": 2423239901,
+        "id_str": "2423239901",
+        "name": "Philip Tompkins",
+        "screen_name": "philip_tompkip",
+        "location": "Newport, Wales",
+        "description": "Retired,loves dogs.Newport County.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 46,
+        "friends_count": 99,
+        "listed_count": 0,
+        "created_at": "Wed Mar 19 19:27:16 +0000 2014",
+        "favourites_count": 881,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 919,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/446368224566059008/L1F4U6Sj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/446368224566059008/L1F4U6Sj_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2423239901/1395430475",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 15 18:51:41 +0000 2019",
+      "id": 1195414082331041800,
+      "id_str": "1195414082331041792",
+      "text": "Absolutely outraged to see people waving brexit party signs in the neighbouring village. Hopefully they know how we… https://t.co/ojeXATyCUk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ojeXATyCUk",
+            "expanded_url": "https://twitter.com/i/web/status/1195414082331041792",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 188066081,
+        "id_str": "188066081",
+        "name": "Jenna Davies",
+        "screen_name": "Jlizzyd",
+        "location": "Newport",
+        "description": "My views are my own and not of my employer. Love movies, cinema and cuddles with nephew and pooch. Trying to find Buddhist path and failing at the anger part...",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 224,
+        "friends_count": 583,
+        "listed_count": 1,
+        "created_at": "Tue Sep 07 21:09:40 +0000 2010",
+        "favourites_count": 856,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3157,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631182495573221376/AeWpC_ts_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631182495573221376/AeWpC_ts_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/188066081/1377733478",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 15 12:03:57 +0000 2019",
+      "id": 1195311473599426600,
+      "id_str": "1195311473599426567",
+      "text": "I'm really fed up with #FBPE people saying \"Labour is a Brexit Party / Labour isn't a Remain party\". Assuming Labou… https://t.co/pienjUwBps",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FBPE",
+            "indices": [
+              23,
+              28
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pienjUwBps",
+            "expanded_url": "https://twitter.com/i/web/status/1195311473599426567",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 496433273,
+        "id_str": "496433273",
+        "name": "David Murray, Revoker #FBPE #GTTO 🇪🇺🌹💚☂️",
+        "screen_name": "david707x",
+        "location": "Newport, Wales",
+        "description": "https://t.co/1DETq1AcRe\n#RemainAlliance\nI support tactically voting against CON\nL2 Magic: The Gathering Judge\nHe/Him",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/1DETq1AcRe",
+                "expanded_url": "http://Gov.UK/registertovote",
+                "display_url": "Gov.UK/registertovote",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 272,
+        "friends_count": 393,
+        "listed_count": 1,
+        "created_at": "Sat Feb 18 23:34:03 +0000 2012",
+        "favourites_count": 37506,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3550,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/344513261570539821/e27724c63e9c7ab47da6f830e96c99e6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261570539821/e27724c63e9c7ab47da6f830e96c99e6_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/496433273/1371075052",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 21:24:37 +0000 2019",
+      "id": 1195090179054350300,
+      "id_str": "1195090179054350342",
+      "text": "Hard Right Tories offer Farage jobs for Votes 🗳 \n\nThis is the Tory Party \n\n#GeneralElection2019 \n\nGeneral election:… https://t.co/3zBj9UlRUM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GeneralElection2019",
+            "indices": [
+              75,
+              95
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3zBj9UlRUM",
+            "expanded_url": "https://twitter.com/i/web/status/1195090179054350342",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 179095733,
+        "id_str": "179095733",
+        "name": "Ian Mckim",
+        "screen_name": "mckim1",
+        "location": "Newport",
+        "description": "Dad. Criminologist. USW. Trade Unionist UCU.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 592,
+        "friends_count": 1391,
+        "listed_count": 13,
+        "created_at": "Mon Aug 16 14:01:54 +0000 2010",
+        "favourites_count": 10894,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13336,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/883078702719959040/7O2Inx4__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/883078702719959040/7O2Inx4__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/179095733/1571264043",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 20:17:19 +0000 2019",
+      "id": 1195073244208017400,
+      "id_str": "1195073244208017412",
+      "text": "https://t.co/wRf73rZKJs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wRf73rZKJs",
+            "expanded_url": "https://evolvepolitics.com/breaking-tories-accused-of-trying-to-bribe-brexit-party-candidates-to-stand-down-in-key-marginals/",
+            "display_url": "evolvepolitics.com/breaking-torie…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4333070596,
+        "id_str": "4333070596",
+        "name": "🌹Lyndon Chaney🌹 🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "screen_name": "lyndon_chaney",
+        "location": "Cwmbran, Wales, United Kingdom",
+        "description": "Labour through and through 🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿♿🌹🌹",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1466,
+        "friends_count": 1767,
+        "listed_count": 1,
+        "created_at": "Mon Nov 30 21:41:53 +0000 2015",
+        "favourites_count": 31643,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3555,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194344959190679554/-u3uYxuA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194344959190679554/-u3uYxuA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Nov 14 19:54:21 +0000 2019",
+      "id": 1195067463551082500,
+      "id_str": "1195067463551082496",
+      "text": "Yeah right! 👇🏻 As if a candidate is going to be offered a ‘peerage’ to stand aside? I mean seriously... what on ear… https://t.co/pB33hUUNyU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pB33hUUNyU",
+            "expanded_url": "https://twitter.com/i/web/status/1195067463551082496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4072619421,
+        "id_str": "4072619421",
+        "name": "Michael Enea",
+        "screen_name": "mikeenea",
+        "location": "Newport, Wales, United Kingdom",
+        "description": "Full-time dad to 2 | St.Julians | Newport | Beer Sales | aka The Pointy Finger on Facebook | St.Julians Conservatives | All views my own | mikeenea@hotmail.com",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1592,
+        "friends_count": 4910,
+        "listed_count": 10,
+        "created_at": "Fri Oct 30 04:24:39 +0000 2015",
+        "favourites_count": 7737,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8480,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4072619421/1554569650",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 18:59:24 +0000 2019",
+      "id": 1195053636340113400,
+      "id_str": "1195053636340113408",
+      "text": "@BorisJohnson please rethink and give the @brexitparty_uk a free run at the seats that the @Conservatives have neve… https://t.co/kVsWPa6VQY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BorisJohnson",
+            "name": "Boris Johnson",
+            "id": 3131144855,
+            "id_str": "3131144855",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "brexitparty_uk",
+            "name": "The Brexit Party",
+            "id": 1094881364887986200,
+            "id_str": "1094881364887986177",
+            "indices": [
+              42,
+              57
+            ]
+          },
+          {
+            "screen_name": "Conservatives",
+            "name": "Conservatives",
+            "id": 14281853,
+            "id_str": "14281853",
+            "indices": [
+              91,
+              105
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kVsWPa6VQY",
+            "expanded_url": "https://twitter.com/i/web/status/1195053636340113408",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3131144855,
+      "in_reply_to_user_id_str": "3131144855",
+      "in_reply_to_screen_name": "BorisJohnson",
+      "user": {
+        "id": 225387922,
+        "id_str": "225387922",
+        "name": "Chris - I was 'Nobody' but now I am me!",
+        "screen_name": "AligProudblade",
+        "location": "Cwmbran",
+        "description": "Social Networking Sceptic! Strong believer in a clean #Brexit. A middle finger to the upcoming European Empire. #Humbug.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1992,
+        "friends_count": 2733,
+        "listed_count": 8,
+        "created_at": "Sat Dec 11 12:48:37 +0000 2010",
+        "favourites_count": 9616,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15533,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140988546867707904/dgcFpLH5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140988546867707904/dgcFpLH5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 17:03:57 +0000 2019",
+      "id": 1195024583516184600,
+      "id_str": "1195024583516184577",
+      "text": "She's a total disgrace. Can't understand how she was allowed to stand under the Labour banner for so long. \n\nKate H… https://t.co/idN0jv8ibA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/idN0jv8ibA",
+            "expanded_url": "https://twitter.com/i/web/status/1195024583516184577",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470319318,
+        "id_str": "470319318",
+        "name": "Miqdad Al-Nuaimi",
+        "screen_name": "mndsc06",
+        "location": "Newport, Wales, UK",
+        "description": "Newport City Councillor representing Stow Hill Ward & the city of Newport  (Tweeting in a Personal Capacity)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11737,
+        "friends_count": 1412,
+        "listed_count": 49,
+        "created_at": "Sat Jan 21 16:48:20 +0000 2012",
+        "favourites_count": 638,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21312,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFA366",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470319318/1557329081",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 12:37:45 +0000 2019",
+      "id": 1194957591203459000,
+      "id_str": "1194957591203459073",
+      "text": "@brogi1ster @DavidLammy Labour currently has the same number of MPs as the Brexit Party i.e. zero all round!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brogi1ster",
+            "name": "Bill Carter #MBGA",
+            "id": 2716770148,
+            "id_str": "2716770148",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "DavidLammy",
+            "name": "David Lammy",
+            "id": 18020612,
+            "id_str": "18020612",
+            "indices": [
+              12,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1194956391942889500,
+      "in_reply_to_status_id_str": "1194956391942889474",
+      "in_reply_to_user_id": 2716770148,
+      "in_reply_to_user_id_str": "2716770148",
+      "in_reply_to_screen_name": "brogi1ster",
+      "user": {
+        "id": 225387922,
+        "id_str": "225387922",
+        "name": "Chris - I was 'Nobody' but now I am me!",
+        "screen_name": "AligProudblade",
+        "location": "Cwmbran",
+        "description": "Social Networking Sceptic! Strong believer in a clean #Brexit. A middle finger to the upcoming European Empire. #Humbug.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1992,
+        "friends_count": 2733,
+        "listed_count": 8,
+        "created_at": "Sat Dec 11 12:48:37 +0000 2010",
+        "favourites_count": 9616,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15533,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140988546867707904/dgcFpLH5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140988546867707904/dgcFpLH5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 08:47:24 +0000 2019",
+      "id": 1194899622038319000,
+      "id_str": "1194899622038319107",
+      "text": "@stef_wholemeal Any party willing to address the squirrel problem gets my vote, regardless of where they stand on Brexit, NHS etc.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stef_wholemeal",
+            "name": "Stefano Vozza",
+            "id": 632075425,
+            "id_str": "632075425",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1194688996724617200,
+      "in_reply_to_status_id_str": "1194688996724617217",
+      "in_reply_to_user_id": 632075425,
+      "in_reply_to_user_id_str": "632075425",
+      "in_reply_to_screen_name": "stef_wholemeal",
+      "user": {
+        "id": 1871405053,
+        "id_str": "1871405053",
+        "name": "Dave Mclean",
+        "screen_name": "DaveMcleanComms",
+        "location": "Newport, Wales",
+        "description": "Inventor of the wheel and winner of the Nobel Prize for Lying.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 170,
+        "friends_count": 79,
+        "listed_count": 2,
+        "created_at": "Mon Sep 16 12:01:04 +0000 2013",
+        "favourites_count": 2461,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3321,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "851816",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871405053/1504474144",
+        "profile_link_color": "851816",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 23:21:55 +0000 2019",
+      "id": 1194757312134684700,
+      "id_str": "1194757312134684672",
+      "text": "Ha ha! Let's see how Brexit Party customers (they're not members) try and spin this...\n\nBrexit Party leader Farage… https://t.co/Rge6LHun7H",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rge6LHun7H",
+            "expanded_url": "https://twitter.com/i/web/status/1194757312134684672",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1871405053,
+        "id_str": "1871405053",
+        "name": "Dave Mclean",
+        "screen_name": "DaveMcleanComms",
+        "location": "Newport, Wales",
+        "description": "Inventor of the wheel and winner of the Nobel Prize for Lying.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 170,
+        "friends_count": 79,
+        "listed_count": 2,
+        "created_at": "Mon Sep 16 12:01:04 +0000 2013",
+        "favourites_count": 2461,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3321,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "851816",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871405053/1504474144",
+        "profile_link_color": "851816",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 22:58:58 +0000 2019",
+      "id": 1194751537781891000,
+      "id_str": "1194751537781891072",
+      "text": "@matthewevansnpt @uncriticalsimon @0_politics2 @brexitparty_uk The Brexit Party haven’t got a chance in Newport Wes… https://t.co/7VAZamCjYf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "matthewevansnpt",
+            "name": "Matthew Evans",
+            "id": 1066155534,
+            "id_str": "1066155534",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "uncriticalsimon",
+            "name": "Simon 😄",
+            "id": 35293835,
+            "id_str": "35293835",
+            "indices": [
+              17,
+              33
+            ]
+          },
+          {
+            "screen_name": "0_politics2",
+            "name": "Politics2.0 - Back Boris",
+            "id": 1133048122702274600,
+            "id_str": "1133048122702274560",
+            "indices": [
+              34,
+              46
+            ]
+          },
+          {
+            "screen_name": "brexitparty_uk",
+            "name": "The Brexit Party",
+            "id": 1094881364887986200,
+            "id_str": "1094881364887986177",
+            "indices": [
+              47,
+              62
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7VAZamCjYf",
+            "expanded_url": "https://twitter.com/i/web/status/1194751537781891072",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1194745411933749200,
+      "in_reply_to_status_id_str": "1194745411933749248",
+      "in_reply_to_user_id": 1066155534,
+      "in_reply_to_user_id_str": "1066155534",
+      "in_reply_to_screen_name": "matthewevansnpt",
+      "user": {
+        "id": 4072619421,
+        "id_str": "4072619421",
+        "name": "Michael Enea",
+        "screen_name": "mikeenea",
+        "location": "Newport, Wales, United Kingdom",
+        "description": "Full-time dad to 2 | St.Julians | Newport | Beer Sales | aka The Pointy Finger on Facebook | St.Julians Conservatives | All views my own | mikeenea@hotmail.com",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1592,
+        "friends_count": 4910,
+        "listed_count": 10,
+        "created_at": "Fri Oct 30 04:24:39 +0000 2015",
+        "favourites_count": 7737,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8480,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185235764466073601/eUMf34Wi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4072619421/1554569650",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 16:25:41 +0000 2019",
+      "id": 1194652564962324500,
+      "id_str": "1194652564962324483",
+      "text": "The Brexit Party officially has THREE members, and over 115,000 paying 'registered supporters' who have no voting p… https://t.co/Aah6hSYrq2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Aah6hSYrq2",
+            "expanded_url": "https://twitter.com/i/web/status/1194652564962324483",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1871405053,
+        "id_str": "1871405053",
+        "name": "Dave Mclean",
+        "screen_name": "DaveMcleanComms",
+        "location": "Newport, Wales",
+        "description": "Inventor of the wheel and winner of the Nobel Prize for Lying.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 170,
+        "friends_count": 79,
+        "listed_count": 2,
+        "created_at": "Mon Sep 16 12:01:04 +0000 2013",
+        "favourites_count": 2461,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3321,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "851816",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871405053/1504474144",
+        "profile_link_color": "851816",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 16:21:25 +0000 2019",
+      "id": 1194651489727340500,
+      "id_str": "1194651489727340550",
+      "text": "@Karl_Downey @Leo_Iam_535 It's his business, he set it up and as BXP officially has only 3 members, he can do what… https://t.co/SUOpz7vb8K",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Karl_Downey",
+            "name": "Karl Downey ➡️🏴󠁧󠁢󠁥󠁮󠁧󠁿🏳️‍🌈",
+            "id": 113744532,
+            "id_str": "113744532",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Leo_Iam_535",
+            "name": "Leo",
+            "id": 224197944,
+            "id_str": "224197944",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SUOpz7vb8K",
+            "expanded_url": "https://twitter.com/i/web/status/1194651489727340550",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1194645592426909700,
+      "in_reply_to_status_id_str": "1194645592426909696",
+      "in_reply_to_user_id": 113744532,
+      "in_reply_to_user_id_str": "113744532",
+      "in_reply_to_screen_name": "Karl_Downey",
+      "user": {
+        "id": 1871405053,
+        "id_str": "1871405053",
+        "name": "Dave Mclean",
+        "screen_name": "DaveMcleanComms",
+        "location": "Newport, Wales",
+        "description": "Inventor of the wheel and winner of the Nobel Prize for Lying.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 170,
+        "friends_count": 79,
+        "listed_count": 2,
+        "created_at": "Mon Sep 16 12:01:04 +0000 2013",
+        "favourites_count": 2461,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3321,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "851816",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158797867575840768/FjZdehhH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871405053/1504474144",
+        "profile_link_color": "851816",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.055,
+    "max_id": 1197245535117295600,
+    "max_id_str": "1197245535117295616",
+    "next_results": "?max_id=1194651489727340549&q=Brexit%20Party&geocode=51.583333%2C-3%2C7.142857143mi&count=100&include_entities=1",
+    "query": "Brexit+Party",
+    "refresh_url": "?since_id=1197245535117295616&q=Brexit%20Party&geocode=51.583333%2C-3%2C7.142857143mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

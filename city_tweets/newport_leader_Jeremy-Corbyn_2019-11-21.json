@@ -1,0 +1,1986 @@
+{
+  "statuses": [
+    {
+      "created_at": "Wed Nov 20 20:09:13 +0000 2019",
+      "id": 1197245535117295600,
+      "id_str": "1197245535117295616",
+      "text": "Well, I’m still waiting for the Italians to pay reparations for the Roman Invasion, and the French for the Norman i… https://t.co/bvJUrLxPfY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bvJUrLxPfY",
+            "expanded_url": "https://twitter.com/i/web/status/1197245535117295616",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 375514330,
+        "id_str": "375514330",
+        "name": "Steve Denton #NeverCorbyn",
+        "screen_name": "StevenJDenton",
+        "location": "Newport, Wales",
+        "description": "Centrist. Coffee snob, wine drinker. Politically homeless. Pro Welsh language, of Jewish descent Likes car programmes.. #CorbynNotFit4PM #CorbynOut #JC4P45",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 537,
+        "friends_count": 497,
+        "listed_count": 20,
+        "created_at": "Sun Sep 18 08:10:40 +0000 2011",
+        "favourites_count": 12233,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7949,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375514330/1561120572",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 18:32:45 +0000 2019",
+      "id": 1197221254757060600,
+      "id_str": "1197221254757060608",
+      "text": "@GuidoFawkes Anything goes, Jeremy Corbyn even self identifies as a leader of a political party.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GuidoFawkes",
+            "name": "Guido Fawkes",
+            "id": 465973,
+            "id_str": "465973",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196908566076104700,
+      "in_reply_to_status_id_str": "1196908566076104704",
+      "in_reply_to_user_id": 465973,
+      "in_reply_to_user_id_str": "465973",
+      "in_reply_to_screen_name": "GuidoFawkes",
+      "user": {
+        "id": 866975587990216700,
+        "id_str": "866975587990216704",
+        "name": "The Fish",
+        "screen_name": "ROGERSTONEFISH",
+        "location": "Newport, Wales",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 24,
+        "listed_count": 0,
+        "created_at": "Tue May 23 11:14:22 +0000 2017",
+        "favourites_count": 2107,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 15:19:34 +0000 2019",
+      "id": 1197172638763888600,
+      "id_str": "1197172638763888642",
+      "text": "Well done #JeremyCorbyn. This is good news, that did not come as surprising. You were miles ahead on all issues bro… https://t.co/NRy6Cdqcp6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "JeremyCorbyn",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NRy6Cdqcp6",
+            "expanded_url": "https://twitter.com/i/web/status/1197172638763888642",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470319318,
+        "id_str": "470319318",
+        "name": "Miqdad Al-Nuaimi",
+        "screen_name": "mndsc06",
+        "location": "Newport, Wales, UK",
+        "description": "Newport City Councillor representing Stow Hill Ward & the city of Newport  (Tweeting in a Personal Capacity)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11737,
+        "friends_count": 1412,
+        "listed_count": 49,
+        "created_at": "Sat Jan 21 16:48:20 +0000 2012",
+        "favourites_count": 638,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21312,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFA366",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470319318/1557329081",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 20:52:01 +0000 2019",
+      "id": 1196893918014648300,
+      "id_str": "1196893918014648320",
+      "text": "RT @StevenJDenton: The Corbynistas Corbynista is on a Twitter meltdown praising her funder. Bet she’d like to get her hands on Corbyn’s mon…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StevenJDenton",
+            "name": "Steve Denton #NeverCorbyn",
+            "id": 375514330,
+            "id_str": "375514330",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1101577395679739900,
+        "id_str": "1101577395679739906",
+        "name": "Now, really 👁‍🗨?? #cohort",
+        "screen_name": "Nowreally1",
+        "location": "Rawtenstall, England",
+        "description": "Recently banned for over use of the c-bomb. The lad deserved it.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 457,
+        "friends_count": 882,
+        "listed_count": 1,
+        "created_at": "Fri Mar 01 20:18:12 +0000 2019",
+        "favourites_count": 14095,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24805,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101590862432215042/cjBJjDRm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101590862432215042/cjBJjDRm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101577395679739906/1551474724",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 19 20:50:32 +0000 2019",
+        "id": 1196893542653800400,
+        "id_str": "1196893542653800448",
+        "text": "The Corbynistas Corbynista is on a Twitter meltdown praising her funder. Bet she’d like to get her hands on Corbyn’… https://t.co/KaigN3z16h",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/KaigN3z16h",
+              "expanded_url": "https://twitter.com/i/web/status/1196893542653800448",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 375514330,
+          "id_str": "375514330",
+          "name": "Steve Denton #NeverCorbyn",
+          "screen_name": "StevenJDenton",
+          "location": "Newport, Wales",
+          "description": "Centrist. Coffee snob, wine drinker. Politically homeless. Pro Welsh language, of Jewish descent Likes car programmes.. #CorbynNotFit4PM #CorbynOut #JC4P45",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 537,
+          "friends_count": 497,
+          "listed_count": 20,
+          "created_at": "Sun Sep 18 08:10:40 +0000 2011",
+          "favourites_count": 12233,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 7949,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/375514330/1561120572",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 20:50:32 +0000 2019",
+      "id": 1196893542653800400,
+      "id_str": "1196893542653800448",
+      "text": "The Corbynistas Corbynista is on a Twitter meltdown praising her funder. Bet she’d like to get her hands on Corbyn’… https://t.co/KaigN3z16h",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KaigN3z16h",
+            "expanded_url": "https://twitter.com/i/web/status/1196893542653800448",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 375514330,
+        "id_str": "375514330",
+        "name": "Steve Denton #NeverCorbyn",
+        "screen_name": "StevenJDenton",
+        "location": "Newport, Wales",
+        "description": "Centrist. Coffee snob, wine drinker. Politically homeless. Pro Welsh language, of Jewish descent Likes car programmes.. #CorbynNotFit4PM #CorbynOut #JC4P45",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 537,
+        "friends_count": 497,
+        "listed_count": 20,
+        "created_at": "Sun Sep 18 08:10:40 +0000 2011",
+        "favourites_count": 12233,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7949,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047151626568552448/kdoQIAnR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375514330/1561120572",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 18:33:27 +0000 2019",
+      "id": 1196859045937893400,
+      "id_str": "1196859045937893382",
+      "text": "#LeadersDebate. then why is jeremy corbyn on it.....!? ///🙄😊",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "LeadersDebate",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470187332,
+        "id_str": "470187332",
+        "name": "JOE CARROLL @Google @YouTube @netflix",
+        "screen_name": "joeleeds_motd",
+        "location": "Robinson Crusoe Island",
+        "description": "🐶🇪🇺🚴‍♂️🐝☘️🌻🍺🚒🏎️@skyarts  #DHL #lufc #TDF #NASA. @ebay @google  NP19..@Twitter @youtube @netflix @Instagram is me😍🌍🐺⚽ happy xmas 🎄, 🎅⛄🍺",
+        "url": "https://t.co/P3dJYKkChA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/P3dJYKkChA",
+                "expanded_url": "http://HASHTAGgames.com",
+                "display_url": "HASHTAGgames.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6429,
+        "friends_count": 7075,
+        "listed_count": 105,
+        "created_at": "Sat Jan 21 12:20:32 +0000 2012",
+        "favourites_count": 80611,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61850,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470187332/1536428234",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1a989c2c4ed199a1",
+        "url": "https://api.twitter.com/1.1/geo/id/1a989c2c4ed199a1.json",
+        "place_type": "city",
+        "name": "Alway",
+        "full_name": "Alway, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -2.968967,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.595522
+              ],
+              [
+                -2.968967,
+                51.595522
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 12:19:05 +0000 2019",
+      "id": 1196764833359659000,
+      "id_str": "1196764833359659009",
+      "text": "Boris Johnson and Jeremy Corbyn to go head-to-head in TV debate https://t.co/YQFkPoF0QC https://t.co/eSMAmX68JW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YQFkPoF0QC",
+            "expanded_url": "http://dlvr.it/RJbrQD",
+            "display_url": "dlvr.it/RJbrQD",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1196764831455445000,
+            "id_str": "1196764831455444992",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJvDRgKVAAAwGTf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJvDRgKVAAAwGTf.jpg",
+            "url": "https://t.co/eSMAmX68JW",
+            "display_url": "pic.twitter.com/eSMAmX68JW",
+            "expanded_url": "https://twitter.com/southwalesargus/status/1196764833359659009/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1100,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 445,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1100,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1196764831455445000,
+            "id_str": "1196764831455444992",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJvDRgKVAAAwGTf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJvDRgKVAAAwGTf.jpg",
+            "url": "https://t.co/eSMAmX68JW",
+            "display_url": "pic.twitter.com/eSMAmX68JW",
+            "expanded_url": "https://twitter.com/southwalesargus/status/1196764833359659009/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1100,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 445,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1100,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21182227,
+        "id_str": "21182227",
+        "name": "South Wales Argus",
+        "screen_name": "southwalesargus",
+        "location": "Newport, Wales, UK",
+        "description": "The South Wales Argus newspaper in Gwent, South Wales\nFollow our journalists 👉 https://t.co/JfJJJg6MKf\nEmail us your story: newsdesk@southwalesargus.co.uk",
+        "url": "http://t.co/0nsZ4xiv7S",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/0nsZ4xiv7S",
+                "expanded_url": "http://www.southwalesargus.co.uk",
+                "display_url": "southwalesargus.co.uk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/JfJJJg6MKf",
+                "expanded_url": "https://tinyurl.com/y4wc7yqj",
+                "display_url": "tinyurl.com/y4wc7yqj",
+                "indices": [
+                  79,
+                  102
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 74678,
+        "friends_count": 1083,
+        "listed_count": 432,
+        "created_at": "Wed Feb 18 09:35:17 +0000 2009",
+        "favourites_count": 216,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 63534,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C13335",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/930359066915999744/10hS81ko_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/930359066915999744/10hS81ko_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21182227/1510649885",
+        "profile_link_color": "960D0D",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "67A829",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 18 08:00:32 +0000 2019",
+      "id": 1196337376525738000,
+      "id_str": "1196337376525737984",
+      "text": "Justin Webb forgot to mention state brutality in France and Bolivia as he attempted to use Hong Kong as a stick wit… https://t.co/S0fDFw8O3U",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S0fDFw8O3U",
+            "expanded_url": "https://twitter.com/i/web/status/1196337376525737984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20880705,
+        "id_str": "20880705",
+        "name": "Father Peter’s Naughty Boy Shipping Co",
+        "screen_name": "PeteBowler",
+        "location": "Cwmbran, South Wales",
+        "description": "A man, a large man, a deep man",
+        "url": "https://t.co/UJrV2vjfWF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UJrV2vjfWF",
+                "expanded_url": "http://fatbuddha.blogspot.com/",
+                "display_url": "fatbuddha.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 810,
+        "friends_count": 823,
+        "listed_count": 35,
+        "created_at": "Sat Feb 14 23:52:34 +0000 2009",
+        "favourites_count": 7576,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 55089,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/899037429373566976/brNqWbMQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/899037429373566976/brNqWbMQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20880705/1354902557",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "D1CEDB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "4054ed9d244f1665",
+        "url": "https://api.twitter.com/1.1/geo/id/4054ed9d244f1665.json",
+        "place_type": "city",
+        "name": "Henllys",
+        "full_name": "Henllys, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -3.065911,
+                51.633918
+              ],
+              [
+                -3.0461014,
+                51.633918
+              ],
+              [
+                -3.0461014,
+                51.648207
+              ],
+              [
+                -3.065911,
+                51.648207
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 14:53:34 +0000 2019",
+      "id": 1196078934342938600,
+      "id_str": "1196078934342938625",
+      "text": "Anyone regardless of party, if you have compassion... https://t.co/0U9U8aHfHb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0U9U8aHfHb",
+            "expanded_url": "https://www.standard.co.uk/news/politics/general-election-2019-jeremy-corbyn-pledges-845-million-for-children-battling-mental-health-problems-a4283646.html?fbclid=IwAR3y3SfpV9HxnnUaKsRubnHB1mrv3O3Mcs2ufHW979CcvTCCRswAnoRdrRs",
+            "display_url": "standard.co.uk/news/politics/…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 397948584,
+        "id_str": "397948584",
+        "name": "Adam Smith",
+        "screen_name": "Taxiboi3583",
+        "location": "Newport",
+        "description": "#LGBT #Education and #Youth. Tweets and #RT are my views, not views of organisations I am involved with.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1053,
+        "friends_count": 1514,
+        "listed_count": 10,
+        "created_at": "Tue Oct 25 11:14:35 +0000 2011",
+        "favourites_count": 1462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E4D4B2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034480501405503489/rgSLmmaS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397948584/1535474266",
+        "profile_link_color": "F94141",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B6B13C",
+        "profile_text_color": "479387",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 16 20:24:46 +0000 2019",
+      "id": 1195799894109425700,
+      "id_str": "1195799894109425670",
+      "text": "Exclusive: New letter supporting Jeremy Corbyn signed by Roger Waters, Robert Del Naja and more https://t.co/KymgFTHtED",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KymgFTHtED",
+            "expanded_url": "https://www.nme.com/news/music/new-letter-supporting-jeremy-corbyn-2568734",
+            "display_url": "nme.com/news/music/new…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470319318,
+        "id_str": "470319318",
+        "name": "Miqdad Al-Nuaimi",
+        "screen_name": "mndsc06",
+        "location": "Newport, Wales, UK",
+        "description": "Newport City Councillor representing Stow Hill Ward & the city of Newport  (Tweeting in a Personal Capacity)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11737,
+        "friends_count": 1412,
+        "listed_count": 49,
+        "created_at": "Sat Jan 21 16:48:20 +0000 2012",
+        "favourites_count": 638,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21312,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFA366",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126145033718173696/JWuO3X_U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470319318/1557329081",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 15 15:00:27 +0000 2019",
+      "id": 1195355890511237000,
+      "id_str": "1195355890511237126",
+      "text": "@EnglandYankin @MaryceChan @LBCNews Listening to him telling LBC the 'NHS is not for us'. \n\nhttps://t.co/nKnLR9oINh\n\nPretty clear there.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EnglandYankin",
+            "name": "Yank In England #FBPE 🇪🇺🇺🇸🇬🇧 🌹🌹🌹🌹🌹",
+            "id": 1186797941744439300,
+            "id_str": "1186797941744439296",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "MaryceChan",
+            "name": "maryce chan 🦉🧙‍♀️🤐🏁",
+            "id": 1054720705298714600,
+            "id_str": "1054720705298714624",
+            "indices": [
+              15,
+              26
+            ]
+          },
+          {
+            "screen_name": "LBCNews",
+            "name": "LBC News",
+            "id": 2329058035,
+            "id_str": "2329058035",
+            "indices": [
+              27,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nKnLR9oINh",
+            "expanded_url": "https://www.thesun.co.uk/news/politics/10253903/trump-jeremy-corbyn-nhs-deal/",
+            "display_url": "thesun.co.uk/news/politics/…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1195272763596050400,
+      "in_reply_to_status_id_str": "1195272763596050433",
+      "in_reply_to_user_id": 1186797941744439300,
+      "in_reply_to_user_id_str": "1186797941744439296",
+      "in_reply_to_screen_name": "EnglandYankin",
+      "user": {
+        "id": 295608671,
+        "id_str": "295608671",
+        "name": "Jay Coley",
+        "screen_name": "jay_coley",
+        "location": "Newport, Wales",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 102,
+        "friends_count": 245,
+        "listed_count": 0,
+        "created_at": "Mon May 09 10:47:44 +0000 2011",
+        "favourites_count": 217,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 258,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2625904977/uo34ycmi8bx8kl6vazpn_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2625904977/uo34ycmi8bx8kl6vazpn_normal.jpeg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 14 09:46:47 +0000 2019",
+      "id": 1194914564640530400,
+      "id_str": "1194914564640530433",
+      "text": "#JeremyVine MeMe #LowriTurner talking bollocks once again pretending there is no North/South divide, and criticisin… https://t.co/GQfcdZD5tv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "JeremyVine",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "text": "LowriTurner",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GQfcdZD5tv",
+            "expanded_url": "https://twitter.com/i/web/status/1194914564640530433",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 447301417,
+        "id_str": "447301417",
+        "name": "Leftin #GTTO #JC4PM ❌VOTE LABOUR",
+        "screen_name": "logical4ever",
+        "location": "Somerton, Wales",
+        "description": "Marxist, Atheist, Socialist & Internationalist - I dislike the EU & Religion. I’m a musician, road cyclist and fan @arsenal @WalesRU #IStandWithChrisWilliamson",
+        "url": "https://t.co/B8uwKS3Abv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B8uwKS3Abv",
+                "expanded_url": "https://labour.org.uk",
+                "display_url": "labour.org.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6193,
+        "friends_count": 6371,
+        "listed_count": 24,
+        "created_at": "Mon Dec 26 18:45:37 +0000 2011",
+        "favourites_count": 4296,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 34983,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960632245764722691/Y5iagrn-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960632245764722691/Y5iagrn-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/447301417/1517867857",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "76f1c061474d9186",
+        "url": "https://api.twitter.com/1.1/geo/id/76f1c061474d9186.json",
+        "place_type": "city",
+        "name": "Somerton",
+        "full_name": "Somerton, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -2.985761,
+                51.5602195
+              ],
+              [
+                -2.940709,
+                51.5602195
+              ],
+              [
+                -2.940709,
+                51.588347
+              ],
+              [
+                -2.985761,
+                51.588347
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 18:19:12 +0000 2019",
+      "id": 1194681131628667000,
+      "id_str": "1194681131628666883",
+      "text": "GO. JEREMY CORBYN...,, 😳😳 https://t.co/KZpuObUJrl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KZpuObUJrl",
+            "expanded_url": "https://twitter.com/LBC/status/1194617193906024448",
+            "display_url": "twitter.com/LBC/status/119…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 470187332,
+        "id_str": "470187332",
+        "name": "JOE CARROLL @Google @YouTube @netflix",
+        "screen_name": "joeleeds_motd",
+        "location": "Robinson Crusoe Island",
+        "description": "🐶🇪🇺🚴‍♂️🐝☘️🌻🍺🚒🏎️@skyarts  #DHL #lufc #TDF #NASA. @ebay @google  NP19..@Twitter @youtube @netflix @Instagram is me😍🌍🐺⚽ happy xmas 🎄, 🎅⛄🍺",
+        "url": "https://t.co/P3dJYKkChA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/P3dJYKkChA",
+                "expanded_url": "http://HASHTAGgames.com",
+                "display_url": "HASHTAGgames.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6429,
+        "friends_count": 7075,
+        "listed_count": 105,
+        "created_at": "Sat Jan 21 12:20:32 +0000 2012",
+        "favourites_count": 80611,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61850,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156264361037619200/VJ9x1_8y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470187332/1536428234",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1a989c2c4ed199a1",
+        "url": "https://api.twitter.com/1.1/geo/id/1a989c2c4ed199a1.json",
+        "place_type": "city",
+        "name": "Alway",
+        "full_name": "Alway, Wales",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -2.968967,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.5831946
+              ],
+              [
+                -2.940406,
+                51.595522
+              ],
+              [
+                -2.968967,
+                51.595522
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1194617193906024400,
+      "quoted_status_id_str": "1194617193906024448",
+      "quoted_status": {
+        "created_at": "Wed Nov 13 14:05:08 +0000 2019",
+        "id": 1194617193906024400,
+        "id_str": "1194617193906024448",
+        "text": "Jeremy Corbyn told LBC that the \"right thing to do\" would have been to arrest IS leader Abu Bakr al-Baghdadi after… https://t.co/87OWfedCoZ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/87OWfedCoZ",
+              "expanded_url": "https://twitter.com/i/web/status/1194617193906024448",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20973388,
+          "id_str": "20973388",
+          "name": "LBC",
+          "screen_name": "LBC",
+          "location": "United Kingdom",
+          "description": "Leading Britain's Conversation. \n\nFor the latest news follow @LBCNews. \n\nFollow us Instagram @LBC",
+          "url": "http://t.co/X0wOXL6lvC",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/X0wOXL6lvC",
+                  "expanded_url": "http://www.lbc.co.uk",
+                  "display_url": "lbc.co.uk",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 364038,
+          "friends_count": 1825,
+          "listed_count": 2339,
+          "created_at": "Mon Feb 16 09:36:59 +0000 2009",
+          "favourites_count": 913,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 142383,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "26314F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1148581682829758464/1o47gh3n_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148581682829758464/1o47gh3n_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20973388/1446461681",
+          "profile_link_color": "E61F02",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "37ABD2",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 702,
+        "favorite_count": 1482,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 10:10:44 +0000 2019",
+      "id": 1194558206770581500,
+      "id_str": "1194558206770581504",
+      "text": "@abbiebarnard @MSoapySage @WarOnWant If you done your research you’d realise that Jeremy Corbyn won an award for hi… https://t.co/5CdSPRaatP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abbiebarnard",
+            "name": "abbiebarnard",
+            "id": 443233535,
+            "id_str": "443233535",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "MSoapySage",
+            "name": "Matt",
+            "id": 285298408,
+            "id_str": "285298408",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "WarOnWant",
+            "name": "War on Want",
+            "id": 20781527,
+            "id_str": "20781527",
+            "indices": [
+              26,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5CdSPRaatP",
+            "expanded_url": "https://twitter.com/i/web/status/1194558206770581504",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1194556361251668000,
+      "in_reply_to_status_id_str": "1194556361251667968",
+      "in_reply_to_user_id": 443233535,
+      "in_reply_to_user_id_str": "443233535",
+      "in_reply_to_screen_name": "abbiebarnard",
+      "user": {
+        "id": 233616133,
+        "id_str": "233616133",
+        "name": "🌟🌟🌟 Scott Evans 🌟🌟🌟",
+        "screen_name": "Sle_1986",
+        "location": "Newport",
+        "description": "“If you're not sure what to do with the ball, just pop it in the net and we'll discuss your options afterwards.” Bill Shankly",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 252,
+        "friends_count": 541,
+        "listed_count": 3,
+        "created_at": "Mon Jan 03 18:02:02 +0000 2011",
+        "favourites_count": 1553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197455726169534464/dPtAuFV9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197455726169534464/dPtAuFV9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233616133/1505719356",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 13 10:01:15 +0000 2019",
+      "id": 1194555819448242200,
+      "id_str": "1194555819448242176",
+      "text": "@abbiebarnard @MSoapySage @WarOnWant Why wouldn’t I believe Jeremy Corbyn, the guy who has a 40 year history of hum… https://t.co/i34vbzXIsK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abbiebarnard",
+            "name": "abbiebarnard",
+            "id": 443233535,
+            "id_str": "443233535",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "MSoapySage",
+            "name": "Matt",
+            "id": 285298408,
+            "id_str": "285298408",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "WarOnWant",
+            "name": "War on Want",
+            "id": 20781527,
+            "id_str": "20781527",
+            "indices": [
+              26,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/i34vbzXIsK",
+            "expanded_url": "https://twitter.com/i/web/status/1194555819448242176",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1194554998274871300,
+      "in_reply_to_status_id_str": "1194554998274871296",
+      "in_reply_to_user_id": 443233535,
+      "in_reply_to_user_id_str": "443233535",
+      "in_reply_to_screen_name": "abbiebarnard",
+      "user": {
+        "id": 233616133,
+        "id_str": "233616133",
+        "name": "🌟🌟🌟 Scott Evans 🌟🌟🌟",
+        "screen_name": "Sle_1986",
+        "location": "Newport",
+        "description": "“If you're not sure what to do with the ball, just pop it in the net and we'll discuss your options afterwards.” Bill Shankly",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 252,
+        "friends_count": 541,
+        "listed_count": 3,
+        "created_at": "Mon Jan 03 18:02:02 +0000 2011",
+        "favourites_count": 1553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197455726169534464/dPtAuFV9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197455726169534464/dPtAuFV9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233616133/1505719356",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.066,
+    "max_id": 1197245535117295600,
+    "max_id_str": "1197245535117295616",
+    "next_results": "?max_id=1194555819448242175&q=Jeremy%20Corbyn&geocode=51.583333%2C-3%2C7.142857143mi&count=100&include_entities=1",
+    "query": "Jeremy+Corbyn",
+    "refresh_url": "?since_id=1197245535117295616&q=Jeremy%20Corbyn&geocode=51.583333%2C-3%2C7.142857143mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

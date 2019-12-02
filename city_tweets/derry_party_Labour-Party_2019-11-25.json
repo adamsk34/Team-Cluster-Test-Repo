@@ -1,0 +1,2020 @@
+{
+  "statuses": [
+    {
+      "created_at": "Mon Nov 25 20:16:21 +0000 2019",
+      "id": 1199059269280260000,
+      "id_str": "1199059269280260098",
+      "text": "@Jackiew80333500 @adamlangleben @Pam4HarrowEast @harrowelabour Ah @Jackiew80333500 thanks for your endorsement of… https://t.co/A7DttOwRdN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Jackiew80333500",
+            "name": "Jackie walker",
+            "id": 798231301602115600,
+            "id_str": "798231301602115584",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "adamlangleben",
+            "name": "Adam Langleben",
+            "id": 22535926,
+            "id_str": "22535926",
+            "indices": [
+              17,
+              31
+            ]
+          },
+          {
+            "screen_name": "Pam4HarrowEast",
+            "name": "Pamela Fitzpatrick",
+            "id": 3039208431,
+            "id_str": "3039208431",
+            "indices": [
+              32,
+              47
+            ]
+          },
+          {
+            "screen_name": "harrowelabour",
+            "name": "Harrow East Labour 🌹",
+            "id": 923180146051477500,
+            "id_str": "923180146051477504",
+            "indices": [
+              48,
+              62
+            ]
+          },
+          {
+            "screen_name": "Jackiew80333500",
+            "name": "Jackie walker",
+            "id": 798231301602115600,
+            "id_str": "798231301602115584",
+            "indices": [
+              66,
+              82
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/A7DttOwRdN",
+            "expanded_url": "https://twitter.com/i/web/status/1199059269280260098",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1198717632830214100,
+      "in_reply_to_status_id_str": "1198717632830214145",
+      "in_reply_to_user_id": 798231301602115600,
+      "in_reply_to_user_id_str": "798231301602115584",
+      "in_reply_to_screen_name": "Jackiew80333500",
+      "user": {
+        "id": 997067748,
+        "id_str": "997067748",
+        "name": "Jack Sparrow",
+        "screen_name": "InstantHeight1",
+        "location": "Londonderry, Northern Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 349,
+        "friends_count": 105,
+        "listed_count": 0,
+        "created_at": "Sat Dec 08 12:31:18 +0000 2012",
+        "favourites_count": 308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1216,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195845304949649408/2IBy7xaM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195845304949649408/2IBy7xaM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/997067748/1535714063",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 18:19:41 +0000 2019",
+      "id": 1199029906358841300,
+      "id_str": "1199029906358841349",
+      "text": "Her bag is big enough to carry all the pro-business sentiment left in the Labour Party. https://t.co/YDBZqrebiw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1199029899048181800,
+            "id_str": "1199029899048181760",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKPPVyfW4AAosrr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKPPVyfW4AAosrr.jpg",
+            "url": "https://t.co/YDBZqrebiw",
+            "display_url": "pic.twitter.com/YDBZqrebiw",
+            "expanded_url": "https://twitter.com/StuartC93/status/1199029906358841349/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1199029899048181800,
+            "id_str": "1199029899048181760",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKPPVyfW4AAosrr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKPPVyfW4AAosrr.jpg",
+            "url": "https://t.co/YDBZqrebiw",
+            "display_url": "pic.twitter.com/YDBZqrebiw",
+            "expanded_url": "https://twitter.com/StuartC93/status/1199029906358841349/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18847351,
+        "id_str": "18847351",
+        "name": "Stuart Canning",
+        "screen_name": "StuartC93",
+        "location": "Londonderry, Northern Ireland",
+        "description": "Northern Irish | British | UU Law Graduate | Fiancé | Tory | 90’s kid",
+        "url": "https://t.co/rjhMKtTCOA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rjhMKtTCOA",
+                "expanded_url": "https://m.facebook.com/stuart.canning",
+                "display_url": "m.facebook.com/stuart.canning",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 611,
+        "friends_count": 319,
+        "listed_count": 24,
+        "created_at": "Sat Jan 10 21:36:47 +0000 2009",
+        "favourites_count": 3381,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14857,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195416964321202176/Ku93fRB3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18847351/1573844590",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 16:41:03 +0000 2019",
+      "id": 1199005087324086300,
+      "id_str": "1199005087324086276",
+      "text": "Tory MP candidate caught getting friend to pose as anti-Labour voter, as party's disinformation c... https://t.co/GR3NZ74ovw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GR3NZ74ovw",
+            "expanded_url": "https://www.independent.co.uk/news/uk/politics/general-election-latest-tory-disinformation-fake-swing-voter-boris-johnson-ashfield-lee-anderson-a9216986.html?utm_medium=Social&utm_source=Facebook#Echobox=1574691553",
+            "display_url": "independent.co.uk/news/uk/politi…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 394277357,
+        "id_str": "394277357",
+        "name": "Dominic Kearney",
+        "screen_name": "KearneyDominic",
+        "location": "Derry",
+        "description": "Writer. Evertonian. @CultureNI @irish_news @BBCRadioFoyle @bbcradioulster. Author of Ireland's Beautiful North, @OBrienPress, & Cast-Iron Men. Liverpool/Derry.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1815,
+        "friends_count": 3059,
+        "listed_count": 21,
+        "created_at": "Wed Oct 19 20:51:12 +0000 2011",
+        "favourites_count": 7591,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12317,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850686209470943232/DGoXQeAQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850686209470943232/DGoXQeAQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/394277357/1348846025",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 25 14:19:50 +0000 2019",
+      "id": 1198969545433788400,
+      "id_str": "1198969545433788416",
+      "text": "@Peymasad @UKLabour Vile antisemite like you will do well in Corbyns Labour Party!! https://t.co/ozZKBMGxBg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Peymasad",
+            "name": "Peymana Assad",
+            "id": 358140803,
+            "id_str": "358140803",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "UKLabour",
+            "name": "The Labour Party 🚨 Register To Vote 🚨",
+            "id": 14291684,
+            "id_str": "14291684",
+            "indices": [
+              10,
+              19
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1198969540589359000,
+            "id_str": "1198969540589359104",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKOYcdtXkAAePRs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKOYcdtXkAAePRs.jpg",
+            "url": "https://t.co/ozZKBMGxBg",
+            "display_url": "pic.twitter.com/ozZKBMGxBg",
+            "expanded_url": "https://twitter.com/InstantHeight1/status/1198969545433788416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 828,
+                "h": 1792,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1198969540589359000,
+            "id_str": "1198969540589359104",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKOYcdtXkAAePRs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKOYcdtXkAAePRs.jpg",
+            "url": "https://t.co/ozZKBMGxBg",
+            "display_url": "pic.twitter.com/ozZKBMGxBg",
+            "expanded_url": "https://twitter.com/InstantHeight1/status/1198969545433788416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 828,
+                "h": 1792,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1191458735627133000,
+      "in_reply_to_status_id_str": "1191458735627132928",
+      "in_reply_to_user_id": 358140803,
+      "in_reply_to_user_id_str": "358140803",
+      "in_reply_to_screen_name": "Peymasad",
+      "user": {
+        "id": 997067748,
+        "id_str": "997067748",
+        "name": "Jack Sparrow",
+        "screen_name": "InstantHeight1",
+        "location": "Londonderry, Northern Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 349,
+        "friends_count": 105,
+        "listed_count": 0,
+        "created_at": "Sat Dec 08 12:31:18 +0000 2012",
+        "favourites_count": 308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1216,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195845304949649408/2IBy7xaM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195845304949649408/2IBy7xaM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/997067748/1535714063",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 20:33:24 +0000 2019",
+      "id": 1198701171826987000,
+      "id_str": "1198701171826987008",
+      "text": "RT @jamesdeens: How could a supposed Christian party do a deal with UK LABOUR PARTY who want Abortion right up to birth?\nNext on the Labour…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jamesdeens",
+            "name": "Donal Deeney",
+            "id": 2720845264,
+            "id_str": "2720845264",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16590167,
+        "id_str": "16590167",
+        "name": "rockyrose #BritishIndependence",
+        "screen_name": "rockyrose",
+        "location": "England",
+        "description": "I am an English woman. I do not bow down to totalitarians of any kind.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3379,
+        "friends_count": 3314,
+        "listed_count": 0,
+        "created_at": "Sat Oct 04 10:21:49 +0000 2008",
+        "favourites_count": 307024,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 106315,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1111386270096343040/xYErqJ2V_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111386270096343040/xYErqJ2V_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16590167/1553810448",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 20:06:00 +0000 2019",
+        "id": 1198694276693217300,
+        "id_str": "1198694276693217287",
+        "text": "How could a supposed Christian party do a deal with UK LABOUR PARTY who want Abortion right up to birth?\nNext on th… https://t.co/4n1dQRP02F",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/4n1dQRP02F",
+              "expanded_url": "https://twitter.com/i/web/status/1198694276693217287",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2720845264,
+          "id_str": "2720845264",
+          "name": "Donal Deeney",
+          "screen_name": "jamesdeens",
+          "location": "Derry, Northern Ireland",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 556,
+          "friends_count": 1446,
+          "listed_count": 1,
+          "created_at": "Tue Jul 22 16:04:40 +0000 2014",
+          "favourites_count": 38772,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 23612,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1198591083170676700,
+        "quoted_status_id_str": "1198591083170676739",
+        "quoted_status": {
+          "created_at": "Sun Nov 24 13:15:57 +0000 2019",
+          "id": 1198591083170676700,
+          "id_str": "1198591083170676739",
+          "text": "DUP leader Arlene Foster indicated she might be open to doing a deal with the Labour Party - but only if Jeremy Cor… https://t.co/f4H7iAkq1b",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/f4H7iAkq1b",
+                "expanded_url": "https://twitter.com/i/web/status/1198591083170676739",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 2329058035,
+            "id_str": "2329058035",
+            "name": "LBC News",
+            "screen_name": "LBCNews",
+            "location": "UK",
+            "description": "Where The News Never Stops. The UK’s first national rolling radio news channel. For in-depth analysis on today's stories, follow @LBC. Instagram @LBCNewsfeed",
+            "url": "https://t.co/o60LcI5fOO",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/o60LcI5fOO",
+                    "expanded_url": "http://www.lbcnews.co.uk/",
+                    "display_url": "lbcnews.co.uk",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 46501,
+            "friends_count": 69,
+            "listed_count": 622,
+            "created_at": "Wed Feb 05 16:34:00 +0000 2014",
+            "favourites_count": 6,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 28085,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1186710398386556929/2_jvgTp7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186710398386556929/2_jvgTp7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329058035/1571768783",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 11,
+          "favorite_count": 16,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1198591083170676700,
+      "quoted_status_id_str": "1198591083170676739",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 20:31:00 +0000 2019",
+      "id": 1198700566156906500,
+      "id_str": "1198700566156906496",
+      "text": "@CrozierKeir @ChallengesNI Your party is being protested by the pro-Union people of Northern Ireland. The NI Labour Party isn't.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CrozierKeir",
+            "name": "Keir Crozier",
+            "id": 1130933954079612900,
+            "id_str": "1130933954079612929",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "ChallengesNI",
+            "name": "Challenges NI",
+            "id": 4098413242,
+            "id_str": "4098413242",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1198700079743426600,
+      "in_reply_to_status_id_str": "1198700079743426560",
+      "in_reply_to_user_id": 53646835,
+      "in_reply_to_user_id_str": "53646835",
+      "in_reply_to_screen_name": "kevinpbreslin",
+      "user": {
+        "id": 53646835,
+        "id_str": "53646835",
+        "name": "Dr. Kevin Breslin Esq.|Dr. Caoimhghín Ó Breasláin",
+        "screen_name": "kevinpbreslin",
+        "location": "Derry",
+        "description": "#SDLP #WeneedtheGFA #FBPE #WATON #freenazanin #DespiteSinnFéin #PCPEU #BlockTheCoup #Peoplesvote #DontBuyTheSun 🇪🇺🇬🇧 🇮🇪 PhD, MPhil, MSci, MSci",
+        "url": "https://t.co/X0eFx7UMIM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/X0eFx7UMIM",
+                "expanded_url": "https://www.facebook.com/semiconductorphysicist",
+                "display_url": "facebook.com/semiconductorp…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2597,
+        "friends_count": 5000,
+        "listed_count": 78,
+        "created_at": "Sat Jul 04 10:56:58 +0000 2009",
+        "favourites_count": 139964,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 202841,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CC0033",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174419953358970881/i0wqnLLT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174419953358970881/i0wqnLLT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53646835/1573745994",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 20:06:00 +0000 2019",
+      "id": 1198694276693217300,
+      "id_str": "1198694276693217287",
+      "text": "How could a supposed Christian party do a deal with UK LABOUR PARTY who want Abortion right up to birth?\nNext on th… https://t.co/4n1dQRP02F",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4n1dQRP02F",
+            "expanded_url": "https://twitter.com/i/web/status/1198694276693217287",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2720845264,
+        "id_str": "2720845264",
+        "name": "Donal Deeney",
+        "screen_name": "jamesdeens",
+        "location": "Derry, Northern Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 1446,
+        "listed_count": 1,
+        "created_at": "Tue Jul 22 16:04:40 +0000 2014",
+        "favourites_count": 38772,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23612,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1198591083170676700,
+      "quoted_status_id_str": "1198591083170676739",
+      "quoted_status": {
+        "created_at": "Sun Nov 24 13:15:57 +0000 2019",
+        "id": 1198591083170676700,
+        "id_str": "1198591083170676739",
+        "text": "DUP leader Arlene Foster indicated she might be open to doing a deal with the Labour Party - but only if Jeremy Cor… https://t.co/f4H7iAkq1b",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/f4H7iAkq1b",
+              "expanded_url": "https://twitter.com/i/web/status/1198591083170676739",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2329058035,
+          "id_str": "2329058035",
+          "name": "LBC News",
+          "screen_name": "LBCNews",
+          "location": "UK",
+          "description": "Where The News Never Stops. The UK’s first national rolling radio news channel. For in-depth analysis on today's stories, follow @LBC. Instagram @LBCNewsfeed",
+          "url": "https://t.co/o60LcI5fOO",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/o60LcI5fOO",
+                  "expanded_url": "http://www.lbcnews.co.uk/",
+                  "display_url": "lbcnews.co.uk",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 46501,
+          "friends_count": 69,
+          "listed_count": 622,
+          "created_at": "Wed Feb 05 16:34:00 +0000 2014",
+          "favourites_count": 6,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 28085,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1186710398386556929/2_jvgTp7_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186710398386556929/2_jvgTp7_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329058035/1571768783",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 16:31:36 +0000 2019",
+      "id": 1198640321237782500,
+      "id_str": "1198640321237782528",
+      "text": "@mick_wynn67 @pedanticdave @wildtests @aebxo @vinkyw My failings? You have me mixed up with the #Labour party",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Labour",
+            "indices": [
+              96,
+              103
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mick_wynn67",
+            "name": "Michael Wynn",
+            "id": 2303629127,
+            "id_str": "2303629127",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "pedanticdave",
+            "name": "FartCheckUK",
+            "id": 19858381,
+            "id_str": "19858381",
+            "indices": [
+              13,
+              26
+            ]
+          },
+          {
+            "screen_name": "wildtests",
+            "name": "Stu 🌹",
+            "id": 19528376,
+            "id_str": "19528376",
+            "indices": [
+              27,
+              37
+            ]
+          },
+          {
+            "screen_name": "aebxo",
+            "name": "ell",
+            "id": 711007881,
+            "id_str": "711007881",
+            "indices": [
+              38,
+              44
+            ]
+          },
+          {
+            "screen_name": "vinkyw",
+            "name": "Vinky",
+            "id": 140190244,
+            "id_str": "140190244",
+            "indices": [
+              45,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198639901090238500,
+      "in_reply_to_status_id_str": "1198639901090238471",
+      "in_reply_to_user_id": 2303629127,
+      "in_reply_to_user_id_str": "2303629127",
+      "in_reply_to_screen_name": "mick_wynn67",
+      "user": {
+        "id": 1045074876510466000,
+        "id_str": "1045074876510466050",
+        "name": "KenPark",
+        "screen_name": "KenParkDerry",
+        "location": "Derry, Northern Ireland",
+        "description": "man of mystery.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 90,
+        "friends_count": 172,
+        "listed_count": 0,
+        "created_at": "Wed Sep 26 22:17:21 +0000 2018",
+        "favourites_count": 2277,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12272,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1054003617005535232/0DKKVfH4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054003617005535232/0DKKVfH4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 14:35:43 +0000 2019",
+      "id": 1198611154609856500,
+      "id_str": "1198611154609856512",
+      "text": "Labour Party abandoned the British working class years ago and brought in a secret Mass Immigration programme in Se… https://t.co/kUqdsl518F",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kUqdsl518F",
+            "expanded_url": "https://twitter.com/i/web/status/1198611154609856512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2720845264,
+        "id_str": "2720845264",
+        "name": "Donal Deeney",
+        "screen_name": "jamesdeens",
+        "location": "Derry, Northern Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 1446,
+        "listed_count": 1,
+        "created_at": "Tue Jul 22 16:04:40 +0000 2014",
+        "favourites_count": 38772,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23612,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1197951184109215700,
+      "quoted_status_id_str": "1197951184109215749",
+      "quoted_status": {
+        "created_at": "Fri Nov 22 18:53:13 +0000 2019",
+        "id": 1197951184109215700,
+        "id_str": "1197951184109215749",
+        "text": "Dan Wootton: \"Are you a Remainer or are you a Leaver?\"\n\nLabour election candidate Laura Pidcock: \"I'm a socialist.… https://t.co/3xCqo4GatK",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/3xCqo4GatK",
+              "expanded_url": "https://twitter.com/i/web/status/1197951184109215749",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3380282686,
+          "id_str": "3380282686",
+          "name": "talkRADIO",
+          "screen_name": "talkRADIO",
+          "location": "United Kingdom",
+          "description": "The only radio station to follow for instant reaction and expert analysis for the General Election 2019.",
+          "url": "https://t.co/qN4BCdv12J",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qN4BCdv12J",
+                  "expanded_url": "http://talkradio.co.uk/live",
+                  "display_url": "talkradio.co.uk/live",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 65221,
+          "friends_count": 20,
+          "listed_count": 430,
+          "created_at": "Fri Jul 17 11:48:34 +0000 2015",
+          "favourites_count": 2180,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 47000,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1196790963701768192/hKevQfIv_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196790963701768192/hKevQfIv_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3380282686/1564124954",
+          "profile_link_color": "EA1C2D",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 24 02:50:22 +0000 2019",
+      "id": 1198433648913125400,
+      "id_str": "1198433648913125378",
+      "text": "No Catholic can support Britain's Labour Party\n\n https://t.co/cchQKMzEC2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cchQKMzEC2",
+            "expanded_url": "https://archbishopcranmer.com/decriminalise-abortion-labour-catholic-vote/",
+            "display_url": "archbishopcranmer.com/decriminalise-…",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2720845264,
+        "id_str": "2720845264",
+        "name": "Donal Deeney",
+        "screen_name": "jamesdeens",
+        "location": "Derry, Northern Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 1446,
+        "listed_count": 1,
+        "created_at": "Tue Jul 22 16:04:40 +0000 2014",
+        "favourites_count": 38772,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23612,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494861777487015936/RMmbhp1f_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 10:39:53 +0000 2019",
+      "id": 1197827030613713000,
+      "id_str": "1197827030613712896",
+      "text": "#MaureenLipman So a Jew left the labour party because a Jew was leader now she's leaving again because no one was a… https://t.co/jcitQ4KTrg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MaureenLipman",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jcitQ4KTrg",
+            "expanded_url": "https://twitter.com/i/web/status/1197827030613712896",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 113961390,
+        "id_str": "113961390",
+        "name": "paul mcdevitt",
+        "screen_name": "arthereanynames",
+        "location": "Derry",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sat Feb 13 16:26:35 +0000 2010",
+        "favourites_count": 32,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2304,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 09:14:09 +0000 2019",
+      "id": 1197805454677688300,
+      "id_str": "1197805454677688321",
+      "text": "@duponline He did, in 1994.\nNice try by the pathetic DUP. \nhttps://t.co/Bf3TPAepeM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "duponline",
+            "name": "DUP",
+            "id": 19977542,
+            "id_str": "19977542",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Bf3TPAepeM",
+            "expanded_url": "https://www.independent.co.uk/news/uk/politics/jeremy-corbyn-labour-party-ira-violence-1994-general-election-a7761801.html",
+            "display_url": "independent.co.uk/news/uk/politi…",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1197569248392024000,
+      "in_reply_to_status_id_str": "1197569248392024064",
+      "in_reply_to_user_id": 19977542,
+      "in_reply_to_user_id_str": "19977542",
+      "in_reply_to_screen_name": "duponline",
+      "user": {
+        "id": 1911982765,
+        "id_str": "1911982765",
+        "name": "CregganDerry",
+        "screen_name": "CregganDerry",
+        "location": "Derry",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2733,
+        "friends_count": 1292,
+        "listed_count": 14,
+        "created_at": "Fri Sep 27 18:41:23 +0000 2013",
+        "favourites_count": 37283,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48316,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/887271508715991042/W5wvBHNs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/887271508715991042/W5wvBHNs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911982765/1546090414",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 15:22:16 +0000 2019",
+      "id": 1197535706551378000,
+      "id_str": "1197535706551377920",
+      "text": "serious question - what party in NI is the most tactical vote to help Labour",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1920175957,
+        "id_str": "1920175957",
+        "name": "holly",
+        "screen_name": "h_ollyb",
+        "location": "Derry, Northern Ireland",
+        "description": "18, geography student ❤️",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1087,
+        "friends_count": 905,
+        "listed_count": 3,
+        "created_at": "Mon Sep 30 13:48:42 +0000 2013",
+        "favourites_count": 39966,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11804,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199131359081566214/R9Y8YDnA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199131359081566214/R9Y8YDnA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1920175957/1574730170",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 20 12:25:35 +0000 2019",
+      "id": 1197128857729585200,
+      "id_str": "1197128857729585152",
+      "text": "@FabianLeedsNE During the first sentence I thought you were talking about the labour leadership! If I was a labour… https://t.co/A5thXwVxF2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FabianLeedsNE",
+            "name": "Fabian Hamilton",
+            "id": 859433240452583400,
+            "id_str": "859433240452583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/A5thXwVxF2",
+            "expanded_url": "https://twitter.com/i/web/status/1197128857729585152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1197118139336712200,
+      "in_reply_to_status_id_str": "1197118139336712193",
+      "in_reply_to_user_id": 859433240452583400,
+      "in_reply_to_user_id_str": "859433240452583424",
+      "in_reply_to_screen_name": "FabianLeedsNE",
+      "user": {
+        "id": 997067748,
+        "id_str": "997067748",
+        "name": "Jack Sparrow",
+        "screen_name": "InstantHeight1",
+        "location": "Londonderry, Northern Ireland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 349,
+        "friends_count": 105,
+        "listed_count": 0,
+        "created_at": "Sat Dec 08 12:31:18 +0000 2012",
+        "favourites_count": 308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1216,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195845304949649408/2IBy7xaM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195845304949649408/2IBy7xaM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/997067748/1535714063",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.051,
+    "max_id": 1199059269280260000,
+    "max_id_str": "1199059269280260098",
+    "next_results": "?max_id=1197128857729585151&q=Labour%20Party&geocode=54.9958%2C-7.3074%2C4.545454545mi&count=100&include_entities=1",
+    "query": "Labour+Party",
+    "refresh_url": "?since_id=1199059269280260098&q=Labour%20Party&geocode=54.9958%2C-7.3074%2C4.545454545mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

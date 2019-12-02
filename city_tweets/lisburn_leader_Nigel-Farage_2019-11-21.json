@@ -1,0 +1,106 @@
+{
+  "statuses": [
+    {
+      "created_at": "Mon Nov 18 13:32:01 +0000 2019",
+      "id": 1196420799403569200,
+      "id_str": "1196420799403569154",
+      "text": "@Nigel_Farage True",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nigel_Farage",
+            "name": "Nigel Farage",
+            "id": 19017675,
+            "id_str": "19017675",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1196390338002346000,
+      "in_reply_to_status_id_str": "1196390338002345984",
+      "in_reply_to_user_id": 19017675,
+      "in_reply_to_user_id_str": "19017675",
+      "in_reply_to_screen_name": "Nigel_Farage",
+      "user": {
+        "id": 712936511,
+        "id_str": "712936511",
+        "name": "Jean",
+        "screen_name": "Jean18151824",
+        "location": "Lisburn, Northern Ireland",
+        "description": "watching world economy",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 99,
+        "friends_count": 357,
+        "listed_count": 0,
+        "created_at": "Sun Oct 13 15:49:32 +0000 2013",
+        "favourites_count": 2739,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/989482407656153088/kwpvylCE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/989482407656153088/kwpvylCE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.023,
+    "max_id": 1196420799403569200,
+    "max_id_str": "1196420799403569154",
+    "next_results": "?max_id=1196420799403569153&q=Nigel%20Farage&geocode=54.512%2C-6.031%2C4.166666667mi&count=100&include_entities=1",
+    "query": "Nigel+Farage",
+    "refresh_url": "?since_id=1196420799403569154&q=Nigel%20Farage&geocode=54.512%2C-6.031%2C4.166666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

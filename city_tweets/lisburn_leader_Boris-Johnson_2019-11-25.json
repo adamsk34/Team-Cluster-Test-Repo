@@ -1,0 +1,1565 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sat Nov 23 22:20:56 +0000 2019",
+      "id": 1198365845170376700,
+      "id_str": "1198365845170376706",
+      "text": "@77Pnk @derry_milk The World is so much Better,\nBecause of.\nPresident Donald Trump.\nThe British.\nBoris Johnson\nNige… https://t.co/B9XbqlLFAp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "77Pnk",
+            "name": "Rich '77 punk",
+            "id": 3832449497,
+            "id_str": "3832449497",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "derry_milk",
+            "name": "Barry - Banned by Tw1tter Again!",
+            "id": 414176982,
+            "id_str": "414176982",
+            "indices": [
+              7,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/B9XbqlLFAp",
+            "expanded_url": "https://twitter.com/i/web/status/1198365845170376706",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197816590768726000,
+      "in_reply_to_status_id_str": "1197816590768726021",
+      "in_reply_to_user_id": 3832449497,
+      "in_reply_to_user_id_str": "3832449497",
+      "in_reply_to_screen_name": "77Pnk",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 511,
+        "friends_count": 571,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 21:21:50 +0000 2019",
+      "id": 1198350973170864000,
+      "id_str": "1198350973170864128",
+      "text": "RT @frodobiggins82: Boris Johnson won't \"sell off\" the NHS because of the ridicule and his promise not to, however I'm pretty sure when pol…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frodobiggins82",
+            "name": "Steve G",
+            "id": 1454912990,
+            "id_str": "1454912990",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 346095360,
+        "id_str": "346095360",
+        "name": "Rob Hook",
+        "screen_name": "robbymaxwell",
+        "location": "Kirkby Stephen",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 120,
+        "friends_count": 56,
+        "listed_count": 3,
+        "created_at": "Sun Jul 31 18:27:15 +0000 2011",
+        "favourites_count": 12644,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3111,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2225921241/uTbBSJv7_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2225921241/uTbBSJv7_normal",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Nov 23 17:10:51 +0000 2019",
+        "id": 1198287807682404400,
+        "id_str": "1198287807682404352",
+        "text": "Boris Johnson won't \"sell off\" the NHS because of the ridicule and his promise not to, however I'm pretty sure when… https://t.co/oq2AkSFaPb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/oq2AkSFaPb",
+              "expanded_url": "https://twitter.com/i/web/status/1198287807682404352",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1454912990,
+          "id_str": "1454912990",
+          "name": "Steve G",
+          "screen_name": "frodobiggins82",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Art teacher, Photography, Music, Cycling, football ✌️",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 138,
+          "friends_count": 511,
+          "listed_count": 2,
+          "created_at": "Fri May 24 18:34:24 +0000 2013",
+          "favourites_count": 1777,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1927,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1099401794755719168/7N_ayBxv_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099401794755719168/7N_ayBxv_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454912990/1510608863",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 17:10:51 +0000 2019",
+      "id": 1198287807682404400,
+      "id_str": "1198287807682404352",
+      "text": "Boris Johnson won't \"sell off\" the NHS because of the ridicule and his promise not to, however I'm pretty sure when… https://t.co/oq2AkSFaPb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oq2AkSFaPb",
+            "expanded_url": "https://twitter.com/i/web/status/1198287807682404352",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1454912990,
+        "id_str": "1454912990",
+        "name": "Steve G",
+        "screen_name": "frodobiggins82",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Art teacher, Photography, Music, Cycling, football ✌️",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 138,
+        "friends_count": 511,
+        "listed_count": 2,
+        "created_at": "Fri May 24 18:34:24 +0000 2013",
+        "favourites_count": 1777,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1927,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1099401794755719168/7N_ayBxv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099401794755719168/7N_ayBxv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454912990/1510608863",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 10:06:16 +0000 2019",
+      "id": 1198180957427261400,
+      "id_str": "1198180957427261440",
+      "text": "@666LukeyB @RabHutchison @BorisJohnson Boris Johnson is being treated the way President Trump has been attacked by… https://t.co/HJzh8hLVtx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "666LukeyB",
+            "name": "luke",
+            "id": 2575384999,
+            "id_str": "2575384999",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "RabHutchison",
+            "name": "Robert Hutchison 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇺🇸",
+            "id": 183400728,
+            "id_str": "183400728",
+            "indices": [
+              11,
+              24
+            ]
+          },
+          {
+            "screen_name": "BorisJohnson",
+            "name": "Boris Johnson",
+            "id": 3131144855,
+            "id_str": "3131144855",
+            "indices": [
+              25,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HJzh8hLVtx",
+            "expanded_url": "https://twitter.com/i/web/status/1198180957427261440",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197977401571057700,
+      "in_reply_to_status_id_str": "1197977401571057666",
+      "in_reply_to_user_id": 2575384999,
+      "in_reply_to_user_id_str": "2575384999",
+      "in_reply_to_screen_name": "666LukeyB",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 511,
+        "friends_count": 571,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 09:19:17 +0000 2019",
+      "id": 1198169135533961200,
+      "id_str": "1198169135533961217",
+      "text": "RT @BrianDavidHigg1: @BenLowry2  Loyalist protest meeting in Portadown against @BorisJohnson  ‘Betrayal Act’ was packed and angry https://t…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "BenLowry2",
+            "name": "Ben Lowry",
+            "id": 492104162,
+            "id_str": "492104162",
+            "indices": [
+              21,
+              31
+            ]
+          },
+          {
+            "screen_name": "BorisJohnson",
+            "name": "Boris Johnson",
+            "id": 3131144855,
+            "id_str": "3131144855",
+            "indices": [
+              79,
+              92
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1478255696,
+        "id_str": "1478255696",
+        "name": "bb bell",
+        "screen_name": "bobbybell19",
+        "location": "",
+        "description": "My RTs are not an endorsement just means I have read it",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 277,
+        "friends_count": 554,
+        "listed_count": 3,
+        "created_at": "Sun Jun 02 21:30:44 +0000 2013",
+        "favourites_count": 21028,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25493,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061023596217278464/72LlY1H0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061023596217278464/72LlY1H0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Nov 23 09:04:21 +0000 2019",
+        "id": 1198165375562735600,
+        "id_str": "1198165375562735616",
+        "text": "@BenLowry2  Loyalist protest meeting in Portadown against @BorisJohnson  ‘Betrayal Act’ was packed and angry https://t.co/GR9XsP6agH",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BenLowry2",
+              "name": "Ben Lowry",
+              "id": 492104162,
+              "id_str": "492104162",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "BorisJohnson",
+              "name": "Boris Johnson",
+              "id": 3131144855,
+              "id_str": "3131144855",
+              "indices": [
+                58,
+                71
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/GR9XsP6agH",
+              "expanded_url": "https://www.newsletter.co.uk/news/opinion/ben-lowry-loyalist-protest-meeting-in-portadown-against-boris-johnson-s-betrayal-act-was-packed-and-angry-1-9152301",
+              "display_url": "newsletter.co.uk/news/opinion/b…",
+              "indices": [
+                109,
+                132
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 492104162,
+        "in_reply_to_user_id_str": "492104162",
+        "in_reply_to_screen_name": "BenLowry2",
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2638,
+          "friends_count": 4998,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15971,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3280,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Nov 23 09:04:21 +0000 2019",
+      "id": 1198165375562735600,
+      "id_str": "1198165375562735616",
+      "text": "@BenLowry2  Loyalist protest meeting in Portadown against @BorisJohnson  ‘Betrayal Act’ was packed and angry https://t.co/GR9XsP6agH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BenLowry2",
+            "name": "Ben Lowry",
+            "id": 492104162,
+            "id_str": "492104162",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "BorisJohnson",
+            "name": "Boris Johnson",
+            "id": 3131144855,
+            "id_str": "3131144855",
+            "indices": [
+              58,
+              71
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GR9XsP6agH",
+            "expanded_url": "https://www.newsletter.co.uk/news/opinion/ben-lowry-loyalist-protest-meeting-in-portadown-against-boris-johnson-s-betrayal-act-was-packed-and-angry-1-9152301",
+            "display_url": "newsletter.co.uk/news/opinion/b…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 492104162,
+      "in_reply_to_user_id_str": "492104162",
+      "in_reply_to_screen_name": "BenLowry2",
+      "user": {
+        "id": 1008450552492101600,
+        "id_str": "1008450552492101632",
+        "name": "Brian Higginson🇬🇧",
+        "screen_name": "BrianDavidHigg1",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2638,
+        "friends_count": 4998,
+        "listed_count": 3,
+        "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+        "favourites_count": 15971,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3280,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 17:43:52 +0000 2019",
+      "id": 1197571344411635700,
+      "id_str": "1197571344411635714",
+      "text": "RT @BrianDavidHigg1: The following is a\nStatement issued by the Mid Ulster Concerned Unionist Movement following last night's meeting in Ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 950354640,
+        "id_str": "950354640",
+        "name": "Ulsterman",
+        "screen_name": "Linfield1641",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3501,
+        "friends_count": 4101,
+        "listed_count": 32,
+        "created_at": "Thu Nov 15 19:47:41 +0000 2012",
+        "favourites_count": 7812,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 74926,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2853494271/b4b983f4931e91f80157cf0b5326c708_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2853494271/b4b983f4931e91f80157cf0b5326c708_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 11:01:13 +0000 2019",
+        "id": 1197470011801120800,
+        "id_str": "1197470011801120768",
+        "text": "The following is a\nStatement issued by the Mid Ulster Concerned Unionist Movement following last night's meeting in… https://t.co/WeyomZrCM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/WeyomZrCM6",
+              "expanded_url": "https://twitter.com/i/web/status/1197470011801120768",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2638,
+          "friends_count": 4998,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15971,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3280,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 11:14:17 +0000 2019",
+      "id": 1197473299518890000,
+      "id_str": "1197473299518889985",
+      "text": "RT @BrianDavidHigg1: The following is a\nStatement issued by the Mid Ulster Concerned Unionist Movement following last night's meeting in Ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1173556910789992400,
+        "id_str": "1173556910789992448",
+        "name": "Ulster Bear WATP",
+        "screen_name": "BearUlster",
+        "location": "",
+        "description": "Don't let the Bastards grind you down",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 323,
+        "friends_count": 571,
+        "listed_count": 1,
+        "created_at": "Mon Sep 16 11:19:23 +0000 2019",
+        "favourites_count": 3814,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5351,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192855025514663936/5kp5WI1a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192855025514663936/5kp5WI1a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173556910789992448/1568633253",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 11:01:13 +0000 2019",
+        "id": 1197470011801120800,
+        "id_str": "1197470011801120768",
+        "text": "The following is a\nStatement issued by the Mid Ulster Concerned Unionist Movement following last night's meeting in… https://t.co/WeyomZrCM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/WeyomZrCM6",
+              "expanded_url": "https://twitter.com/i/web/status/1197470011801120768",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2638,
+          "friends_count": 4998,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15971,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3280,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 11:03:56 +0000 2019",
+      "id": 1197470694679945200,
+      "id_str": "1197470694679945221",
+      "text": "RT @BrianDavidHigg1: The following is a\nStatement issued by the Mid Ulster Concerned Unionist Movement following last night's meeting in Ca…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrianDavidHigg1",
+            "name": "Brian Higginson🇬🇧",
+            "id": 1008450552492101600,
+            "id_str": "1008450552492101632",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1120381383396950000,
+        "id_str": "1120381383396950016",
+        "name": "Alex Jones",
+        "screen_name": "alexjonesAM1",
+        "location": "Northern Ireland",
+        "description": "I used to love my old twitter account, then everyone from work found me.  This is my new account",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 830,
+        "friends_count": 1261,
+        "listed_count": 1,
+        "created_at": "Mon Apr 22 17:38:32 +0000 2019",
+        "favourites_count": 26909,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18178,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120381596840988675/ILgJ1CQi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120381596840988675/ILgJ1CQi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 21 11:01:13 +0000 2019",
+        "id": 1197470011801120800,
+        "id_str": "1197470011801120768",
+        "text": "The following is a\nStatement issued by the Mid Ulster Concerned Unionist Movement following last night's meeting in… https://t.co/WeyomZrCM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/WeyomZrCM6",
+              "expanded_url": "https://twitter.com/i/web/status/1197470011801120768",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1008450552492101600,
+          "id_str": "1008450552492101632",
+          "name": "Brian Higginson🇬🇧",
+          "screen_name": "BrianDavidHigg1",
+          "location": "Lisburn, Northern Ireland",
+          "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2638,
+          "friends_count": 4998,
+          "listed_count": 3,
+          "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+          "favourites_count": 15971,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3280,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 21 11:01:13 +0000 2019",
+      "id": 1197470011801120800,
+      "id_str": "1197470011801120768",
+      "text": "The following is a\nStatement issued by the Mid Ulster Concerned Unionist Movement following last night's meeting in… https://t.co/WeyomZrCM6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WeyomZrCM6",
+            "expanded_url": "https://twitter.com/i/web/status/1197470011801120768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1008450552492101600,
+        "id_str": "1008450552492101632",
+        "name": "Brian Higginson🇬🇧",
+        "screen_name": "BrianDavidHigg1",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Op Banner UDR CGC Veteran, Pro Brexit UK Unionist,interests include Politics, Culture, British & Irish History.🇬🇧",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2638,
+        "friends_count": 4998,
+        "listed_count": 3,
+        "created_at": "Sun Jun 17 20:45:22 +0000 2018",
+        "favourites_count": 15971,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3280,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198324954732871687/PGsrtb6T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008450552492101632/1574016075",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.071,
+    "max_id": 1198365845170376700,
+    "max_id_str": "1198365845170376706",
+    "next_results": "?max_id=1197470011801120767&q=Boris%20Johnson&geocode=54.512%2C-6.031%2C4.166666667mi&count=100&include_entities=1",
+    "query": "Boris+Johnson",
+    "refresh_url": "?since_id=1198365845170376706&q=Boris%20Johnson&geocode=54.512%2C-6.031%2C4.166666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

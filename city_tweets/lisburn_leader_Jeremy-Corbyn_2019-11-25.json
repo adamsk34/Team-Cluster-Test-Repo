@@ -1,0 +1,370 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sun Nov 24 01:03:52 +0000 2019",
+      "id": 1198406846291333000,
+      "id_str": "1198406846291333120",
+      "text": "@petersingh206 The Israel, Jew Hating, H.M Armed Forces Hater, United Kingdom Detester.\nThe one and only useless ne… https://t.co/9Dfik9pFdo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "petersingh206",
+            "name": "M.K. Sikh.",
+            "id": 815350219940438000,
+            "id_str": "815350219940438016",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9Dfik9pFdo",
+            "expanded_url": "https://twitter.com/i/web/status/1198406846291333120",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198340352824021000,
+      "in_reply_to_status_id_str": "1198340352824020992",
+      "in_reply_to_user_id": 815350219940438000,
+      "in_reply_to_user_id_str": "815350219940438016",
+      "in_reply_to_screen_name": "petersingh206",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 511,
+        "friends_count": 571,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 19 17:13:41 +0000 2019",
+      "id": 1196838969952084000,
+      "id_str": "1196838969952083969",
+      "text": "Chip shop staff still stuck at work 20 hours after asking Jeremy Corbyn if he wants salt and vinegar… https://t.co/fbG8i6Xxsm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fbG8i6Xxsm",
+            "expanded_url": "https://twitter.com/i/web/status/1196838969952083969",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42294035,
+        "id_str": "42294035",
+        "name": "David Archer",
+        "screen_name": "davidarcherNI",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Son, brother, friend. Tom Hanks lookalike. Spreading #news in #Arts #Entertainment #Sports #Technology! Op Weeting survivor! Born Zimbabwe, bred Lisburn.",
+        "url": "https://t.co/mgAyx4gDGh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mgAyx4gDGh",
+                "expanded_url": "http://facebook.com/cllrdavidarcher",
+                "display_url": "facebook.com/cllrdavidarcher",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3323,
+        "friends_count": 5001,
+        "listed_count": 88,
+        "created_at": "Sun May 24 22:24:59 +0000 2009",
+        "favourites_count": 24819,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25705,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42294035/1553978734",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Nov 17 21:20:35 +0000 2019",
+      "id": 1196176329504362500,
+      "id_str": "1196176329504362498",
+      "text": "Jeremy Corbyn hints he wants united Ireland as he celebrates ‘growing integration’ @Daily_Express… https://t.co/Fyu6zPh3cc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Daily_Express",
+            "name": "Daily Express",
+            "id": 17895820,
+            "id_str": "17895820",
+            "indices": [
+              83,
+              97
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Fyu6zPh3cc",
+            "expanded_url": "https://twitter.com/i/web/status/1196176329504362498",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42294035,
+        "id_str": "42294035",
+        "name": "David Archer",
+        "screen_name": "davidarcherNI",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Son, brother, friend. Tom Hanks lookalike. Spreading #news in #Arts #Entertainment #Sports #Technology! Op Weeting survivor! Born Zimbabwe, bred Lisburn.",
+        "url": "https://t.co/mgAyx4gDGh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mgAyx4gDGh",
+                "expanded_url": "http://facebook.com/cllrdavidarcher",
+                "display_url": "facebook.com/cllrdavidarcher",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3323,
+        "friends_count": 5001,
+        "listed_count": 88,
+        "created_at": "Sun May 24 22:24:59 +0000 2009",
+        "favourites_count": 24819,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25705,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/823530976093605889/9vDX5vmV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42294035/1553978734",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.055,
+    "max_id": 1198406846291333000,
+    "max_id_str": "1198406846291333120",
+    "next_results": "?max_id=1196176329504362497&q=Jeremy%20Corbyn&geocode=54.512%2C-6.031%2C4.166666667mi&count=100&include_entities=1",
+    "query": "Jeremy+Corbyn",
+    "refresh_url": "?since_id=1198406846291333120&q=Jeremy%20Corbyn&geocode=54.512%2C-6.031%2C4.166666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

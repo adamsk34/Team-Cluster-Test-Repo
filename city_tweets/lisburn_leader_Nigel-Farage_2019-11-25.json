@@ -1,0 +1,443 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sat Nov 23 22:20:56 +0000 2019",
+      "id": 1198365845170376700,
+      "id_str": "1198365845170376706",
+      "text": "@77Pnk @derry_milk The World is so much Better,\nBecause of.\nPresident Donald Trump.\nThe British.\nBoris Johnson\nNige… https://t.co/B9XbqlLFAp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "77Pnk",
+            "name": "Rich '77 punk",
+            "id": 3832449497,
+            "id_str": "3832449497",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "derry_milk",
+            "name": "Barry - Banned by Tw1tter Again!",
+            "id": 414176982,
+            "id_str": "414176982",
+            "indices": [
+              7,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/B9XbqlLFAp",
+            "expanded_url": "https://twitter.com/i/web/status/1198365845170376706",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197816590768726000,
+      "in_reply_to_status_id_str": "1197816590768726021",
+      "in_reply_to_user_id": 3832449497,
+      "in_reply_to_user_id_str": "3832449497",
+      "in_reply_to_screen_name": "77Pnk",
+      "user": {
+        "id": 744942728883085300,
+        "id_str": "744942728883085312",
+        "name": "Alan Elliott",
+        "screen_name": "AlanEll93922619",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Grumpy, Serious, loving, Loyal",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 511,
+        "friends_count": 571,
+        "listed_count": 3,
+        "created_at": "Mon Jun 20 17:19:21 +0000 2016",
+        "favourites_count": 7613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748993949835157505/16KPM25X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "47a23216f71387fd",
+        "url": "https://api.twitter.com/1.1/geo/id/47a23216f71387fd.json",
+        "place_type": "city",
+        "name": "Lisburn",
+        "full_name": "Lisburn, Northern Ireland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.1087884,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.4943635
+              ],
+              [
+                -6.0159191,
+                54.5376978
+              ],
+              [
+                -6.1087884,
+                54.5376978
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 18:05:51 +0000 2019",
+      "id": 1197939263016452000,
+      "id_str": "1197939263016452102",
+      "text": "@anthea_bailey @Nigel_Farage He's 18 not 8. Makes his own mind up. Doesn't listen to bollox from other people.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anthea_bailey",
+            "name": "Anthea Bailey",
+            "id": 906933410,
+            "id_str": "906933410",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "Nigel_Farage",
+            "name": "Nigel Farage",
+            "id": 19017675,
+            "id_str": "19017675",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1197937689640788000,
+      "in_reply_to_status_id_str": "1197937689640787969",
+      "in_reply_to_user_id": 906933410,
+      "in_reply_to_user_id_str": "906933410",
+      "in_reply_to_screen_name": "anthea_bailey",
+      "user": {
+        "id": 1100114051223433200,
+        "id_str": "1100114051223433216",
+        "name": "N.I.Veteran",
+        "screen_name": "GanglSepp",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Supporting N.I.Veterans from History being rewritten by terrorists. If you have FBPE in your title-GO AWAY!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1071,
+        "friends_count": 806,
+        "listed_count": 1,
+        "created_at": "Mon Feb 25 19:23:23 +0000 2019",
+        "favourites_count": 15004,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9827,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100114051223433216/1574086467",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 22 17:16:06 +0000 2019",
+      "id": 1197926742238867500,
+      "id_str": "1197926742238867456",
+      "text": "My son is 18. He asked me who he should vote for. I persuaded him to watch each of the party broadcasts so far. He'… https://t.co/ZrKzw5oLS1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZrKzw5oLS1",
+            "expanded_url": "https://twitter.com/i/web/status/1197926742238867456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1100114051223433200,
+        "id_str": "1100114051223433216",
+        "name": "N.I.Veteran",
+        "screen_name": "GanglSepp",
+        "location": "Lisburn, Northern Ireland",
+        "description": "Supporting N.I.Veterans from History being rewritten by terrorists. If you have FBPE in your title-GO AWAY!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1071,
+        "friends_count": 806,
+        "listed_count": 1,
+        "created_at": "Mon Feb 25 19:23:23 +0000 2019",
+        "favourites_count": 15004,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9827,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196431489396817920/3MYogQGG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100114051223433216/1574086467",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 18 13:32:01 +0000 2019",
+      "id": 1196420799403569200,
+      "id_str": "1196420799403569154",
+      "text": "@Nigel_Farage True",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nigel_Farage",
+            "name": "Nigel Farage",
+            "id": 19017675,
+            "id_str": "19017675",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1196390338002346000,
+      "in_reply_to_status_id_str": "1196390338002345984",
+      "in_reply_to_user_id": 19017675,
+      "in_reply_to_user_id_str": "19017675",
+      "in_reply_to_screen_name": "Nigel_Farage",
+      "user": {
+        "id": 712936511,
+        "id_str": "712936511",
+        "name": "Jean",
+        "screen_name": "Jean18151824",
+        "location": "Lisburn, Northern Ireland",
+        "description": "watching world economy",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 100,
+        "friends_count": 357,
+        "listed_count": 0,
+        "created_at": "Sun Oct 13 15:49:32 +0000 2013",
+        "favourites_count": 2739,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13193,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/989482407656153088/kwpvylCE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/989482407656153088/kwpvylCE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.028,
+    "max_id": 1198365845170376700,
+    "max_id_str": "1198365845170376706",
+    "next_results": "?max_id=1196420799403569153&q=Nigel%20Farage&geocode=54.512%2C-6.031%2C4.166666667mi&count=100&include_entities=1",
+    "query": "Nigel+Farage",
+    "refresh_url": "?since_id=1198365845170376706&q=Nigel%20Farage&geocode=54.512%2C-6.031%2C4.166666667mi&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

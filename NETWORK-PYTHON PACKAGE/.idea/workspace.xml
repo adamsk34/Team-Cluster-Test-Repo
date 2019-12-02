@@ -18,15 +18,17 @@
   <component name="ProjectId" id="1TcRLI8dR3mMRROgd6AAiWepQsC" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Calculated data" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\Calculated data" />
+      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE" />
       <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\data" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\Calculated data" />
       <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\data" />
     </key>
   </component>
@@ -88,6 +90,7 @@
       <workItem from="1574189896016" duration="4558000" />
       <workItem from="1574205666512" duration="1430000" />
       <workItem from="1575067516924" duration="8600000" />
+      <workItem from="1575155247251" duration="9410000" />
     </task>
     <servers />
   </component>
@@ -95,7 +98,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NETWORK_PYTHON_PACKAGE$SNA.coverage" NAME="SNA Coverage Results" MODIFIED="1575136365904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NETWORK_PYTHON_PACKAGE$SNA.coverage" NAME="SNA Coverage Results" MODIFIED="1575325701820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$SNA.coverage" NAME="SNA Coverage Results" MODIFIED="1573760543396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

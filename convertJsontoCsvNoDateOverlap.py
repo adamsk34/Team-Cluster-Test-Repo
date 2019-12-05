@@ -5,6 +5,8 @@ import csv
 import os
 import datetime
 
+# This file is similar to convertJsonCsv.py except tweets in output files all share the same date
+
 files = glob.glob("./city_tweets/*.json")
 
 uk_hour_diff = 6
@@ -16,6 +18,7 @@ folder_to_save = "./tweets_csv/no_date_overlap2/" + uk_date_str + "/"
 
 def main():
 
+    # Reading each files in the folder
     for file_path in files:
         with open(file_path, "r") as file:
 
@@ -62,6 +65,7 @@ def isDate(tweet_time, date):
     return date_str in tweet_time
 
 
+#  Writing the csv file
 def writeInCsv(file_to_save: str,  data: list) -> None:
 
     with open(file_to_save, 'a') as csvFile:
@@ -81,6 +85,7 @@ def writeInCsv(file_to_save: str,  data: list) -> None:
     csvFile.close()
 
 
+# Extracting the city name, party, and leader from the file name.
 def getCityAndQuery(file_name: str) -> tuple:
 
     splited_file_name = file_name.split('_')

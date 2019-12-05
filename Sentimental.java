@@ -15,6 +15,8 @@ public class Sentimental {
 
   public static void main(String[] args) {
 
+    System.out.println("Sentimental Analysis started sucessfully");
+
     /************************************************************************************************
      * **********READS THE AFINN-111.CSV AND CREATS A HASH MAP WHERE THE WORD IS THE
      * KEY*************** *****************AND THE CORESSPONDING SENTIMENTAL VALUE
@@ -73,16 +75,18 @@ public class Sentimental {
     int date = 18;
 
     for (int b = 1; b < batches + 1; b++) {
+      System.out.println("Reading 2019_11_" + date + " directory");
+      System.out.println("Writting B" + b + " directory");
       for (int c = 0; c < city.length; c++) {
 
         try {
           String path = System.getProperty("user.dir");
 
           FileReader fileRdr_2 = new FileReader(
-              path + "\\tweets_csv\\no_date_overlap\\2019_11_" + date + "\\" + city[c] + ".csv");
-          new File(path + "\\SENTIMENT_DATA\\B" + b).mkdirs();
+              path + "/tweets_csv/no_date_overlap/2019_11_" + date + "/" + city[c] + ".csv");
+          new File(path + "/SENTIMENT_DATA/B" + b).mkdirs();
           PrintWriter outFile = new PrintWriter(
-              new FileWriter(path + "\\SENTIMENT_DATA\\B" + b + "\\" + city[c] + "Sentiment.csv"));
+              new FileWriter(path + "/SENTIMENT_DATA/B" + b + "/" + city[c] + "Sentiment.csv"));
           outFile.println("City," + "Party," + "Leader," + "Sentiment Value");
           // Open a BufferedReader.
           BufferedReader inFile_2 = new BufferedReader(fileRdr_2);
@@ -128,6 +132,7 @@ public class Sentimental {
       } // for changing city
       date++;
     } // for changing directory
+    System.out.println("Sentimental Analysis ended sucessfully");
   }// main
 
   /*

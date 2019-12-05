@@ -37,4 +37,11 @@ This will create a folder named as current UK date. In side that folder it will 
 
 Each csv file have five columns ['city', 'party', 'leader', 'tweet', 'tweet_time'] extracted from the JSON file. 
 
+If you want to organize the tweets by date, run the following:
+```
+python convertJsontoCsvNoDateOverlap.py
+```
 
+## Sentimental Analysis
+
+[SentimentREADME.md](SentimentREADME.md) is a readme file that explains [Sentimental.java](Sentimental.java)

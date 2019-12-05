@@ -3,3 +3,4 @@ out.json
 node_modules
 city_tweets/*.json
 !city_tweets/.gitkeep
+SENTIMENT_DATA

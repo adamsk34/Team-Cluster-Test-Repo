@@ -25,7 +25,7 @@ Run the following command to take tweet data from twitter and put it in JSON fil
 node index.js
 ```
 
-### Clean up json
+### Cleaning up json
 
 Run the following command
 

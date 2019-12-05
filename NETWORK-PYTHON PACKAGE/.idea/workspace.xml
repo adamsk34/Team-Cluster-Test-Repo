@@ -1,7 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19d8dc94-855d-4dde-bcd8-59713a1746ac" name="Default Changelist" comment="" />
+    <list default="true" id="19d8dc94-855d-4dde-bcd8-59713a1746ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B1/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B10/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B11/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B12/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B2/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B3/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B4/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B5/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B6/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B7/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B8/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/aberdeenSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/belfastSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/birminghamSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/cardiffSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/derrySentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/edinburghSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/glasgowSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/lisburnSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/liverpoolSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/londonSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/newportSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculated data/B9/swanseaSentiment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SNA.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNA.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,20 +163,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TcRLI8dR3mMRROgd6AAiWepQsC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Calculated data" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\Calculated data" />
-      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE" />
-      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\data" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\Calculated data" />
+      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jake\Documents\GitHub\Team-Cluster-Test-Repo\NETWORK-PYTHON PACKAGE\Calculated data" />
+      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\Calculated data" />
+      <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE" />
       <recent name="C:\Users\Jake\PycharmProjects\NETWORK-PYTHON PACKAGE\data" />
     </key>
   </component>
@@ -91,14 +245,26 @@
       <workItem from="1574205666512" duration="1430000" />
       <workItem from="1575067516924" duration="8600000" />
       <workItem from="1575155247251" duration="9410000" />
+      <workItem from="1575399618266" duration="4975000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NETWORK_PYTHON_PACKAGE$SNA.coverage" NAME="SNA Coverage Results" MODIFIED="1575325701820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NETWORK_PYTHON_PACKAGE$SNA.coverage" NAME="SNA Coverage Results" MODIFIED="1575404151172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$SNA.coverage" NAME="SNA Coverage Results" MODIFIED="1573760543396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

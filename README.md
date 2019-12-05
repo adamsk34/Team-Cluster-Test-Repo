@@ -17,7 +17,24 @@ npm install
 Rename the file [config-example.json](./config-example.json) to `"config.json"`. Fill in all the keys with what's in a pinned message in the #general slack channel.
 
 ## Running the code
+
+### Getting the tweets
+
 Run the following command to take tweet data from twitter and put it in JSON files in the directory `city_tweets/`
 ```
 node index.js
 ```
+
+### Clean up json
+
+Run the following command
+
+```
+python convertJsontoCsv.py
+```
+
+This will create a folder named as current UK date. In side that folder it will create csv file for each cities. 
+
+Each csv file have five columns ['city', 'party', 'leader', 'tweet', 'tweet_time'] extracted from the JSON file. 
+
+

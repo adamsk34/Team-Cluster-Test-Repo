@@ -1,5 +1,4 @@
 import networkx as nx
-import matplotlib.pyplot as plt
 import os
 
 
@@ -149,15 +148,13 @@ print("liberalDemocratWeight with time fading ", totalLiberalDemocratWeightTF, "
 
 
 # printing nodes
-print("Print all Nodes")
-print(G.nodes())
-print("Print all edges")
-print(G.edges())
+#print("Print all Nodes")
+#print(G.nodes())
+#print("Print all edges")
+#print(G.edges())
 
 
 
-print("londons total tweets: ", london)
-print("liverpool total tweets: ", liverpool)
 
 
 

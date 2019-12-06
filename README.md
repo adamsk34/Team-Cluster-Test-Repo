@@ -45,3 +45,24 @@ python convertJsontoCsvNoDateOverlap.py
 ## Sentimental Analysis
 
 [SentimentREADME.md](SentimentREADME.md) is a readme file that explains [Sentimental.java](Sentimental.java)
+
+## Network Analysis 
+
+Contained in the directory `NETWORK-PYTHON PACKAGE/`
+## Setup
+
+Insert sentimental data into Calculated data folder
+Will need to install the package networkx
+
+## Running the code 
+```
+Run SNA.py
+```
+## Description 
+
+Using the networkx package creates a network of nodes and edges, with edges being the weights of how much sentimental value gets added for each political party. 
+
+It will read the contents of the directory `Calculated data/`  
+
+Results are printed to console 
+

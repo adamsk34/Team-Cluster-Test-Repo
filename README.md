@@ -3,6 +3,17 @@
 
 Simple repo for collecting twitter data
 
+## This Repository Contains Data
+
+* Raw Twitter Data
+    * `city_tweets/` contains responses from the Twitter API when running [index.js](index.js).
+* Tweets and Meta Data
+    * `tweets_csv/no_date_overlap/` contains output from running [convertJsontoCsvNoDateOverlap.py](convertJsontoCsvNoDateOverlap.py)
+* Words and Sentimental Value
+    * [AFINN-111.csv](AFINN-111.csv) contains words and associated sentimental value
+* Sentiment of Tweets
+    * `NETWORK-PYTHON PACKAGE/Calculated data/` contains batches of tweets (organized by date). Batches contain files with  sentimental scores of leaders and parties derived from the tweets, and meta data.
+
 ## Dependencies
 * npm 6.7.0
 * node 8.10.0

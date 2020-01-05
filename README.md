@@ -1,7 +1,7 @@
 
 # Team Cluster Test Repo
 
-Simple repo for collecting twitter data
+This repo contains twitter data and code for collecting and processing it. The goal of this project is to predict the outcome of the 2019 United Kingdom general election.
 
 ## This Repository Contains Data
 

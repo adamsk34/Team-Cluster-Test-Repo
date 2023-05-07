@@ -42,7 +42,7 @@
     "performance-now": "^2.1.0",
     "psl": "^1.4.0",
     "punycode": "^1.4.1",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "request": "^2.88.0",
     "safe-buffer": "^5.2.0",
     "safer-buffer": "^2.1.2",
